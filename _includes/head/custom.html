@@ -91,6 +91,15 @@ body { font-size: calc(1rem * var(--t-font-scale)); }
   white-space: nowrap;
 }
 .dropdown-menu a:hover { background: #f6f2ec; color: #8a6d3b !important; }
+/* Sfondo sottomenu: bianco (hover beige chiarissimo), niente marrone scuro del tema */
+.greedy-nav .dropdown-menu,
+.greedy-nav .hidden-links,
+.greedy-nav .has-dropdown .dropdown-menu { background: #fff !important; border-color: #eee !important; }
+.greedy-nav .dropdown-menu a,
+.greedy-nav .hidden-links a,
+.greedy-nav .hidden-links li { background: #fff !important; color: #333 !important; }
+.greedy-nav .dropdown-menu a:hover,
+.greedy-nav .hidden-links a:hover { background: #f6f2ec !important; color: #8a6d3b !important; }
 .dropdown-menu .dropdown-sep {
   border-top: 1px solid #eee;
   margin: 4px 0;
