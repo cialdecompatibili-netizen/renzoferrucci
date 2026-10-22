@@ -1,0 +1,99 @@
+related_posts: 3
+email: ""
+description: "Villa a Mentana, zona Mezzaluna, vicino Roma: 3 appartamenti con cucina, 18 posti letto e giardino. B&B, camere a notte, soggiorni lunghi e villa intera."
+minimal_mistakes_skin: default
+search: true
+
+# SEO globale
+author:
+  name: ""
+
+social:
+  links: []
+
+
+markdown: kramdown
+remote_theme: mmistakes/minimal-mistakes
+exclude:
+  - vendor
+  - docs
+
+permalink: /:categories/:title/
+
+timezone:
+
+collections:
+  products:
+    output: false
+    permalink: /shop/:name/
+  servizi:
+    output: true
+    permalink: /servizi/:name/
+  progetti:
+    output: true
+    permalink: /progetti/:name/
+
+include:
+  - _pages
+
+plugins:
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+  - jekyll-include-cache
+
+footer:
+  links: []
+
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: false
+      read_time: true
+      comments: true
+      share: true
+      related: true
+  - scope:
+      path: "_pages"
+      type: pages
+    values:
+      layout: single
+      author_profile: false
+  - scope:
+      path: ""
+      type: products
+    values:
+      layout: product
+      classes: wide
+  - scope:
+      path: ""
+      type: servizi
+    values:
+      layout: single
+      author_profile: false
+      read_time: true
+      share: true
+  - scope:
+      path: ""
+      type: progetti
+    values:
+      layout: single
+      author_profile: false
+
+category_archive:
+  type: liquid
+  path: /categories/
+tag_archive:
+  type: liquid
+  path: /tags/
+
+cms_homepage:
+
+# Numero WhatsApp con prefisso, senza + e senza spazi (es. 393331234567). Vuoto = bottone nascosto
+whatsapp: ""
+# Indirizzo del servizio che inoltra il modulo di contatto (worker). Vuoto = il modulo non appare.
+contact_endpoint: ""

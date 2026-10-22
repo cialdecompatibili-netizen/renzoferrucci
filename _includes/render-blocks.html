@@ -1,0 +1,12 @@
+{% comment %}
+  Include generico per il box system. Stampa i box attivi, in ordine, di un file _data/blocks_*.json.
+  Uso: {% include render-blocks.html data="blocks_home" %}
+  Box dinamici: id "features" (Servizi, se esiste almeno un file in _servizi) e id "progetti" (Lavori svolti, da _progetti)
+  leggono le collection e NON usano il campo html. Gestione contenuti: admin > Servizi / Progetti.
+{% endcomment %}
+{% assign blocks = site.data[include.data] %}
+{% for block in blocks %}{% if block.enabled %}
+{% if block.id == 'features' and site.servizi.size > 0 %}{% include home-servizi.html %}
+{% elsif block.id == 'progetti' %}{% include home-progetti.html %}
+{% else %}{{ block.html | replace: '__BASEURL__', site.baseurl }}{% endif %}
+{% endif %}{% endfor %}

@@ -1,0 +1,229 @@
+# Foto reali dei cantieri EdilExtreme. Generato da claudetemp/build_foto.py - t = temi (usati da _includes/ex-galleria.html), team = Andrew in arancione
+- f: "muffa-umidita-parete-interna-radiatore"
+  cap: "Muffa umidita parete interna radiatore"
+  t: [impermeabilizzazione]
+  team: false
+  w: 1334
+  h: 877
+- f: "muffa-umidita-parete-interna-pianta"
+  cap: "Muffa umidita parete interna pianta"
+  t: [impermeabilizzazione]
+  team: false
+  w: 994
+  h: 557
+- f: "lavori-su-fune-facciata-mattoni-grondaia-andrew-arancione"
+  cap: "Lavori su fune facciata mattoni grondaia"
+  t: [grondaie, facciate, team]
+  team: true
+  w: 718
+  h: 687
+- f: "operai-su-fune-cornicione-palazzo"
+  cap: "Operai su fune cornicione palazzo"
+  t: [facciate]
+  team: false
+  w: 1060
+  h: 751
+- f: "tinteggiatura-facciata-su-fune-due-operai-tute-blu"
+  cap: "Tinteggiatura facciata su fune due operai tute blu"
+  t: [tinteggiatura, facciate]
+  team: false
+  w: 1056
+  h: 713
+- f: "ispezione-tetto-coppi-chiesa-su-fune-andrew-arancione"
+  cap: "Ispezione tetto coppi chiesa su fune"
+  t: [tetti, team]
+  team: true
+  w: 1400
+  h: 788
+- f: "drone-tetto-chiesa-campanili-manutenzione"
+  cap: "Drone tetto chiesa campanili manutenzione"
+  t: [tetti]
+  team: false
+  w: 1400
+  h: 788
+- f: "pulizia-tetto-balcone-su-fune-andrew-arancione"
+  cap: "Pulizia tetto balcone su fune"
+  t: [tetti, facciate, team]
+  team: true
+  w: 1400
+  h: 533
+- f: "lavori-facciata-cornicione-su-fune-andrew-arancione"
+  cap: "Lavori facciata cornicione su fune"
+  t: [facciate, team]
+  team: true
+  w: 1400
+  h: 788
+- f: "pulizia-tetto-coppi-muschio-drone"
+  cap: "Pulizia tetto coppi muschio drone"
+  t: [tetti]
+  team: false
+  w: 1400
+  h: 788
+- f: "pulizia-tetto-coppi-camini-operaio"
+  cap: "Pulizia tetto coppi camini operaio"
+  t: [tetti]
+  team: false
+  w: 1400
+  h: 788
+- f: "pulizia-vetri-facciata-su-fune-operaio"
+  cap: "Pulizia vetri facciata su fune operaio"
+  t: [vetri, facciate]
+  team: false
+  w: 1400
+  h: 840
+- f: "impermeabilizzazione-guaina-tetto-piano"
+  cap: "Impermeabilizzazione guaina tetto piano"
+  t: [tetti, impermeabilizzazione]
+  team: false
+  w: 1050
+  h: 1400
+- f: "ristrutturazione-balconi-su-fune-cestello-andrew-arancione"
+  cap: "Ristrutturazione balconi su fune cestello"
+  t: [facciate, team]
+  team: true
+  w: 1400
+  h: 1400
+- f: "ripristino-facciata-cornicione-su-fune-andrew-arancione"
+  cap: "Ripristino facciata cornicione su fune"
+  t: [facciate, team]
+  team: true
+  w: 766
+  h: 915
+- f: "bonifica-comignolo-tetto-tuta-bianca"
+  cap: "Bonifica comignolo tetto tuta bianca"
+  t: [tetti]
+  team: false
+  w: 1400
+  h: 1400
+- f: "rifacimento-tetto-guaina-tegole-panorama"
+  cap: "Rifacimento tetto guaina tegole panorama"
+  t: [tetti, impermeabilizzazione]
+  team: false
+  w: 1400
+  h: 1052
+- f: "impermeabilizzazione-terrazzo-guaina-ghiaia"
+  cap: "Impermeabilizzazione terrazzo guaina ghiaia"
+  t: [impermeabilizzazione, facciate]
+  team: false
+  w: 1400
+  h: 1050
+- f: "edificio-mattoni-terrazzo-vista-alto-2-andrew-arancione"
+  cap: "Edificio mattoni terrazzo vista alto"
+  t: [facciate, team]
+  team: true
+  w: 1400
+  h: 788
+- f: "pulizia-scarpata-vegetazione-su-fune-andrew-arancione"
+  cap: "Pulizia scarpata vegetazione su fune"
+  t: [verde, team]
+  team: true
+  w: 1400
+  h: 1050
+- f: "lavori-su-terrazzo-copertura-su-fune-andrew-arancione"
+  cap: "Lavori su terrazzo copertura su fune"
+  t: [tetti, facciate, team]
+  team: true
+  w: 787
+  h: 1400
+- f: "tinteggiatura-balcone-su-fune-andrew-arancione"
+  cap: "Tinteggiatura balcone su fune"
+  t: [tinteggiatura, facciate, team]
+  team: true
+  w: 1400
+  h: 1400
+- f: "operatore-su-tetto-cupola-roma-andrew-arancione"
+  cap: "Operatore su tetto cupola roma"
+  t: [tetti, team]
+  team: true
+  w: 630
+  h: 1400
+- f: "lavori-sotto-gronda-su-fune"
+  cap: "Lavori sotto gronda su fune"
+  t: [grondaie]
+  team: false
+  w: 1050
+  h: 1400
+- f: "tinteggiatura-facciata-gronda-su-fune"
+  cap: "Tinteggiatura facciata gronda su fune"
+  t: [tinteggiatura, grondaie, facciate]
+  team: false
+  w: 1400
+  h: 788
+- f: "tinteggiatura-facciata-balcone-su-fune"
+  cap: "Tinteggiatura facciata balcone su fune"
+  t: [tinteggiatura, facciate]
+  team: false
+  w: 1400
+  h: 788
+- f: "pulizia-gronda-su-fune-scala"
+  cap: "Pulizia gronda su fune scala"
+  t: [grondaie]
+  team: false
+  w: 1400
+  h: 788
+- f: "tinteggiatura-facciata-cieca-su-fune-1"
+  cap: "Tinteggiatura facciata cieca su fune"
+  t: [tinteggiatura, facciate]
+  team: false
+  w: 1400
+  h: 788
+- f: "tinteggiatura-facciata-cieca-su-fune-3"
+  cap: "Tinteggiatura facciata cieca su fune"
+  t: [tinteggiatura, facciate]
+  team: false
+  w: 1400
+  h: 788
+- f: "pulizia-vegetazione-grondaia-su-fune"
+  cap: "Pulizia vegetazione grondaia su fune"
+  t: [grondaie, verde]
+  team: false
+  w: 940
+  h: 423
+- f: "lavori-balcone-su-fune-vista-verticale"
+  cap: "Lavori balcone su fune vista verticale"
+  t: [facciate]
+  team: false
+  w: 630
+  h: 1400
+- f: "tinteggiatura-parete-su-fune-montagna"
+  cap: "Tinteggiatura parete su fune montagna"
+  t: [tinteggiatura, facciate]
+  team: false
+  w: 1400
+  h: 630
+- f: "ispezione-parete-cieca-su-fune"
+  cap: "Ispezione parete cieca su fune"
+  t: [facciate]
+  team: false
+  w: 630
+  h: 1400
+- f: "tinteggiatura-balcone-su-fune-primo-piano-andrew-arancione"
+  cap: "Tinteggiatura balcone su fune primo piano"
+  t: [tinteggiatura, facciate, team]
+  team: true
+  w: 701
+  h: 645
+- f: "pulizia-grondaia-chiesa-su-fune-andrew-arancione"
+  cap: "Pulizia grondaia chiesa su fune"
+  t: [grondaie, team]
+  team: true
+  w: 921
+  h: 353
+- f: "pulizia-vetri-facciata-su-fune-giallo"
+  cap: "Pulizia vetri facciata su fune giallo"
+  t: [vetri, facciate]
+  team: false
+  w: 1400
+  h: 840
+- f: "lavori-su-fune-sotto-balcone-andrew-arancione"
+  cap: "Lavori su fune sotto balcone"
+  t: [facciate, team]
+  team: true
+  w: 1400
+  h: 532
+- f: "potatura-albero-su-fune"
+  cap: "Potatura albero su fune"
+  t: [verde]
+  team: false
+  w: 1400
+  h: 588

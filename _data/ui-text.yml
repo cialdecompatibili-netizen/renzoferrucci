@@ -1,0 +1,49 @@
+# Traduzioni interfaccia tema Minimal Mistakes (Italiano)
+en: &DEFAULT_EN
+  skip_links                    : "Vai alla navigazione principale"
+  search_label                  : "Cerca"
+  toggle_menu_label             : "Apri/chiudi menu"
+  toggle_search_label           : "Apri/chiudi ricerca"
+  search_placeholder            : "Cerca"
+  results_found                 : "Risultati trovati"
+  back_to_top                   : "Torna su"
+
+  date_label                    : "Aggiornato:"
+  comments_label                : "Lascia un commento"
+  comments_title                : "Commenti"
+  more_label                    : "Scopri di più"
+  minute_read                   : "minuti di lettura"
+  less_than                     : "meno di"
+  share_on_label                : "Condividi su"
+  meta_label                    :
+  tags_label                    : "Tag:"
+  categories_label              : "Categorie:"
+  pagination_previous           : "Precedente"
+  pagination_next               : "Successivo"
+  breadcrumb_home_label         : "Home"
+  breadcrumb_separator          : "/"
+
+  toc_label                     : "In questa pagina"
+  related_label                 : "Potrebbe interessarti anche"
+
+  ext_link_label                : "Link diretto"
+  edit_on_github                : "Modifica su GitHub"
+  edit_link_label               : "Modifica su GitHub"
+
+  follow_label                  : "Segui:"
+  feed_label                    : "Feed"
+  powered_by                    : "Realizzato con"
+  hosted_by                     : "Hosting di"
+
+  comment_form_info             : "L'indirizzo email non sarà pubblicato. I campi obbligatori sono contrassegnati"
+  comment_form_comment_label    : "Commento"
+  comment_form_md_info          : "Il formato Markdown è supportato."
+  comment_form_name_label       : "Nome"
+  comment_form_email_label      : "Indirizzo email"
+  comment_form_website_label    : "Sito web (opzionale)"
+  comment_btn_submit            : "Invia commento"
+  comment_btn_submitted         : "Inviato"
+  comment_success_msg           : "Grazie per il tuo commento. Potrebbe richiedere un po' per apparire."
+  comment_error_msg             : "Si è verificato un errore con il tuo messaggio. Riprovare?"
+
+  loading_label                 : "Caricamento..."

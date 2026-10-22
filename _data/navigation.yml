@@ -1,0 +1,9 @@
+main:
+  - title: "Home"
+    url: /
+  - title: "La Villa"
+    url: /#piani
+  - title: "Blog"
+    url: /blog/
+  - title: "Contatti"
+    url: /contatti/

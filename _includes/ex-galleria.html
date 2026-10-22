@@ -1,0 +1,36 @@
+{%- comment -%} Galleria foto reali (_data/foto.yml). Parametri: temi="tetti,grondaie" | tutte=true | max=6 | titolo | sottotitolo | gruppo {%- endcomment -%}
+{%- assign max = include.max | default: 6 -%}
+{%- assign temi = include.temi | default: "team" | split: "," -%}
+{%- assign n = 0 -%}
+{%- unless include.tutte -%}
+{%- for f in site.data.foto -%}{%- for t in temi -%}{%- if f.t contains t -%}{%- assign n = n | plus: 1 -%}{%- break -%}{%- endif -%}{%- endfor -%}{%- endfor -%}
+{%- if n < 2 -%}{%- assign temi = "team" | split: "," -%}{%- endif -%}
+{%- endunless -%}
+{%- assign gr = include.gruppo | default: "gal" -%}
+{%- assign shown = 0 -%}
+<section class="exg"{% if include.tutte %} id="galleria"{% endif %} aria-label="Foto dei nostri lavori">
+<h2 class="exg-h">{{ include.titolo | default: "Foto dai nostri cantieri" }}</h2>
+<p class="exg-s">{{ include.sottotitolo | default: "Persone reali, al lavoro su fune. Clicca una foto per ingrandirla." }}</p>
+{%- if include.tutte %}
+<div class="exg-f" role="group" aria-label="Filtra per tipo di lavoro">
+<button type="button" class="on" data-f="tutte">Tutti</button>
+<button type="button" data-f="tinteggiatura">Tinteggiature</button>
+<button type="button" data-f="tetti">Tetti</button>
+<button type="button" data-f="impermeabilizzazione">Impermeabilizzazioni</button>
+<button type="button" data-f="grondaie">Grondaie</button>
+<button type="button" data-f="facciate">Facciate e balconi</button>
+<button type="button" data-f="vetri">Vetri</button>
+<button type="button" data-f="verde">Verde e potature</button>
+</div>
+{%- endif %}
+<div class="exg-g">
+{%- for f in site.data.foto -%}
+{%- assign ok = false -%}
+{%- if include.tutte -%}{%- assign ok = true -%}{%- else -%}{%- for t in temi -%}{%- if f.t contains t -%}{%- assign ok = true -%}{%- break -%}{%- endif -%}{%- endfor -%}{%- endif -%}
+{%- if ok and shown < max or ok and include.tutte -%}
+{%- assign shown = shown | plus: 1 -%}
+<figure class="exg-i" data-t="{{ f.t | join: ' ' }}"><a href="{{ '/assets/foto/' | append: f.f | append: '.jpg' | relative_url }}" data-lb="{{ gr }}" data-cap="{{ f.cap | escape }}" aria-label="Ingrandisci: {{ f.cap | escape }}"><img src="{{ '/assets/foto/t/' | append: f.f | append: '.jpg' | relative_url }}" alt="{{ f.cap | escape }} - EdilExtreme" width="480" height="360" loading="lazy" decoding="async"></a><figcaption>{{ f.cap }}</figcaption></figure>
+{%- endif -%}
+{%- endfor -%}
+</div>
+</section>

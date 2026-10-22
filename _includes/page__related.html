@@ -1,0 +1,16 @@
+{% if page.related %}
+<div class="page__related">
+  <h2 class="page__related-title">{{ site.data.ui-text[site.locale].related_label | default: "You May Also Enjoy" }}</h2>
+  <div class="grid__wrapper">
+    {% assign count = 0 %}
+    {% for post in site.posts %}
+      {% unless post.id == page.id %}
+        {% if count < 3 %}
+          {% assign count = count | plus: 1 %}
+          {% include archive-single.html type="grid" %}
+        {% endif %}
+      {% endunless %}
+    {% endfor %}
+  </div>
+</div>
+{% endif %}
