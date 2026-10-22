@@ -2,9 +2,9 @@
 layout: single
 title: "Achille Lauro"
 date: 2022-04-01
-excerpt: "Istrionico, eccentrico, unico: signore e signori, ecco Achille Lauro! Il popolare cantante di Domenica e Rolls Royce non stupisce solo i suoi fan per le sue canzoni dai testi provocatori e per la sua vena eclettica che spazia dall’hip hop americano ai Beatles passando per Vasco Rossi, ma cattura l’a"
+excerpt: "Histrionic, eccentric, unique: ladies and gentlemen, here is Achille Lauro! The popular singer of Domenica and Rolls Royce not only amazes his fans with his songs with provocative lyrics and his eclectic streak that ranges from American hip hop to the Beatles via Vasco Rossi, but also captures the"
 seo_title: "Achille Lauro"
-seo_description: "Non solo musicista, ma autentica icona di stile. Quali sono le influenze in ambito fashion di Achille Lauro? Scopriamolo insieme"
+seo_description: "Not just a musician, but an authentic style icon. What are Achille Lauro's fashion influences? Let's find out together"
 header:
   teaser: /assets/posts/achille-lauro/Achille-Lauro-e1648842718270.jpg
 categories:
@@ -12,59 +12,58 @@ categories:
 ref: achille-lauro
 lang: en
 locale: en
-tr: copia
-sitemap: false
+tr: tradotto
 tr_hash: 4fjn44
 ---
-<p>Istrionico, eccentrico, unico: <em>signore e signori, ecco</em> <strong>Achille Lauro</strong>!</p>
-<p>Il popolare cantante di <em>Domenica</em> e <em>Rolls Royce</em> non stupisce solo i suoi fan per le sue canzoni dai testi provocatori e per la sua <strong>vena eclettica</strong> che spazia dall&#8217;hip hop americano ai Beatles passando per Vasco Rossi, ma cattura l&#8217;attenzione anche grazie ad uno <strong>stile</strong> che potremmo tranquillamente definire &#8220;<strong>estremo</strong>&#8221; sotto certi aspetti ma che nasconde, dietro a parrucconi e costumi pomposi, una<strong> ricerca spasmodica del dettaglio</strong>, una cura per ogni singolo particolare, una perfetta correlazione tra i vari elementi che compongono il suo look.</p>
+<p>Histrionic, eccentric, unique: <em>ladies and gentlemen, here's</em> <strong>Achille Lauro</strong>!</p>
+<p>The popular singer of <em>Domenica</em> and <em>Rolls Royce</em> not only amazes his fans with his songs with provocative lyrics and his <strong>eclectic streak</strong> which ranges from American hip hop to the Beatles via Vasco Rossi, but also captures attention thanks to a <strong>style</strong> which we could easily define as "<strong>extreme</strong>" in certain aspects but which he hides, behind pompous hairpieces and costumes, a<strong> frantic search for detail</strong>, attention to every single detail, a perfect correlation between the various elements that make up his look.</p>
 <div class="video-shortcode"><iframe title="Achille Lauro - Stripper - San Marino 🇸🇲 - National Final Performance - Eurovision 2022" width="1170" height="658" src="https://www.youtube.com/embed/P-RloZ-Fv38?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 <p>&nbsp;</p>
 
-<h2><span class="ez-toc-section" id="Biografia"></span>Biografia<span class="ez-toc-section-end"></span></h2>
-<p>Nato all&#8217;anagrafe come <strong>Lauro De Marinis</strong> l&#8217;11 luglio 1990, <strong>Achille Lauro</strong> prende il suo nome d&#8217;arte dall&#8217;omonimo armatore campano. Figlio di un magistrato, Nicola e di sua madre Cristina Zambon, il giovane cantautore ha un fratello più grande che lo introduce nell&#8217;affascinante universo del <strong>rap</strong>.</p>
-<p>Diventa famoso non solo grazie alla sua musica, ma anche per merito della sua partecipazione con il fedele amico e collaboratore<strong> Boss Doms</strong> al reality <em>Pechino Express</em>. I suoi esordi nell&#8217;universo delle sette note risalgono al 2012; è il 2019, però, l&#8217;anno della <strong>consacrazione</strong> di Lauro a <strong>star mainstream</strong>, grazie alla sua partecipazione alla kermesse sanremese con la canzone <strong><em>Rolls Royce</em></strong>. Lauro tornerà anche nel 2020 a calcare il palco dell&#8217;Ariston gareggiando con la hit <em><strong>Me ne frego</strong></em>, mentre l&#8217;anno successivo partecipa al Festival in tempo di lockdown in veste di guest star, proponendo ogni sera una performance a tutto tondo.</p>
-<p>Nel 2022 Lauro torna a gareggiare con <strong><em>Domenica</em></strong> e vince successivamente la competizione che gli consente di gareggiare agli<strong> Eurovision Song Contest 2022</strong> come rappresentante di San Marino.</p>
+<h2><span class="ez-toc-section" id="Biografia"></span>Biography<span class="ez-toc-section-end"></span></h2>
+<p>Born as <strong>Lauro De Marinis</strong> on 11 July 1990, <strong>Achille Lauro</strong> takes his stage name from the shipowner of the same name from Campania. Son of a magistrate, Nicola, and his mother Cristina Zambon, the young singer-songwriter has an older brother who introduces him to the fascinating universe of <strong>rap</strong>.</p>
+<p>He became famous not only thanks to his music, but also thanks to his participation with his faithful friend and collaborator<strong> Boss Doms</strong> in the reality show <em>Beijing Express</em>. His debut in the universe of seven notes dates back to 2012; 2019, however, is the year of Lauro's <strong>consecration</strong> as a <strong>mainstream star</strong>, thanks to his participation in the Sanremo festival with the song <strong><em>Rolls Royce</em></strong>. Lauro will also return to the Ariston stage in 2020 competing with the hit <em><strong>Me ne frego</strong></em>, while the following year he participates in the Festival in times of lockdown as a guest star, offering an all-round performance every evening.</p>
+<p>In 2022 Lauro returns to compete with <strong><em>Domenica</em></strong> and subsequently wins the competition which allows him to compete in the<strong> Eurovision Song Contest 2022</strong> as a representative of San Marino.</p>
 <div class="video-shortcode"><iframe title="Achille Lauro - C&#039;est la vie" width="1170" height="658" src="https://www.youtube.com/embed/hHJy_svMHXA?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-<h2><span class="ez-toc-section" id="Intervista"></span>Intervista<span class="ez-toc-section-end"></span></h2>
-<p>Achille Lauro non ha mai avuto problema a <strong>raccontare dettagli</strong> anche travagliati della sua vita e della sua carriera in numerose interviste, molte delle quali rilasciate alla conduttrice <strong>Mara Venier</strong>, molto amata dal cantautore.</p>
-<p>L&#8217;artista classe 1990 ha sempre sottolineato nelle sue apparizioni televisive la necessità di esporsi al grande pubblico con canzoni nuove, che presentassero delle sonorità insolite, diverse da quelle proposte alla massa.  Durante una delle numerose apparizioni a &#8220;<strong>Domenica In</strong>&#8221; ad esempio l&#8217;artista capitolino ha spiegato le scelte che lo hanno spinto ad esordire al suo primo Sanremo con <em>Rolls Royce</em>: un brano che, in un modo o in un altro, <strong>ha fatto breccia su pubblico e stampa</strong>.</p>
-<p>&#8220;<em>Numerosi sono i sacrifici che ho fatto per percorrere questa strada</em> &#8211; premette Achille Lauro &#8211; <em>la ricerca di qualcosa di nuovo è innanzitutto un&#8217;esigenza personale, non una maniera per fare colpo sulle persone. Spero di poter essere un buon esempio per i ragazzi</em>&#8220;.</p>
-<p>Dietro ad un volto pieno di tatuaggi e ad uno stile eclettico si nasconde un giovane che vuole godersi la vita al massimo, senza però dimenticare le proprie radici.</p>
+<h2><span class="ez-toc-section" id="Intervista"></span>Interview<span class="ez-toc-section-end"></span></h2>
+<p>Achille Lauro has never had a problem in <strong>telling details</strong>, even troubled ones, about his life and career in numerous interviews, many of which he gave to the presenter <strong>Mara Venier</strong>, much loved by the singer-songwriter.</p>
+<p>The artist born in 1990 has always underlined in his television appearances the need to expose himself to the general public with new songs, which present unusual sounds, different from those offered to the masses.&nbsp; During one of the numerous appearances on “<strong>Domenica In</strong>”, for example, the Capitoline artist explained the choices that pushed him to make his debut at his first Sanremo with <em>Rolls Royce</em>: a song which, in one way or another, <strong>made its impact on the public and the press</strong>.</p>
+<p>"<em>There are numerous sacrifices I have made to follow this path</em> - Achille Lauro began - <em>the search for something new is first and foremost a personal need, not a way to impress people. I hope I can be a good example for young people</em>".</p>
+<p>Behind a face full of tattoos and an eclectic style hides a young man who wants to enjoy life to the fullest, without forgetting his roots.</p>
 <p>&nbsp;</p>
 <div class="video-shortcode"><iframe title="Achille Lauro: dalle difficoltà al successo - Domenica In 06/10/2019" width="1170" height="658" src="https://www.youtube.com/embed/ld5y_ivBWcM?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-<h2><span class="ez-toc-section" id="Influenze_musicali"></span>Influenze musicali<span class="ez-toc-section-end"></span></h2>
-<p>Achille Lauro mostra tutta la sua <strong>ecletticità</strong> in fatto di influenze musicali. Dal <strong>rap underground</strong> alla <strong>trap</strong> ad una versione latina di quest&#8217;ultimo genere &#8211; rinominato <em><strong>samba trap</strong></em> &#8211; il cantautore spazia in fatto di sonorità e regala testi molto spesso contestati ma mai scontati e soprattutto molto originali.</p>
-<p>In <em>Rolls Royce</em>, ad esempio, Achille Lauro decide di virare verso un sound più <strong>rock</strong>. Le sue muse in fatto di produzione artistica sono numerose: oltre ai già citati Vasco Rossi e Beatles il performer ha ammesso di amare <strong>Elvis Presley, Kurt Cobain, Rino Gaetano, Lucio Battisti, Travis Scott, 6lack</strong> e <strong>Young Thug</strong>.</p>
+<h2><span class="ez-toc-section" id="Influenze_musicali"></span>Musical influences<span class="ez-toc-section-end"></span></h2>
+<p>Achille Lauro shows all his <strong>eclecticism</strong> in terms of musical influences. From <strong>underground rap</strong> to <strong>trap</strong> to a Latin version of the latter genre - renamed <em><strong>samba trap</strong></em> - the singer-songwriter ranges in terms of sound and offers lyrics that are often contested but never predictable and above all very original.</p>
+<p>In <em>Rolls Royce</em>, for example, Achille Lauro decides to veer towards a more <strong>rock</strong> sound. His muses in terms of artistic production are numerous: in addition to the aforementioned Vasco Rossi and the Beatles, the performer has admitted to loving <strong>Elvis Presley, Kurt Cobain, Rino Gaetano, Lucio Battisti, Travis Scott, 6lack</strong> and <strong>Young Thug</strong>.</p>
 <p></p>
-<h2><span class="ez-toc-section" id="Polemiche_e_controversie"></span>Polemiche e controversie<span class="ez-toc-section-end"></span></h2>
-<p>La figura di Achille Lauro e le sue performance non sono state esenti da <strong>polemiche</strong>, talvolta comprensibili, a volte feroci.</p>
-<p>Nel <strong>2019</strong> la sua partecipazione a Sanremo con il brano <em><strong>Rolls Royce</strong></em> fu attenzionata dal popolare TG satirico &#8220;<strong>Striscia La Notizia</strong>&#8220;. Oggetto del contendere il testo del brano, a partire dal titolo: la redazione della trasmissione Mediaset, infatti, trovò una &#8220;sorprendente&#8221; <strong>analogia</strong> tra la Rolls Royce di Lauro e il nome di una pasticca di <strong>ecstasy</strong>. A riprova di ciò, l&#8217;intero testo della canzone pare essere un elenco di personaggi famosi che hanno fatto uso di droghe, talvolta con esiti drammatici.</p>
-<p>Nel <strong>2022</strong> il cantante capitolino torna nuovamente nelle vesti di concorrente con il singolo <em><strong>Domenica</strong></em>, che ricorda le sonorità di <em>Rolls Royce</em> ma che scandalizza pubblico e stampa non tanto per la scarsa originalità del brano quanto per l&#8217;<strong>esibizione</strong> portata in scena sul palco dell&#8217;Ariston di Lauro. Il giovane si &#8220;<strong>autobattezza</strong>&#8221; per celebrare il compleanno di sua madre: un gesto poco gradito e probabilmente frainteso, condannato senza se e senza ma da buona parte dei giornalisti.</p>
+<h2><span class="ez-toc-section" id="Polemiche_e_controversie"></span>Controversy and controversies<span class="ez-toc-section-end"></span></h2>
+<p>The figure of Achille Lauro and his performances were not free from <strong>controversy</strong>, sometimes understandable, sometimes ferocious.</p>
+<p>In <strong>2019</strong> his participation in Sanremo with the song <em><strong>Rolls Royce</strong></em> received attention from the popular satirical news program “<strong>Striscia La Notizia</strong>“. The object of the dispute is the text of the song, starting from the title: the editorial staff of the Mediaset broadcast, in fact, found a "surprising" <strong> analogy </strong> between Lauro's Rolls Royce and the name of an <strong> ecstasy tablet </strong>. As proof of this, the entire lyrics of the song appear to be a list of famous people who have used drugs, sometimes with dramatic results.</p>
+<p>In <strong>2022</strong> the Capitoline singer returns again as a competitor with the single <em><strong>Domenica</strong></em>, which recalls the sounds of <em>Rolls Royce</em> but which scandalises the public and press not so much for the lack of originality of the song but for the <strong>performance</strong> staged on the stage of the Ariston in Lauro. The young man "<strong>self-baptizes</strong>" to celebrate his mother's birthday: an unwelcome and probably misunderstood gesture, condemned without any ifs or buts by most journalists.</p>
 <div class="video-shortcode"><iframe title="Achille Lauro - DOMENICA (Official Video) [Sanremo 2022]" width="1170" height="658" src="https://www.youtube.com/embed/-iq4e2q2rzY?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-<h2><span class="ez-toc-section" id="Preferenze_stilistiche_di_Achille_Lauro"></span>Preferenze stilistiche di Achille Lauro<span class="ez-toc-section-end"></span></h2>
-<p>Achille Lauro è un&#8217;autentica <strong>icona di stile</strong>. Ogni performance dell&#8217;artista si trasforma in una <strong>rappresentazione artistica a tutto tondo</strong>: dimostrazione lampante di ciò è stata la sua cinque giorni sanremese del 2021, che ha visto Lauro mettere in scena altrettanti &#8220;<strong>quadri</strong>&#8221; grazie all&#8217;aiuto prezioso di <strong>Alessandro Michele</strong>, Direttore Artistico di <strong>Gucci</strong> e dello stylist <strong>Nicolò Cerioni</strong>.</p>
-<p>Un sodalizio, quello tra il performer e i due creativi, ma soprattutto quello tra Lauro e la nota casa di moda che ha portato in scena il desiderio di infrangere ogni barriera di perbenismo, facendo emergere la parte più pura del cantante. Dimostrazione lampante di questo desiderio di libertà è lo <strong>stravolgimento</strong>, talvolta estremo, del <strong>look di personaggi realmente esistiti</strong>, appartenenti non solo al panorama musicale ma anche alla storia o alla religione, come <strong>San Francesco</strong>.</p>
-<p>In una recente intervista, il cantante capitolino ha parlato del legame stretto tra la ricerca musicale e quella stilistica. &#8220;<em>Chi pensa sia marketing non ha capito nulla, lo vorrei far stare una settimana con noi, mentre passiamo le notti in bianco per creare un&#8217;immagine che accompagni la performance</em>&#8220;. Un look, quello di Lauro, che viene quindi <strong>creato nei minimi dettagli</strong>, di chiara ispirazione <strong>glam-rock</strong>, che ha trovato nella <em>maison</em> Gucci la sua piena realizzazione.</p>
-<p><strong>Strass, piume, perle</strong> e tanto, tantissimo <strong>colore</strong> per esprimere sensazioni e sfumature di ogni suo singolo: lo stile di Lauro <strong>infrange spesso la barriera esistente tra mascolinità e femminilità</strong>, generando una sorta di &#8220;ibrido&#8221; piuttosto stravagante ma che funziona perfettamente addosso al giovane cantante.</p>
-<p>Una <strong>fusione di stili</strong>, un mix di materiali diversi per esprimere lo stato d&#8217;animo che Achille Lauro vuole trasmettere in ogni sua canzone e che potrebbe sembrare che spesso sovrasti proprio la qualità del lavoro artistico del cantautore, anche se proprio lui tiene a sottolineare che tale cura nello stile è parte della performance stessa, nonché della sua <strong>essenza</strong>. &#8220;<em>Mi hanno chiesto se il mio personaggio possa sovrastare la mia musica, ma io non ho paura di cambiare, altrimenti sarei rimasto nella mia zona confort.</em> <strong>Cosa dovrei fare, rinnegare quello che sono io</strong>?&#8221;.</p>
-<p><strong>Achille Lauro è show a 360 gradi</strong> e il suo outfit è parte integrante della sua messa in scena che diventa evento più unico che raro, realtà a sé stante, così come accadde a <strong>David Bowie</strong> prima di lui.</p>
+<h2><span class="ez-toc-section" id="Preferenze_stilistiche_di_Achille_Lauro"></span>Stylistic preferences of Achille Lauro<span class="ez-toc-section-end"></span></h2>
+<p>Achille Lauro is an authentic <strong>style icon</strong>. Each performance by the artist is transformed into a <strong> all-round artistic representation </strong>: a clear demonstration of this was his five days in Sanremo in 2021, which saw Lauro stage as many "<strong> paintings </strong>" thanks to the precious help of <strong> Alessandro Michele </strong>, Artistic Director of <strong> Gucci </strong> and the stylist <strong> Nicolò Cerioni </strong>.</p>
+<p>A partnership, that between the performer and the two creatives, but above all that between Lauro and the well-known fashion house that brought to the stage the desire to break every barrier of respectability, bringing out the purest part of the singer. A clear demonstration of this desire for freedom is the <strong>distortion</strong>, sometimes extreme, of the <strong>look of characters who really existed</strong>, belonging not only to the musical panorama but also to history or religion, such as <strong>St. Francis</strong>.</p>
+<p>In a recent interview, the Capitoline singer spoke of the close link between musical and stylistic research. “<em>Those who think it's marketing have understood nothing, I would like him to stay with us for a week, while we spend sleepless nights to create an image that accompanies the performance</em>“. A look, that of Lauro, which is therefore <strong>created down to the smallest details</strong>, clearly inspired by <strong>glam-rock</strong>, which found its full realization in the <em>maison</em> Gucci.</p>
+<p><strong>Rhinestones, feathers, pearls</strong> and lots and lots of <strong>colour</strong> to express the sensations and nuances of each of his singles: Lauro's style <strong>often breaks the existing barrier between masculinity and femininity</strong>, generating a sort of rather extravagant "hybrid" but which works perfectly for the young singer.</p>
+<p>A <strong>fusion of styles</strong>, a mix of different materials to express the state of mind that Achille Lauro wants to convey in each of his songs and which might seem to often overwhelm the quality of the singer-songwriter's artistic work, even if he himself is keen to underline that this attention to style is part of the performance itself, as well as its <strong>essence</strong>. “<em>They asked me if my character could overpower my music, but I'm not afraid to change, otherwise I would have remained in my comfort zone.</em> <strong>What should I do, deny who I am</strong>?”.</p>
+<p><strong>Achille Lauro is a 360 degree show</strong> and his outfit is an integral part of his staging which becomes a more unique than rare event, a reality in its own right, as happened to <strong>David Bowie</strong> before him.</p>
 <div class="video-shortcode"><iframe title="Tutte le evoluzioni di Achille Lauro: da Barabba Mixtape a 1969" width="1170" height="658" src="https://www.youtube.com/embed/y6vpogbglBs?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-<h2><span class="ez-toc-section" id="Discografia"></span>Discografia<span class="ez-toc-section-end"></span></h2>
-<p>Di seguito riportiamo la <strong>discografia completa di Achille Lauro</strong>: gli album, gli EP, i mixtape, i singoli e gli album di cover realizzati dall&#8217;istrionico artista.</p>
+<h2><span class="ez-toc-section" id="Discografia"></span>Discography<span class="ez-toc-section-end"></span></h2>
+<p>Below we report the <strong>complete discography of Achille Lauro</strong>: the albums, EPs, mixtapes, singles and cover albums created by the histrionic artist.</p>
 <h3><span class="ez-toc-section" id="Album_in_studio"></span>Album in studio<span class="ez-toc-section-end"></span></h3>
 <ul>
-<li>2014 – <em>Achille Idol Immortale </em></li>
-<li>2015 – <em>Dio c&#8217;è </em></li>
-<li>2016 – <em>Ragazzi madre </em></li>
-<li>2018 – <em>Pour l&#8217;amour </em></li>
-<li>2019 – <em>1969 &#8211; Achille Idol Rebirth </em></li>
-<li>2021 – <em>Lauro &#8211; Achille Idol Superstar</em></li>
+<li>2014 – <em>Achilles Immortal Idol </em></li>
+<li>2015 – <em>God exists </em></li>
+<li>2016 – <em>Boys mother </em></li>
+<li>2018 – <em>For love </em></li>
+<li>2019 – <em>1969 – Achille Idol Rebirth </em></li>
+<li>2021 – <em>Lauro – Achille Idol Superstar</em></li>
 </ul>
-<h3><span class="ez-toc-section" id="Album_di_cover"></span>Album di cover<span class="ez-toc-section-end"></span></h3>
+<h3><span class="ez-toc-section" id="Album_di_cover"></span>Album covers<span class="ez-toc-section-end"></span></h3>
 <ul>
 <li>2020 – <em>1990 </em></li>
-<li>2020 – <em>1920 &#8211; Achille Lauro &amp; The Untouchable Band</em></li>
+<li>2020 – <em>1920 – Achille Lauro &amp; The Untouchable Band</em></li>
 </ul>
 <h3><span class="ez-toc-section" id="EP"></span>EP<span class="ez-toc-section-end"></span></h3>
 <ul>
@@ -72,85 +71,85 @@ tr_hash: 4fjn44
 </ul>
 <h3><span class="ez-toc-section" id="Mixtape"></span>Mixtape<span class="ez-toc-section-end"></span></h3>
 <ul>
-<li>2012 – <em>Barabba</em></li>
+<li>2012 – <em>Barabbas</em></li>
 <li>2012 – <em>Harvard</em></li>
 </ul>
-<h3><span class="ez-toc-section" id="Singoli"></span>Singoli<span class="ez-toc-section-end"></span></h3>
+<h3><span class="ez-toc-section" id="Singoli"></span>Singles<span class="ez-toc-section-end"></span></h3>
 <ul>
 <li>2011 – <em>Giovani Crimini</em> (feat. Read)</li>
-<li>2013 –<em> Scarpe coi tacchi 3 &#8211; La fine</em> (feat. Martina May)</li>
-<li>2013 – <em>Bianco Natale</em> (feat. Rasty Kilo)</li>
+<li>2013 –<em> Shoes with heels 3 – The end</em> (feat. Martina May)</li>
+<li>2013 – <em>White Christmas</em> (feat. Rasty Kilo)</li>
 <li>2014 – <em>Polanski </em></li>
 <li>2014 – <em>No Twitter</em></li>
 <li>2014 – <em>Real Royal Street Rap</em> (feat. Marracash e Ackeejuice Rockers)</li>
-<li>2014 – <em>Scelgo le stelle</em> (feat. Coez)</li>
+<li>2014 – <em>I choose the stars</em> (feat. Coez)</li>
 <li>2015 – <em>Ghetto Dance</em> (feat. Gemitaiz)</li>
 <li>2015 – <em>Bonnie &amp; Clyde </em></li>
-<li>2015 – <em>Ora lo so</em> (feat. Marracash)</li>
+<li>2015 – <em>Now I know</em> (feat. Marracash)</li>
 <li>2015 – <em>Playground Love</em> (feat. Caputo)</li>
 <li>2016 – <em>CCL </em></li>
-<li>2016 –<em> Teatro &amp; cinema </em></li>
-<li>2017 – <em>Ascensore per l&#8217;inferno</em> (feat. Coez)</li>
+<li>2016 –<em> Theater &amp; cinema </em></li>
+<li>2017 – <em>Elevator to Hell</em> (feat. Coez)</li>
 <li>2017 – <em>Ulalala</em> (feat. Gemitaiz)</li>
-<li>2017 – <em>Amore mi </em></li>
-<li>2017 – <em>Non sei come me </em></li>
-<li>2018 – <em>Thoiry Remix</em> (feat. Gemitaiz, Quentin 40 e Puritano)</li>
+<li>2017 – <em>Love me </em></li>
+<li>2017 – <em>You're not like me </em></li>
+<li>2018 – <em>Thoiry Remix</em> (feat. Gemitaiz, Quentin 40 and Puritano)</li>
 <li>2018 – <em>Midnight Carnival</em> (feat. Gow Tribe e Boss Doms)</li>
-<li>2018 – <em>Ammò</em> (feat. Rocco Hunt e Clementino)</li>
+<li>2018 – <em>Ammò</em> (feat. Rocco Hunt and Clementino)</li>
 <li>2018 – <em>Angelo blu </em>(feat. Cosmo)</li>
 <li>2018 – <em>Mamacita</em> (feat. Vins)</li>
 <li>2019 – <em>Rolls Royce</em> (feat. Boss Doms e Frenetik&amp;Orang3)</li>
-<li>2019 – <em>C&#8217;est la vie</em></li>
-<li>2019 – <em>1969</em> (feat. Boss Doms e Frenetik&amp;Orang3)</li>
+<li>2019 – <em>C’est la vie</em></li>
+<li>2019 – <em>1969</em> (feat. Boss Doms and Frenetik&amp;Orang3)</li>
 <li>2019 – <em>Delinquente</em> (feat. Boss Doms)</li>
-<li>2020 – <em>Me ne frego </em></li>
-<li>2020 – <em>16 marzo</em> (feat. Gow Tribe)</li>
+<li>2020 – <em>I don't care </em></li>
+<li>2020 – <em>March 16</em> (feat. Gow Tribe)</li>
 <li>2020 – <em>Bam Bam Twist</em> (feat. Gow Tribe)</li>
-<li>2020 – <em>Maleducata</em></li>
+<li>2020 – <em>Rude</em></li>
 <li>2019 – <em>1990 </em></li>
 <li>2020 –<em> Jingle Bell Rock</em> (feat. Annalisa)</li>
-<li>2021 – <em>Solo noi </em></li>
+<li>2021 – <em>Only us </em></li>
 <li>2021 – <em>Marilù </em></li>
-<li>2021 – <em>Mille</em> (con Fedez e Orietta Berti)</li>
+<li>2021 – <em>Mille</em> (with Fedez and Orietta Berti)</li>
 <li>2021 –<em> Latte+</em></li>
-<li>2021 – <em>Io e te </em></li>
-<li>2022 – <em>Domenica </em></li>
+<li>2021 – <em>You and me </em></li>
+<li>2022 – <em>Sunday </em></li>
 <li>2022 – <em>Stripper</em></li>
 </ul>
 <p></p>
-<h2><span class="ez-toc-section" id="Altre_attivita"></span>Altre attività<span class="ez-toc-section-end"></span></h2>
-<p>Oltre ad uno straordinario <em>corpus</em> discografico, <strong>Achille Lauro</strong> ha sfogato la sua vena creativa in altre forme comunicative scrivendo libri, partecipando ad esposizioni artistiche o semplicemente prendendo parte a diversi format televisivi. Scopriamo insieme i mille volti di Lauro.</p>
-<h3><span class="ez-toc-section" id="Achille_Lauro_in_libreria"></span>Achille Lauro in libreria<span class="ez-toc-section-end"></span></h3>
+<h2><span class="ez-toc-section" id="Altre_attivita"></span>Other activities<span class="ez-toc-section-end"></span></h2>
+<p>In addition to an extraordinary <em>corpus</em> of records, <strong>Achille Lauro</strong> has vented his creative streak in other forms of communication by writing books, participating in artistic exhibitions or simply taking part in various television formats. Let's discover the thousand faces of Lauro together.</p>
+<h3><span class="ez-toc-section" id="Achille_Lauro_in_libreria"></span>Achille Lauro in the bookshop<span class="ez-toc-section-end"></span></h3>
 <ul>
-<li>Lauro De Marinis, <em>Sono io Amleto</em>, Rizzoli, 15 gennaio 2019</li>
-<li>Lauro De Marinis, <em>16 marzo: L&#8217;Ultima notte</em>, Rizzoli, 19 maggio 2020</li>
-<li>Achille Lauro, <em>24 ORE Cultura</em>, 23 Settembre 2021</li>
+<li>Lauro De Marinis, <em>It's me Hamlet</em>, Rizzoli, 15 January 2019</li>
+<li>Lauro De Marinis, <em>16 March: The Last Night</em>, Rizzoli, 19 May 2020</li>
+<li>Achille Lauro, <em>24 ORE Culture</em>, 23 September 2021</li>
 </ul>
-<h3><span class="ez-toc-section" id="Achille_Lauro_nellarte_esposizioni"></span>Achille Lauro nell&#8217;arte: esposizioni<span class="ez-toc-section-end"></span></h3>
+<h3><span class="ez-toc-section" id="Achille_Lauro_nellarte_esposizioni"></span>Achille Lauro in art: exhibitions<span class="ez-toc-section-end"></span></h3>
 <ul>
-<li><em>Love is Love</em> (Torino, Museo Nazionale del Cinema, 25 Ottobre 2020), a cura di Lauro De Marinis</li>
-<li><em>Achille Idol Is Present. Photo Book Experience</em> (Milano, Museo delle culture, 22 Settembre 2021 &#8211; 10 Ottobre 2021), a cura di Lauro De Marinis, Nicolò Cerioni e Leandro Emede</li>
+<li><em>Love is Love</em> (Turin, National Cinema Museum, 25 October 2020), curated by Lauro De Marinis</li>
+<li><em>Achille Idol Is Present. Photo Book Experience</em> (Milan, Museum of Cultures, 22 September 2021 – 10 October 2021), curated by Lauro De Marinis, Nicolò Cerioni and Leandro Emede</li>
 </ul>
-<h3><span class="ez-toc-section" id="Filmografia_e_apparizioni_televisive"></span>Filmografia e apparizioni televisive<span class="ez-toc-section-end"></span></h3>
+<h3><span class="ez-toc-section" id="Filmografia_e_apparizioni_televisive"></span>Filmography and television appearances<span class="ez-toc-section-end"></span></h3>
 <ul>
-<li><em>No face 1</em>, con Sebastiano Bontempi, 2019 (nelle vesti di regista e produttore)</li>
-<li><em>Terrurismo</em>, regia di Vito Cea e Roberto Moliterni, 2018 (cortometraggio, produttore e nel ruolo di se stesso)</li>
-<li><em>Applausi</em>, regia di Angelo Calculli, 2018 (lungometraggio)</li>
-<li><em>Happy Birthday</em>, regia di Lorenzo Giovenga, 2019 (cortometraggio)</li>
-<li><em>Ritorno al crimine</em>, regia di Massimiliano Bruno, 2021 (lungometraggio, nel ruolo di se stesso)</li>
-<li><em>Anni da cane</em>, regia di Fabio Mollo, 2021 (lungometraggio, nel ruolo di se stesso)</li>
-<li>Lucky Bat (canto) in <em>Pupazzi alla riscossa</em>, regia di Kelly Asbury, 2019 (film d&#8217;animazione, doppiatore)</li>
-<li><em>Pechino Express,</em> Rai 2 (2017)</li>
+<li><em>No face 1</em>, with Sebastiano Bontempi, 2019 (as director and producer)</li>
+<li><em>Terrurismo</em>, directed by Vito Cea and Roberto Moliterni, 2018 (short film, producer and in the role of himself)</li>
+<li><em>Applause</em>, directed by Angelo Calculli, 2018 (feature film)</li>
+<li><em>Happy Birthday</em>, directed by Lorenzo Giovenga, 2019 (short film)</li>
+<li><em>Return to crime</em>, directed by Massimiliano Bruno, 2021 (feature film, in the role of himself)</li>
+<li><em>Dog Years</em>, directed by Fabio Mollo, 2021 (feature film, in the role of himself)</li>
+<li>Lucky Bat (singing) in <em>Puppets to the Rescue</em>, directed by Kelly Asbury, 2019 (animated film, voice actor)</li>
+<li><em>Beijing Express,</em> Rai 2 (2017)</li>
 <li><em>Extra Factor</em>, Sky Uno (2019)</li>
-<li><em>71º Festival di Sanremo</em>, Rai 1 (2021) &#8211; ospite fisso</li>
-<li><em>Celebrity Hunted: Caccia all&#8217;uomo 2</em>, Amazon Prime Video (2021)</li>
+<li><em>71st Sanremo Festival</em>, Rai 1 (2021) – regular guest</li>
+<li><em>Celebrity Hunted: Manhunt 2</em>, Amazon Prime Video (2021)</li>
 </ul>
 <p></p>
-<h2><span class="ez-toc-section" id="Citazioni"></span>Citazioni<span class="ez-toc-section-end"></span></h2>
-<p>Tra le citazioni più significative di <strong>Achille Lauro</strong> non possiamo non menzionare spezzoni dalle sue canzoni più famose.</p>
+<h2><span class="ez-toc-section" id="Citazioni"></span>Quotes<span class="ez-toc-section-end"></span></h2>
+<p>Among the most significant quotes by <strong>Achille Lauro</strong> we cannot fail to mention excerpts from his most famous songs.</p>
 <ul>
-<li>&#8220;<em>Cinquantenni disgustosi, maschi omofobi. Ho avuto a che fare per anni con ‘sta gente volgare per via dei miei giri. Sono cresciuto con &#8216;sto schifo. L&#8217;aria densa di finto testosterone, il linguaggio tribale costruito, anaffettivo nei confronti del femminile e in generale l’immagine di donna oggetto con cui sono cresciuto. Sono allergico ai modi maschili, ignoranti con cui sono cresciuto. Allora indossare capi di abbigliamento femminili, oltre che il trucco, la confusione di generi è il mio modo di dissentire e ribadire il mio anarchismo, di rifiutare le convenzioni da cui poi si genera discriminazione e violenza. Sono fatto così mi metto quel che voglio e mi piace: la pelliccia, la pochette, gli occhiali glitterati sono da femmina? Allora sono una femmina. Tutto qui? Io voglio essere mortalmente contagiato dalla femminilità, che per me significa delicatezza, eleganza, candore. Ogni tanto qualcuno mi dice: ma che ti è successo? Io rispondo: &#8220;Sono diventato una signorina&#8221;</em>&#8220;</li>
-<li>&#8220;<em>Capisci/ So che puoi farlo, finiscimi/ Aspetto la fine, tradiscimi/ Poi dimmi: &#8220;È finita&#8221;, zittiscimi</em>&#8221; (C&#8217;est la vie)</li>
-<li>&#8220;<em>Adrenalina/ Siamo sopra un bancone io e te, perché/ Sì, sì è una rapina/ Svuoto le tasche e mi riempio di te/ Sì, donna bambina/ È una madonnina che piange per me/ Ma poi mi rovina/ Ed io che so farmi rovinare da te/ Sì, balliamo</em>&#8221; (Bam Bam Twist)</li>
+<li>“<em>Disgusting fifty-year-olds, homophobic males. I have had to deal with these vulgar people for years because of my travels. I grew up with this crap. The air thick with fake testosterone, the constructed tribal language, devoid of affection towards the feminine and in general the image of the woman as an object with which I grew up. I'm allergic to the ignorant, masculine ways I grew up with. So wearing women's clothing, as well as makeup, the confusion of genders is my way of disagreeing and reiterating my anarchism, of rejecting the conventions which then generate discrimination and violence. That's how I am, I wear what I want and like: are the fur coat, the clutch bag, the glittery glasses feminine? So I'm a female. Is that all? I want to be mortally infected by femininity, which for me means delicacy, elegance, candor. Every now and then someone says to me: what happened to you? I reply: “I have become a young lady”</em>“</li>
+<li>“<em>Understand/ I know you can do it, finish me/ I wait for the end, betray me/ Then tell me: “It's over”, shut me up</em>” (C'est la vie)</li>
+<li>“<em>Adrenaline/ We are on a counter, you and I, because/ Yes, yes it's a robbery/ I empty my pockets and fill myself with you/ Yes, child woman/ It's a little Madonna who cries for me/ But then it ruins me/ And I know how to be ruined by you/ Yes, let's dance</em>” (Bam Bam Twist)</li>
 </ul>
 <div class="video-shortcode"><iframe title="Achille Lauro - Bam Bam Twist (feat. Gow Tribe) - Official Video" width="1170" height="658" src="https://www.youtube.com/embed/zrvxL1REEVg?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
