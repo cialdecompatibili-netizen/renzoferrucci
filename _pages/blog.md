@@ -131,7 +131,7 @@ share: false
   <li class="blog-item">
     <div class="blog-img">
       {% if post.header.teaser %}
-        <img src="{{ post.header.teaser }}" alt="{{ post.title }}">
+        <img src="{{ post.header.teaser | relative_url }}" alt="{{ post.title }}">
       {% else %}
         <div class="blog-img-empty">✦</div>
       {% endif %}

@@ -36,7 +36,7 @@ const SITE_POSTS = [
     url: "{{ post.url | relative_url }}",
     date: "{{ post.date | date: '%d %b %Y' }}",
     excerpt: {{ post.excerpt | strip_html | truncate: 120 | jsonify }},
-    image: {{ post.header.teaser | default: "" | jsonify }},
+    image: {% if post.header.teaser %}{{ post.header.teaser | relative_url | jsonify }}{% else %}""{% endif %},
     categories: {{ post.categories | jsonify }}
   }{% unless forloop.last %},{% endunless %}
   {% endfor %}
