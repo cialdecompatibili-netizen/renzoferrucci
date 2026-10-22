@@ -50,5 +50,9 @@ Journal:
   - title: "Trend"
     url: /categoria/?cat=trend
   - divider: true
-  - title: "Tutti gli articoli"
+  - title: "Indice"
     url: /blog/
+  - title: "Comprare nello shop"
+    url: /shop/
+  - title: "Azienda"
+    url: /azienda/

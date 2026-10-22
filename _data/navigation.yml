@@ -1,11 +1,15 @@
 main:
   - title: "Home"
     url: /
-  - title: "Shop"
-    url: /shop/
+  - title: "Uomo"
+    url: /shop/#uomo
+  - title: "Donna"
+    url: /shop/#donna
+  - title: "Beauty"
+    url: /shop/#beauty
+  - title: "Living"
+    url: /shop/#living
   - title: "Journal"
     url: /blog/
-  - title: "Azienda"
-    url: /azienda/
   - title: "Contatti"
     url: /contatti/
