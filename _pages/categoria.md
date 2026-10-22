@@ -1,4 +1,5 @@
 ---
+ref: categoria
 title: "Categoria"
 layout: single
 permalink: /categoria/

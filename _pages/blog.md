@@ -1,4 +1,5 @@
 ---
+ref: blog
 layout: single
 title: Journal
 permalink: /blog/

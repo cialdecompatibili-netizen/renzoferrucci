@@ -1,4 +1,5 @@
 ---
+ref: walter-albini
 layout: single
 title: "Walter Albini"
 date: 2023-05-09

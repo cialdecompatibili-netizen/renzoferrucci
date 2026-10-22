@@ -1,4 +1,5 @@
 ---
+ref: richard-avedon
 layout: single
 title: "Richard Avedon"
 date: 2023-02-02

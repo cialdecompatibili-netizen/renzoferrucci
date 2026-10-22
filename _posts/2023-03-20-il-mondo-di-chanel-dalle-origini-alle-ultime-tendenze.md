@@ -1,4 +1,5 @@
 ---
+ref: il-mondo-di-chanel-dalle-origini-alle-ultime-tendenze
 layout: single
 title: "Il mondo di Chanel: dalle origini alle ultime tendenze"
 date: 2023-03-20

@@ -1,4 +1,5 @@
 ---
+ref: shop
 layout: single
 title: "Shop"
 permalink: /shop/

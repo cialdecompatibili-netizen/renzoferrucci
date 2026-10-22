@@ -1,4 +1,5 @@
 ---
+ref: karl-lagerfeld
 layout: single
 title: "Karl Lagerfeld"
 date: 2022-05-12

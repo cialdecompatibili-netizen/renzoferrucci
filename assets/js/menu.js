@@ -96,3 +96,45 @@
   if (document.readyState === 'loading') document.addEventListener('DOMContentLoaded', init);
   else init();
 })();
+
+
+/* ---- SELETTORE LINGUA NEL MENU (multilingua) ----
+   Il masthead e' in cache (identico su tutte le pagine): la lingua corrente e i link alla
+   traduzione della pagina si calcolano qui, leggendo i <link rel="alternate" hreflang> dell'<head>.
+   Se la pagina non ha una traduzione, la voce porta alla home di quella lingua (sbiadita). */
+(function () {
+  function init() {
+    var li = document.querySelector('.nv__item--lang');
+    if (!li) return;
+    var base = (li.getAttribute('data-lang-base') || '').replace(/\/$/, '');
+    var def = li.getAttribute('data-lang-default') || 'it';
+    var items = Array.prototype.slice.call(li.querySelectorAll('.nv__lang-item'));
+    var codes = items.map(function (a) { return a.getAttribute('data-lang'); });
+    var path = location.pathname;
+    if (base && path.indexOf(base) === 0) path = path.slice(base.length);
+    var seg = path.split('/').filter(Boolean)[0] || '';
+    var cur = (seg && seg !== def && codes.indexOf(seg) > -1) ? seg : def;
+    var alt = {};
+    Array.prototype.forEach.call(document.querySelectorAll('link[rel="alternate"][hreflang]'), function (l) {
+      var k = l.getAttribute('hreflang');
+      if (k && k !== 'x-default') alt[k] = l.href;
+    });
+    var curImg = null;
+    items.forEach(function (a) {
+      var c = a.getAttribute('data-lang');
+      if (alt[c]) a.href = alt[c];
+      else if (c !== cur) a.classList.add('nv__lang-item--home');
+      if (c === cur) { a.classList.add('is-current'); curImg = a.querySelector('img'); }
+    });
+    var btnImg = li.querySelector('[data-lang-current]');
+    if (btnImg && curImg) btnImg.src = curImg.src;
+    var code = li.querySelector('[data-lang-code]');
+    if (code) code.textContent = cur.toUpperCase();
+    document.documentElement.setAttribute('lang', cur);
+    Array.prototype.forEach.call(li.querySelectorAll('img.nv__flag'), function (im) {
+      im.addEventListener('error', function () { im.style.display = 'none'; });
+    });
+  }
+  if (document.readyState === 'loading') document.addEventListener('DOMContentLoaded', init);
+  else init();
+})();

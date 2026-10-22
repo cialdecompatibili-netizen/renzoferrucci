@@ -1,4 +1,5 @@
 ---
+ref: what-are-the-clothing-lines-of-giorgio-armani
 layout: single
 title: "What are the clothing lines of Giorgio Armani"
 date: 2023-07-26

@@ -1,4 +1,5 @@
 ---
+ref: il-diavolo-veste-prada
 layout: single
 title: "Il diavolo veste Prada"
 date: 2022-05-16

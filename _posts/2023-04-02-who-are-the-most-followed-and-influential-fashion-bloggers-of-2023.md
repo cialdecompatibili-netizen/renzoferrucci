@@ -1,4 +1,5 @@
 ---
+ref: who-are-the-most-followed-and-influential-fashion-bloggers-of-2023
 layout: single
 title: "Who are the most followed and influential fashion bloggers of 2023?"
 date: 2023-04-02

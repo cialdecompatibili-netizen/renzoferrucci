@@ -1,4 +1,5 @@
 ---
+ref: classifica-fashion-blogger-italiane-2023
 layout: single
 title: "Classifica: fashion blogger italiane 2023"
 date: 2023-07-27

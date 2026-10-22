@@ -1,4 +1,5 @@
 ---
+ref: riccardo-gay-model-management
 layout: single
 title: "Riccardo Gay Model Management"
 date: 2023-07-27

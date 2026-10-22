@@ -1,4 +1,5 @@
 ---
+ref: yves-saint-laurent
 layout: single
 title: "Yves Saint Laurent"
 date: 2023-08-09

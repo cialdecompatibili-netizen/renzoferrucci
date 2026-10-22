@@ -1,4 +1,5 @@
 ---
+ref: quali-sono-le-linee-di-abbigliamento-di-walter-albini-2
 layout: single
 title: "Quali sono le linee di abbigliamento di Walter Albini?"
 date: 2025-08-06

@@ -1,4 +1,5 @@
 ---
+ref: elettra-lamborghini
 layout: single
 title: "Elettra Lamborghini"
 date: 2022-04-20

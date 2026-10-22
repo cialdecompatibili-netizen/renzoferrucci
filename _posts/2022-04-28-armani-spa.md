@@ -1,4 +1,5 @@
 ---
+ref: armani-spa
 layout: single
 title: "Giorgio Armani S.p.A."
 date: 2022-04-28

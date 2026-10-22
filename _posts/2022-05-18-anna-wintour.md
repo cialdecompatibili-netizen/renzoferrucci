@@ -1,4 +1,5 @@
 ---
+ref: anna-wintour
 layout: single
 title: "Anna Wintour"
 date: 2022-05-18

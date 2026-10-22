@@ -1,4 +1,5 @@
 ---
+ref: classifica-stilisti-italiani-piu-influenti-della-storia
 layout: single
 title: "Classifica: stilisti italiani più influenti della storia"
 date: 2023-07-23

@@ -1,4 +1,5 @@
 ---
+ref: chiara-ferragni
 layout: single
 title: "Chiara Ferragni"
 date: 2022-04-15

@@ -1,4 +1,5 @@
 ---
+ref: gianni-versace
 layout: single
 title: "Gianni Versace"
 date: 2023-08-02

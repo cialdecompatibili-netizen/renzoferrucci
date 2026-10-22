@@ -1,4 +1,5 @@
 ---
+ref: sergio-galeotti
 layout: single
 title: "Sergio Galeotti"
 date: 2023-02-20

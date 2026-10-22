@@ -47,7 +47,7 @@ function lgPathsFor(lang) {
     if (base) {
       if (p === 'index.html') out.push({ path: p, kind: 'home' });
       else if (/^_pages\/[^\/]+\.md$/.test(p) && !LG_SKIP.includes(p.split('/')[1])) out.push({ path: p, kind: 'page' });
-      else if (/^_posts\/[^\/]+\.md$/.test(p)) out.push({ path: p, kind: 'post' });
+      else if (/^_posts\/(?:.+\/)?[^\/]+\.md$/.test(p)) out.push({ path: p, kind: 'post' });
     } else {
       if (p === lang + '/index.html') out.push({ path: p, kind: 'home' });
       else if (new RegExp('^' + lang + '/[^/]+\\.md$').test(p)) out.push({ path: p, kind: 'page' });
@@ -101,7 +101,7 @@ function lgStato(lang, ref) {
 function lgBuildDoc(src, dst, srcLang) {
   let fm = src.fm;
   const srcPerm = lgGet(fm, 'permalink');
-  ['permalink', 'lang', 'locale', 'ref', 'tr', 'tr_hash', 'redirect_from'].forEach(k => { fm = lgDel(fm, k); });
+  ['permalink', 'lang', 'locale', 'ref', 'tr', 'tr_hash', 'redirect_from', 'sitemap'].forEach(k => { fm = lgDel(fm, k); });
   fm = fm.replace(/\s+$/, '');
   const fn = src.path.split('/').pop();
   let path, perm = null;
@@ -113,7 +113,7 @@ function lgBuildDoc(src, dst, srcLang) {
     perm = '/' + dst + (p.startsWith('/') ? p : '/' + p);
   } else { path = dst + '/_posts/' + fn; }
   fm = lgSet(fm, 'ref', src.ref); fm = lgSet(fm, 'lang', dst); fm = lgSet(fm, 'locale', dst);
-  fm = lgSet(fm, 'tr', 'copia'); fm = lgSet(fm, 'tr_hash', lgHash(lgBaseBody(src)));
+  fm = lgSet(fm, 'tr', 'copia'); fm = lgSet(fm, 'sitemap', 'false'); fm = lgSet(fm, 'tr_hash', lgHash(lgBaseBody(src)));
   if (perm) fm = lgSet(fm, 'permalink', perm);
   return { path, content: '---\n' + fm + '\n---\n' + src.body };
 }
@@ -170,7 +170,7 @@ async function lgNuova() {
     if (lyml !== null && !new RegExp('^' + code + ':', 'm').test(lyml)) add({ path: '_data/languages.yml', content: lyml.replace(/\s+$/, '') + '\n' + code + ':\n  name: ' + (LG.names[code] || code.toUpperCase()) + '\n' });
     let cfg = await lgReadPath('_config.yml');
     cfg = cfg.replace(/^languages:.*$/m, 'languages: [' + LG.langs.concat([code]).join(', ') + ']');
-    const scope = '  - scope:\n      path: "' + code + '"\n    values:\n      lang: ' + code + '\n      locale: ' + code + '\n  - scope:\n      path: "' + code + '"\n      type: pages\n    values:\n      layout: single\n';
+    const scope = '  - scope:\n      path: "' + code + '"\n    values:\n      lang: ' + code + '\n      locale: ' + code + '\n  - scope:\n      path: "' + code + '"\n      type: pages\n    values:\n      layout: single\n  - scope:\n      path: "' + code + '"\n      type: posts\n    values:\n      layout: single\n      permalink: /' + code + '/:categories/:title/\n';
     cfg = cfg.replace(/^(  # LANG-DEFAULTS[^\r\n]*\r?\n)/m, '$1' + scope);
     add({ path: '_config.yml', content: cfg });
     await lgCommit(entries, 'Multilingua: nuova lingua ' + code + ' clonata da ' + src);
@@ -192,7 +192,7 @@ async function lgCreaCopia(dst, ref) {
 async function lgSegna(lang, ref) {
   try {
     const d = LG.docs[lang][ref]; const b = LG.docs[LG.base][ref];
-    let fm = lgSet(lgSet(d.fm, 'tr', 'tradotto'), 'tr_hash', lgHash(b ? b.body : d.body));
+    let fm = lgDel(lgSet(lgSet(d.fm, 'tr', 'tradotto'), 'tr_hash', lgHash(b ? b.body : d.body)), 'sitemap').replace(/\s+$/, '');
     await lgCommit([{ path: d.path, content: '---\n' + fm + '\n---\n' + d.body }], 'Multilingua: ' + ref + ' (' + lang + ') segnata come tradotta');
     showMsg('msg-lingue', 'Segnata come tradotta.', 'ok'); caricaLingue(true);
   } catch (e) { showMsg('msg-lingue', 'Errore: ' + e.message, 'err'); }

@@ -1,4 +1,5 @@
 ---
+ref: moda-autunno-2023-colori-tessuti-e-accessori-da-non-perdere
 layout: single
 title: "Moda autunno 2023: colori, tessuti e accessori da non perdere"
 date: 2023-10-11

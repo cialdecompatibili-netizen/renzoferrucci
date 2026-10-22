@@ -1,4 +1,5 @@
 ---
+ref: moda-mare-costumi-piu-trendy-2023
 layout: single
 title: "Moda mare: i costumi più trendy del 2023"
 date: 2023-07-26

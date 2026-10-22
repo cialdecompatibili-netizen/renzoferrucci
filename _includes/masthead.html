@@ -129,6 +129,20 @@
             Strumenti a destra: ricerca del tema (+ carrello inserito da head/custom.html).
             Togli questo <li> per eliminare la lente. Il carrello sparisce con lei (si appoggia qui).
           {%- endcomment -%}
+          {%- if site.languages.size > 0 -%}
+          {%- comment -%} SELETTORE LINGUA: bandiera + tendina. Lingua corrente e link alle traduzioni sono calcolati da assets/js/menu.js (il masthead e' in cache). {%- endcomment -%}
+          <li class="nv__item nv__item--dd nv__item--lang" data-lang-base="{{ site.baseurl }}" data-lang-default="{{ site.default_lang }}">
+            <button class="nv__link nv__link--dd nv__lang-btn" type="button" data-nv-dropdown-toggle aria-haspopup="true" aria-expanded="false" aria-label="Lingua / Language">
+              <img class="nv__flag" data-lang-current src="{{ '/assets/images/flags/' | append: site.default_lang | append: '.svg' | relative_url }}" alt="" width="22" height="16"><span class="nv__lang-code" data-lang-code>{{ site.default_lang | upcase }}</span>
+            </button>
+            <div class="nv__dd nv__dd--lang">
+              {%- for l in site.languages -%}
+                {%- if l == site.default_lang -%}{%- assign lh = '/' | relative_url -%}{%- else -%}{%- assign lh = '/' | append: l | append: '/' | relative_url -%}{%- endif -%}
+                <a class="nv__dd-item nv__lang-item" data-lang="{{ l }}" href="{{ lh }}" hreflang="{{ l }}"><img class="nv__flag" src="{{ '/assets/images/flags/' | append: l | append: '.svg' | relative_url }}" alt="" width="22" height="16"><span>{{ site.data.languages[l].name | default: l }}</span></a>
+              {%- endfor -%}
+            </div>
+          </li>
+          {%- endif -%}
           {%- if site.search == true -%}
             <li class="nv__item nv__tools">
               <button class="search__toggle" type="button" aria-label="Cerca nel sito">

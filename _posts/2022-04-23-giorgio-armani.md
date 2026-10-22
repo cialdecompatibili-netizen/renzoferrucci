@@ -1,4 +1,5 @@
 ---
+ref: giorgio-armani
 layout: single
 title: "Giorgio Armani"
 date: 2022-04-23

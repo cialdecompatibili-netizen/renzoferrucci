@@ -1,4 +1,5 @@
 ---
+ref: classifica-fashion-blogger-piu-influenti-del-2023
 layout: single
 title: "Classifica: fashion blogger più influenti del 2023"
 date: 2023-04-02

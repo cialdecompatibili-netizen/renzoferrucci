@@ -1,4 +1,5 @@
 ---
+ref: emporio-armani-logo-and-history-of-a-fashion-empire
 layout: single
 title: "Emporio Armani: logo and history of a fashion empire"
 date: 2023-07-26

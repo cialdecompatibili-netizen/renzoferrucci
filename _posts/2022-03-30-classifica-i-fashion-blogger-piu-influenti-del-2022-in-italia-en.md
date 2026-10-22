@@ -1,4 +1,5 @@
 ---
+ref: classifica-i-fashion-blogger-piu-influenti-del-2022-in-italia-en
 layout: single
 title: "Classifica: i fashion blogger più influenti del 2022 in Italia EN"
 date: 2022-03-30

@@ -1,4 +1,5 @@
 ---
+ref: classifica-5-fashion-blogger-italiane-da-seguire-nel-2023
 layout: single
 title: "Classifica: Le 5 fashion blogger italiane da seguire nel 2023"
 date: 2023-02-20

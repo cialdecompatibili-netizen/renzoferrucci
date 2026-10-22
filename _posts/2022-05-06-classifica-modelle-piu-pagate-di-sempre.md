@@ -1,4 +1,5 @@
 ---
+ref: classifica-modelle-piu-pagate-di-sempre
 layout: single
 title: "Classifica: le modelle più pagate di sempre"
 date: 2022-05-06

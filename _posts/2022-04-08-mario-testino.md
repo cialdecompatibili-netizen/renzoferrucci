@@ -1,4 +1,5 @@
 ---
+ref: mario-testino
 layout: single
 title: "Mario Testino"
 date: 2022-04-08

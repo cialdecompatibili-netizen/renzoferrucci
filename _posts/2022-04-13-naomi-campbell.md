@@ -1,4 +1,5 @@
 ---
+ref: naomi-campbell
 layout: single
 title: "Naomi Campbell"
 date: 2022-04-13

@@ -1,4 +1,5 @@
 ---
+ref: naomi-campbell-domande-e-risposte-frequenti
 layout: single
 title: "Naomi Campbell: domande e risposte frequenti"
 date: 2023-07-07

@@ -1,4 +1,5 @@
 ---
+ref: contatti
 layout: single
 title: "Contatti"
 permalink: /contatti/

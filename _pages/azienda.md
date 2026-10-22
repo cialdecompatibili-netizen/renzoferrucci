@@ -1,4 +1,5 @@
 ---
+ref: azienda
 layout: single
 title: "Azienda"
 permalink: /azienda/

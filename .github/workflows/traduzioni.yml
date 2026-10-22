@@ -1,0 +1,32 @@
+name: Sincronizza traduzioni
+
+# Fase 3 multilingua: quando cambia un testo originale (italiano), le sue traduzioni
+# passano in automatico a "tr: da_aggiornare". Vedi automation/traduzioni_sync.py.
+on:
+  push:
+    branches: [main]
+    paths:
+      - '_pages/**'
+      - '_posts/**'
+      - 'index.html'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Segna le traduzioni da aggiornare
+        run: python3 automation/traduzioni_sync.py
+      - name: Commit se ci sono modifiche
+        run: |
+          if [ -n "$(git status --porcelain)" ]; then
+            git config user.name "traduzioni-bot"
+            git config user.email "traduzioni-bot@users.noreply.github.com"
+            git add -A
+            git commit -m "Traduzioni: segnate da aggiornare (originale cambiato)"
+            git push
+          fi
