@@ -1,14 +1,34 @@
 [
   {
-    "nome": "guide",
-    "descrizione": "Guide pratiche, consigli e confronti per scegliere i lavori in quota giusti"
+    "nome": "stilisti",
+    "descrizione": "Le biografie dei grandi nomi della moda"
   },
   {
-    "nome": "tecnica",
-    "descrizione": "Articoli tecnici, guide e tutorial"
+    "nome": "case-di-moda",
+    "descrizione": "Storia e logo delle maison"
   },
   {
-    "nome": "servizi",
-    "descrizione": "Approfondimenti sui servizi offerti: lavori in fune, impermeabilizzazioni, manutenzioni"
+    "nome": "moda-e-star",
+    "descrizione": "Volti, musica e stile"
+  },
+  {
+    "nome": "modelle",
+    "descrizione": "Le top model di ieri e di oggi"
+  },
+  {
+    "nome": "classifiche",
+    "descrizione": "Le liste dei migliori, ragionate"
+  },
+  {
+    "nome": "fotografi-di-moda",
+    "descrizione": "Gli sguardi dietro le copertine"
+  },
+  {
+    "nome": "riviste-di-moda",
+    "descrizione": "Vogue, Tu Style e le altre"
+  },
+  {
+    "nome": "trend",
+    "descrizione": "Tendenze e moda sostenibile"
   }
 ]

@@ -1,6 +1,7 @@
+brand: "Renzo Ferrucci"
 related_posts: 3
-email: ""
-description: "Villa a Mentana, zona Mezzaluna, vicino Roma: 3 appartamenti con cucina, 18 posti letto e giardino. B&B, camere a notte, soggiorni lunghi e villa intera."
+email: "renzopagani@gmail.com"
+description: "Renzo Ferrucci: magazine di moda e lusso italiano. Biografie di stilisti, storie delle maison, modelle, fotografi, classifiche e tendenze."
 minimal_mistakes_skin: default
 search: true
 
@@ -94,6 +95,6 @@ tag_archive:
 cms_homepage:
 
 # Numero WhatsApp con prefisso, senza + e senza spazi (es. 393331234567). Vuoto = bottone nascosto
-whatsapp: ""
+whatsapp: "393392841847"
 # Indirizzo del servizio che inoltra il modulo di contatto (worker). Vuoto = il modulo non appare.
 contact_endpoint: ""

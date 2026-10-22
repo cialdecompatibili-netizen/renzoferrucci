@@ -32,19 +32,23 @@
 # Documentazione del funzionamento: commento in testa a _includes/masthead.html.
 # =====================================================================================
 
-La Villa:
-  - title: "Formule"
-    url: /#formule
-  - title: "Piani e camere"
-    url: /#piani
-  - title: "Giardino"
-    url: /#giardino
-  - title: "Dove siamo"
-    url: /#posizione
+Magazine:
+  - title: "Stilisti"
+    url: /categoria/?cat=stilisti
+  - title: "Case di moda"
+    url: /categoria/?cat=case-di-moda
+  - title: "Moda e star"
+    url: /categoria/?cat=moda-e-star
+  - title: "Modelle"
+    url: /categoria/?cat=modelle
+  - title: "Classifiche"
+    url: /categoria/?cat=classifiche
+  - title: "Fotografi di moda"
+    url: /categoria/?cat=fotografi-di-moda
+  - title: "Riviste di moda"
+    url: /categoria/?cat=riviste-di-moda
+  - title: "Trend"
+    url: /categoria/?cat=trend
   - divider: true
-  - title: "Per smart worker"
-    url: /smart-worker/
-  - title: "Per studentesse"
-    url: /studentesse/
-  - title: "Per turisti"
-    url: /turisti/
+  - title: "Tutti gli articoli"
+    url: /blog/

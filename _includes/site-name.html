@@ -12,3 +12,4 @@
 {%- else -%}
   {%- assign site_name = _sn_host -%}
 {%- endif -%}
+{%- if site.brand and site.brand != '' -%}{%- assign site_name = site.brand -%}{%- endif -%}

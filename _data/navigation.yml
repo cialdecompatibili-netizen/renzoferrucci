@@ -1,9 +1,13 @@
 main:
   - title: "Home"
     url: /
-  - title: "La Villa"
-    url: /#piani
-  - title: "Blog"
+  - title: "Magazine"
     url: /blog/
+  - title: "Classifiche"
+    url: /categoria/?cat=classifiche
+  - title: "Case di moda"
+    url: /categoria/?cat=case-di-moda
+  - title: "Azienda"
+    url: /azienda/
   - title: "Contatti"
     url: /contatti/
