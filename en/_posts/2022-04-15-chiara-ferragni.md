@@ -2,9 +2,9 @@
 layout: single
 title: "Chiara Ferragni"
 date: 2022-04-15
-excerpt: "Puoi amarla oppure odiarla, ma sarà difficilissimo ignorarla: Chiara Ferragni è l’influencer per antonomasia. La fashion blogger e designer condivide esistenza pubblica e privata come fosse un libro aperto per i suoi followers, che prendono di mira tutti i profili social della mamma e imprenditrice "
+excerpt: "You can love her or hate her, but it will be very difficult to ignore her: Chiara Ferragni is the influencer par excellence. The fashion blogger and designer shares her public and private existence as if it were an open book for her followers, who target all the social profiles of the mother and entrepreneur"
 seo_title: "Chiara Ferragni"
-seo_description: "Chiara Ferragni è la influencer per antonomasia. Scopri segreti e curiosità legati alla sua vita e al suo rapporto con la moda"
+seo_description: "Chiara Ferragni is the influencer par excellence. Discover secrets and curiosities related to his life and his relationship with fashion"
 header:
   teaser: /assets/posts/chiara-ferragni/Chiara-Ferragni-e1650052578565.jpg
 categories:
@@ -12,69 +12,68 @@ categories:
 ref: chiara-ferragni
 lang: en
 locale: en
-tr: copia
-sitemap: false
+tr: tradotto
 tr_hash: cb0hsh
 ---
-<p>Puoi amarla oppure odiarla, ma sarà difficilissimo ignorarla: <strong>Chiara Ferragni</strong> è l&#8217;<strong>influencer per antonomasia</strong>.</p>
-<p>La fashion blogger e designer condivide esistenza pubblica e privata come fosse un libro aperto per i suoi <em>followers</em>, che prendono di mira tutti i <strong>profili social</strong> della mamma e imprenditrice italiana più famosa al mondo.</p>
-<p>Pillole di stile, matrimonio, rapporto con i propri pargoletti, viaggi: tutto, ma proprio tutto è minuziosamente documentato in rete dalla cremonese, la cui avventura nel mondo dello stile nasce quasi per caso, <strong>quando nel 2009 apre un blog</strong> nel quale dispensare consigli di stile.</p>
-<p>Un piccolo gesto che decreterà il planetario successo della versione europea e bionda di un&#8217;altra celeberrima icona dello showbiz, quella <strong>Kim Kardashian</strong> con la quale la Ferragni presenta più di un punto in comune.</p>
+<p>You can love her or hate her, but it will be very difficult to ignore her: <strong>Chiara Ferragni</strong> is the <strong>influencer par excellence</strong>.</p>
+<p>The fashion blogger and designer shares a public and private existence as if it were an open book for her <em>followers</em>, who target all the <strong>social profiles</strong> of the most famous Italian mother and entrepreneur in the world.</p>
+<p>Style tips, marriage, relationships with your little ones, travel: everything, absolutely everything, is meticulously documented online by the Cremonese woman, whose adventure in the world of style was born almost by chance, <strong> when in 2009 she opened a blog </strong> in which to dispense style advice.</p>
+<p>A small gesture that will decree the global success of the European and blonde version of another famous showbiz icon, <strong>Kim Kardashian</strong> with whom Ferragni has more than one point in common.</p>
 <div class="video-shortcode"><iframe title="Chiara Ferragni, intervistata quando ancora non era famosa" width="1170" height="878" src="https://www.youtube.com/embed/doo4z5NwMn8?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 <p>&nbsp;</p>
 
-<h2><span class="ez-toc-section" id="Biografia"></span>Biografia<span class="ez-toc-section-end"></span></h2>
+<h2><span class="ez-toc-section" id="Biografia"></span>Biography<span class="ez-toc-section-end"></span></h2>
 <ul>
-<li><strong>Nome</strong>: Chiara Ferragni</li>
-<li><strong>Età</strong>: <span data-eta="1987-05-07">39</span> anni</li>
-<li><strong>Data di nascita</strong>: 7 maggio 1987</li>
-<li><strong>Segno Zodiacale</strong>: Toro</li>
-<li><strong>Luogo di nascita</strong>: Cremona</li>
-<li><strong>Professione</strong>: imprenditrice digitale, blogger, designer e influencer</li>
-<li><strong>Altezza</strong>: 177 cm</li>
-<li><strong>Peso</strong>: 58 kg</li>
-<li><strong>Tatuaggi</strong>: 24</li>
-<li><strong>Profilo Instagram ufficiale</strong>: <a href="https://www.instagram.com/chiaraferragni/?hl=it" target="_blank" rel="noopener">Chiaraferragni</a></li>
-<li><strong>Canale YouTube</strong>: <a href="https://www.youtube.com/channel/UCuC1EZOes5x06-yRbRAcPUg" target="_blank" rel="noopener">Chiara Ferragni</a></li>
-<li><strong>Sito Web</strong>: <a href="https://theblondesalad.com/" target="_blank" rel="noopener">Theblondesalad.com</a></li>
+<li><strong>Name</strong>: Chiara Ferragni</li>
+<li><strong>Age</strong>: <span data-eta="1987-05-07">39</span> years</li>
+<li><strong>Date of birth</strong>: 7 May 1987</li>
+<li><strong>Zodiac Sign</strong>: Taurus</li>
+<li><strong>Place of birth</strong>: Cremona</li>
+<li><strong>Profession</strong>: digital entrepreneur, blogger, designer and influencer</li>
+<li><strong>Height</strong>: 177 cm</li>
+<li><strong>Weight</strong>: 58 kg</li>
+<li><strong>Tattoos</strong>: 24</li>
+<li><strong>Official Instagram profile</strong>: <a href="https://www.instagram.com/chiaraferragni/?hl=it" target="_blank" rel="noopener">Chiaraferragni</a></li>
+<li><strong>YouTube channel</strong>: <a href="https://www.youtube.com/channel/UCuC1EZOes5x06-yRbRAcPUg" target="_blank" rel="noopener">Chiara Ferragni</a></li>
+<li><strong>Website</strong>: <a href="https://theblondesalad.com/" target="_blank" rel="noopener">Theblondesalad.com</a></li>
 <li><strong>E-commerce</strong>: <a href="https://it.chiaraferragnicollection.com/" target="_blank" rel="noopener">Chiaraferragnicollection.com</a></li>
 </ul>
-<p>Figlia della scrittrice Marina Di Guardo e del dentista Marco Ferragni, Chiara nasce a Cremona, prima di tre figlie: le sue sorelle minori sono <strong>Francesca</strong>, odontoiatra e <strong>Valentina</strong>, anche lei influencer come sua sorella maggiore.</p>
-<p>Dopo aver conseguito la maturità classica, Chiara Ferragni si iscrive alla Facoltà di Giurisprudenza presso l&#8217;Università Bocconi di Milano; la donna, però, non terminerà mai gli studi accademici avvicinandosi invece sempre più al <strong>mondo della moda </strong>e del<strong> web</strong>.</p>
-<p>Nel 2009 l&#8217;influencer apre, in collaborazione con il suo ex fidanzato Riccardo Pozzoli, il sito internet <strong>The Blonde Salad</strong>. Il portale, inizialmente pensato per essere una sorta di diario &#8220;aperto&#8221; nel quale la Ferragni dispensa lezioni di moda e consigli di stile, diventa rapidamente una &#8220;<strong>bibbia</strong>&#8221; per le giovanissime di tutto il mondo, che guardano alla futura signora Lucia come ad una vera e propria icona.</p>
-<p>Il sito registra, così, un boom di accessi e rende la sua creatrice una guru della moda. Chiara Ferragni si trasferisce dunque in America. A Los Angeles intraprende una carriera imprenditoriale di successo e, oltre a diventare CEO del suo marchio e della Tbs Crew (l&#8217;azienda che si occupa del suo sito), viene scelta come testimonial per numerosi brand della moda, dell&#8217;hairstyling e della gioielleria.</p>
-<p>Oltre ad essere apparsa sulle copertine di &#8220;<strong>Vogue</strong>&#8221; e &#8220;<strong>Vanity Fair</strong>&#8220;, Chiara Ferragni è stata &#8220;onorata&#8221; della <strong>creazione di una Barbie</strong> da parte della <strong>Mattel</strong> che riporta le sue fattezze. Nel 2017 &#8220;<strong>Forbes</strong>&#8221; la elegge &#8220;<em>Influencer di moda più importante al mondo</em>&#8220;. Nel 2021 le strade della Ferragni incontrano quelle di <strong>Tod&#8217;s</strong>: la donna entra, infatti, nel Consiglio d&#8217;Amministrazione del famoso brand di calzature, abbigliamento e accessori di lusso.</p>
+<p>Daughter of the writer Marina Di Guardo and the dentist Marco Ferragni, Chiara was born in Cremona, the first of three daughters: her younger sisters are <strong>Francesca</strong>, a dentist and <strong>Valentina</strong>, also an influencer like her older sister.</p>
+<p>After obtaining her classical high school diploma, Chiara Ferragni enrolled in the Faculty of Law at Bocconi University in Milan; the woman, however, will never finish her academic studies, instead moving ever closer to the <strong> world of fashion </strong> and the <strong> web </strong>.</p>
+<p>In 2009 the influencer opened, in collaboration with her ex-boyfriend Riccardo Pozzoli, the website <strong>The Blonde Salad</strong>. The portal, initially designed to be a sort of "open" diary in which Ferragni dispenses fashion lessons and style advice, quickly becomes a "<strong>bible</strong>" for very young people all over the world, who look to the future Mrs. Lucia as a true icon.</p>
+<p>The site thus records a boom in access and makes its creator a fashion guru. Chiara Ferragni therefore moves to America. In Los Angeles she embarked on a successful entrepreneurial career and, in addition to becoming CEO of her brand and of Tbs Crew (the company that manages her website), she was chosen as a testimonial for numerous fashion, hairstyling and jewelery brands.</p>
+<p>In addition to appearing on the covers of “<strong>Vogue</strong>” and “<strong>Vanity Fair</strong>“, Chiara Ferragni was “honored” by <strong>the creation of a Barbie</strong> by <strong>Mattel</strong> which bears her features. In 2017 “<strong>Forbes</strong>” elected her “<em>Most important fashion influencer in the world</em>“. In 2021, Ferragni's paths meet those of <strong>Tod's</strong>: the woman, in fact, joins the Board of Directors of the famous brand of luxury footwear, clothing and accessories.</p>
 <div class="video-shortcode"><iframe title="Chiara Ferragni a New York per raccontare la fashion week | Vogue Italia" width="1170" height="658" src="https://www.youtube.com/embed/9iGW3RVBoMg?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-<h2><span class="ez-toc-section" id="Interviste"></span>Interviste<span class="ez-toc-section-end"></span></h2>
-<p><strong>Chiara Ferragni</strong> è nota per la sua auto-ironia e si presta con assoluta serenità ad interviste che spaziano dalla sua visione imprenditoriale sulla moda sino alla sua vita privata.</p>
-<p>Una delle <strong>interviste</strong> più cliccate sul web è quella che la fashion blogger ha concesso al portale di informazione <strong>Fanpage</strong>. La Ferragni ha ironicamente commentato la classifica delle curiosità a lei legate cercate sul portale <strong>Google</strong>, sottolineando anche la soddisfazione di possedere il profilo social più seguito in Italia.</p>
-<p>&#8220;<em>A me non darebbe fastidio avere una telecamera che mi riprende tutto il tempo</em> &#8211; ha sottolineato Chiara Ferragni nel corso di questa insolita intervista &#8211; <em>perché <strong>sono molto trasparente</strong>: tutto quello che faccio lo effettuo alla luce del sole</em>&#8220;, sottolineando anche che non si vergognerebbe di sostenere conversazioni che potessero essere successivamente mostrate ai suoi followers.</p>
-<p>Altro aspetto importante sottolineato in questa e in altre interviste è il <strong>rapporto sereno che la Ferragni ha con il suo corpo</strong>: un messaggio di <strong>body positivity</strong> che l&#8217;imprenditrice abbraccia a tutto tondo, essendo una delle testimonial più significative della <strong>lotta al body shaming</strong> assieme ad altri volti noti dello <em>showbiz</em>, quali Michelle Hunziker, Matilda De Angelis e Vanessa Incontrada.</p>
+<h2><span class="ez-toc-section" id="Interviste"></span>Interviews<span class="ez-toc-section-end"></span></h2>
+<p><strong>Chiara Ferragni</strong> is known for her self-irony and lends herself with absolute serenity to interviews that range from her entrepreneurial vision of fashion to her private life.</p>
+<p>One of the most clicked <strong>interviews</strong> on the web is the one that the fashion blogger gave to the information portal <strong>Fanpage</strong>. Ferragni ironically commented on the ranking of curiosities related to her searched on the <strong>Google</strong> portal, also underlining the satisfaction of having the most followed social profile in Italy.</p>
+<p>“<em>It wouldn't bother me to have a camera filming me all the time</em> – underlined Chiara Ferragni during this unusual interview – <em>because <strong>I'm very transparent</strong>: everything I do I do in broad daylight</em>“, also underlining that she wouldn't be ashamed of having conversations that could subsequently be shown to her followers.</p>
+<p>Another important aspect highlighted in this and other interviews is the <strong>serene relationship that Ferragni has with her body</strong>: a message of <strong>body positivity</strong> that the entrepreneur embraces fully, being one of the most significant testimonials of the <strong>fight against body shaming</strong> together with other well-known faces of <em>showbiz</em>, such as Michelle Hunziker, Matilda De Angelis and Vanessa Incontrada.</p>
 <div class="video-shortcode"><iframe title="Chiara Ferragni, Fedez, nuda, scarpe: la blogger risponde alle domande di Google" width="1170" height="658" src="https://www.youtube.com/embed/0s9f5PyHQxM?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-<h2><span class="ez-toc-section" id="Vita_privata"></span>Vita privata<span class="ez-toc-section-end"></span></h2>
-<p>Parlare di <strong>vita privata</strong> nel caso della Ferragni sembra una barzelletta: la <strong>fashion blogger</strong>, infatti, pensa e realizza ogni evento in grande, che sia una partecipazione ad una sfilata di moda o il suo matrimonio con il noto rapper <strong>Fedez</strong>.</p>
-<p>Sin dalla romantica &#8211; e <em>plateale</em> &#8211; <strong>proposta di matrimonio</strong> fatta dall&#8217;artista alla Ferragni durante un suo concerto davanti a migliaia di fan, ogni passo condotto dalla coppia &#8211; ribattezzata <em><strong>Ferragnez</strong></em>, una crasi che ricorda quella dei <em><strong>Brangelina</strong></em> americani &#8211; è stato documentato per la gioia degli <em>aficionados</em> della famiglia Lucia, formatasi ufficialmente con le <strong>nozze celebrate in Sicilia</strong> nel 2018 e allargata con la nascita di due splendidi bambini (anch&#8217;essi star della rete, loro malgrado): <strong>Leone</strong>, nato nello stesso anno delle nozze, e<strong> Vittoria</strong>, nata nel 2021.</p>
-<p>La coppia ha recentemente superato un periodo molto delicato, caratterizzato da un serio <strong>problema di salute</strong> di Fedez.</p>
+<h2><span class="ez-toc-section" id="Vita_privata"></span>Private life<span class="ez-toc-section-end"></span></h2>
+<p>Talking about <strong>private life</strong> in Ferragni's case seems like a joke: the <strong>fashion blogger</strong>, in fact, thinks and creates every event in a big way, be it participation in a fashion show or her wedding with the well-known rapper <strong>Fedez</strong>.</p>
+<p>Since the romantic - and <em> dramatic </em> - <strong> marriage proposal </strong> made by the artist to Ferragni during one of his concerts in front of thousands of fans, every step taken by the couple - renamed <em> <strong> Ferragnez </strong> </em>, a portmanteau reminiscent of that of the American <em> <strong> Brangelina </strong> </em> - has been documented to the delight of the <em> aficionados </em> of the family Lucia, officially formed with the <strong>wedding celebrated in Sicily</strong> in 2018 and expanded with the birth of two splendid children (also stars of the network, despite themselves): <strong>Leone</strong>, born in the same year as the wedding, and<strong> Vittoria</strong>, born in 2021.</p>
+<p>The couple has recently overcome a very delicate period, characterized by a serious <strong> health problem </strong> of Fedez.</p>
 <div class="video-shortcode"><iframe title="The Ferragnez Wedding" width="1170" height="658" src="https://www.youtube.com/embed/_r1eQveXzQM?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-<h2><span class="ez-toc-section" id="Preferenze_stilistiche_di_Chiara_Ferragni"></span>Preferenze stilistiche di Chiara Ferragni<span class="ez-toc-section-end"></span></h2>
-<p><strong>Chiara Ferragni è stylist di sé stessa</strong>. La donna sceglie da sola gli outfit da indossare, puntando innanzitutto su capi che non possono assolutamente mancare nell&#8217;armadio della metà femminile dei <em>Ferragnez</em>. Mini dress a stampa floreale, maglia a righe in stile marinaro, pantaloni cargo; ma anche <em>mise</em> più adatte alle grandi occasioni, come sexy tailleur, abiti dalle scollature vertiginose e completi in stile <em>vedo-non vedo</em>.</p>
-<p>Look talvolta <strong>eccessivi</strong>, che non sempre vengono apprezzati o che spesso fanno discutere: esempi eclatanti in tal senso sono i <strong>top che lasciano scoperta la parte bassa del seno</strong> o l&#8217;<strong>abito intrecciato</strong>, che ha fatto gridare allo scandalo alcuni critici di moda nonché parte delle internaute di sesso femminile. In occasione del suo matrimonio, tuttavia, la bionda influencer ha sfoggiato un <strong>tris di abiti da sposa</strong> promossi da fan ed esperti di moda.</p>
-<p>Numerosi sono gli stilisti che amano vestire da testa a piedi Chiara Ferragni: <strong>Roberto Cavalli, Philosophy by Lorenzo Serafini, Louis Vuitton, Prada, Atsuko Kudo</strong>, grandi nomi italiani ed internazionali che trovano nell&#8217;imprenditrice una <strong>vetrina perfetta</strong> per dare rilievo alle proprie creazioni, soprattutto a quelle più &#8220;provocatorie&#8221;, destinate a far parlare di sé: gli outfit più azzeccati per la Ferragni.</p>
+<h2><span class="ez-toc-section" id="Preferenze_stilistiche_di_Chiara_Ferragni"></span>Chiara Ferragni's stylistic preferences<span class="ez-toc-section-end"></span></h2>
+<p><strong>Chiara Ferragni is her own stylist</strong>. The woman chooses the outfits to wear herself, focusing first and foremost on items that absolutely cannot be missing from the wardrobe of the female half of the <em>Ferragnez</em>. Floral print mini dress, nautical-style striped shirt, cargo trousers; but also <em>mises</em> more suitable for special occasions, such as sexy suits, dresses with plunging necklines and <em>see-through</em> style suits.</p>
+<p>Look sometimes <strong>excessive</strong>, which are not always appreciated or which often cause discussion: striking examples in this sense are <strong>tops that leave the lower part of the breast exposed</strong> o l’<strong>woven dress</strong>, which caused some fashion critics as well as some female Internet users to cry foul. On the occasion of her wedding, however, the blonde influencer showed off a <strong>trio of wedding dresses</strong> promoted by fans and fashion experts.</p>
+<p>There are numerous stylists who love to dress Chiara Ferragni from head to toe: <strong>Roberto Cavalli, Philosophy by Lorenzo Serafini, Louis Vuitton, Prada, Atsuko Kudo</strong>, big Italian and international names who find in the entrepreneur a <strong>perfect showcase</strong> to highlight their creations, especially the more "provocative" ones, destined to be talked about: the most appropriate outfits for Ferragni.</p>
 <p></p>
-<h2><span class="ez-toc-section" id="Opere_filantropiche_e_riconoscimenti"></span>Opere filantropiche e riconoscimenti<span class="ez-toc-section-end"></span></h2>
-<p>Chiara Ferragni e Fedez hanno mostrato una notevole sensibilità e un&#8217;attenzione particolare durante il drammatico biennio della pandemia da <strong>Covid-19</strong> che ha messo in ginocchio il mondo intero, Italia compresa.</p>
-<p>Nel corso della prima ondata, tra marzo e maggio 2020 i coniugi Lucia hanno donato quasi <strong>17 milioni di euro</strong> all&#8217;<strong>Ospedale San Raffaele</strong> di Milano. I fondi &#8211; ottenuti sia grazie ad un&#8217;ingente donazione dei <em>Ferragnez</em> che tramite una campagna di raccolta fondi lanciata contemporaneamente dalla coppia &#8211; sono stati devoluti all&#8217;ospedale per la <strong>creazione di nuovi posti letto</strong> da destinare al Reparto di Terapia Intensiva e destinati anche ad associazioni e organizzazioni di volontariato che hanno affrontato la terribile emergenza sanitaria.</p>
-<p>Tali opere di beneficenza hanno permesso che a Fedez e Chiara Ferragni fosse consegnato dal Comune di Milano un <strong>Ambrogino d&#8217;Oro</strong> nel mese di dicembre del 2020. La Ferragni ha inoltre ricevuto dalla città di Venezia un <strong>Leone d&#8217;Oro</strong> per la medesima ragione.</p>
+<h2><span class="ez-toc-section" id="Opere_filantropiche_e_riconoscimenti"></span>Philanthropic works and awards<span class="ez-toc-section-end"></span></h2>
+<p>Chiara Ferragni and Fedez showed considerable sensitivity and particular attention during the dramatic two-year period of the <strong>Covid-19</strong> pandemic which brought the whole world to its knees, including Italy.</p>
+<p>During the first wave, between March and May 2020, the Lucia couple donated almost <strong>17 million euros</strong> to the <strong>San Raffaele Hospital</strong> in Milan. The funds - obtained both thanks to a large donation from the <em>Ferragnez</em> and through a fundraising campaign launched at the same time by the couple - were donated to the hospital for the <strong>creation of new beds</strong> to be allocated to the Intensive Care Department and also to voluntary associations and organizations that faced the terrible health emergency.</p>
+<p>These charitable works allowed Fedez and Chiara Ferragni to be awarded a <strong>Golden Ambrogino</strong> by the Municipality of Milan in December 2020. Ferragni also received a <strong>Golden Lion</strong> from the city of Venice for the same reason.</p>
 <p></p>
-<h2><span class="ez-toc-section" id="Altre_attivita"></span>Altre attività<span class="ez-toc-section-end"></span></h2>
-<p>Chiara Ferragni ha prestato il suo volto alla causa della <strong>musica</strong>, del <strong>cinema</strong> e del<strong> piccolo schermo</strong>. Scopriamo insieme le sue &#8220;attività collaterali&#8221; alla moda.</p>
-<h3><span class="ez-toc-section" id="Filmografia"></span>Filmografia<span class="ez-toc-section-end"></span></h3>
+<h2><span class="ez-toc-section" id="Altre_attivita"></span>Other activities<span class="ez-toc-section-end"></span></h2>
+<p>Chiara Ferragni has lent her face to the cause of <strong>music</strong>, <strong>cinema</strong> and the<strong> small screen</strong>. Let's discover together his fashionable "side activities".</p>
+<h3><span class="ez-toc-section" id="Filmografia"></span>Filmography<span class="ez-toc-section-end"></span></h3>
 <ul>
-<li>2019 &#8211; <em>Chiara Ferragni &#8211; Unposted</em>, regia di Elisa Amoruso – documentario</li>
-<li>2021 &#8211; <em>The Ferragnez</em> – docuserie</li>
+<li>2019 – <em>Chiara Ferragni – Unposted</em>, directed by Elisa Amoruso – documentary</li>
+<li>2021 – <em>The Ferragnez</em> – docuseries</li>
 </ul>
-<h3><span class="ez-toc-section" id="Videoclip"></span>Videoclip<span class="ez-toc-section-end"></span></h3>
+<h3><span class="ez-toc-section" id="Videoclip"></span>Video<span class="ez-toc-section-end"></span></h3>
 <ul>
-<li>2020 &#8211; <em>Non mi basta più</em> &#8211; Singolo della rapper Baby K</li>
+<li>2020 – <em>It's not enough for me anymore</em> – Single by rapper Baby K</li>
 </ul>
 <div class="video-shortcode"><iframe title="Baby K - Non mi basta più (special guest Chiara Ferragni)" width="1170" height="658" src="https://www.youtube.com/embed/4Rp6netehE4?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>

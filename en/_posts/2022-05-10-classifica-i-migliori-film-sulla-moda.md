@@ -1,10 +1,10 @@
 ---
 layout: single
-title: "Classifica: i migliori film di moda"
+title: "Ranking: the best fashion films"
 date: 2022-05-10
-excerpt: "Cinema e moda sono da sempre legate da un filo indissolubile. Del resto, ogni sfilata rappresenta uno spettacolo più unico che raro. Le vite di stilisti, modelle, direttori di testate sembrano quasi degli autentici lungometraggi. Non è difficile immaginare, quindi, che l’universo della Settima Arte "
-seo_title: "Classifica: i migliori film di moda"
-seo_description: "Cinema e moda sono legati da un legame indissolubile. Scopriamo assieme quali sono le migliori pellicole legate a questo scintillante mondo"
+excerpt: "Cinema and fashion have always been linked by an indissoluble thread. After all, each parade represents a more unique than rare spectacle. The lives of stylists, models and newspaper editors almost seem like authentic feature films. It is not difficult to imagine, therefore, that the universe of the Seventh Art"
+seo_title: "Ranking: the best fashion films"
+seo_description: "Cinema and fashion are linked by an indissoluble bond. Let's find out together what the best films related to this glittering world are"
 header:
   teaser: /assets/posts/classifica-i-migliori-film-sulla-moda/Classifica-i-migliori-film-sulla-moda-e1652216203296.jpg
 categories:
@@ -12,57 +12,56 @@ categories:
 ref: classifica-i-migliori-film-sulla-moda
 lang: en
 locale: en
-tr: copia
-sitemap: false
+tr: tradotto
 tr_hash: 2pfx30
 ---
-<p><strong>Cinema </strong>e <strong>moda</strong> sono da sempre legate da un filo indissolubile. Del resto, ogni sfilata rappresenta uno spettacolo più unico che raro. Le vite di stilisti, modelle, direttori di testate sembrano quasi degli autentici <strong>lungometraggi</strong>.</p>
-<p>Non è difficile immaginare, quindi, che l&#8217;universo della <strong>Settima Arte</strong> abbia spesso attinto dalle biografie, dagli aneddoti, dagli intrighi sentimentali dei grandi nomi dello star system in fatto di moda. Quali sono, però, le opere che meritano di essere visionate almeno una volta dai <em>fashion addicted</em>? Scopriamolo insieme.</p>
+<p><strong>Cinema </strong>and <strong>fashion</strong> have always been linked by an indissoluble thread. After all, each parade represents a more unique than rare spectacle. The lives of stylists, models and newspaper editors almost seem like authentic <strong> feature films </strong>.</p>
+<p>It is not difficult to imagine, therefore, that the universe of the <strong>Seventh Art</strong> has often drawn from the biographies, anecdotes and sentimental intrigues of the big names of the star system in terms of fashion. However, what are the works that deserve to be viewed at least once by <em>fashion addicts</em>? Let's find out together.</p>
 <div class="video-shortcode"><iframe title="7 film sulla moda" width="1170" height="658" src="https://www.youtube.com/embed/_X_xXq0OyuM?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 <p>&nbsp;</p>
 
-<h2><span class="ez-toc-section" id="1_%E2%80%93_Il_Diavolo_veste_Prada"></span>1 &#8211; Il Diavolo veste Prada<span class="ez-toc-section-end"></span></h2>
-<p>Quando si parla di opere cinematografiche liberamente ispirate alla vita di grandi nomi della moda, non possiamo non cominciare con un <strong>must</strong> della categoria: &#8220;<strong>Il Diavolo veste Prada</strong>&#8220;.</p>
-<p>La trama della pellicola del 2006 diretta da <strong>David Frankel</strong> e tratta dall&#8217;omonimo romanzo di <strong>Lauren Weisbergerla</strong> conosciamo abbastanza bene: la neolaureata<strong> Andrea</strong> (interpretata da una bravissima <strong>Anne Hathaway</strong>) intraprende uno stage presso la prestigiosa rivista <em>Runway</em>. Il suo compito? Fare da assistente alla &#8220;diabolica&#8221; <strong>Miranda Priestly</strong> (una magistrale <strong>Meryl Streep</strong>, che restituisce al pubblico un personaggio che ricorda e non poco la direttrice di <a href="{{ '/riviste-di-moda/vogue/' | relative_url }}">Vogue</a> <strong>Anna Wintour</strong>).</p>
-<p>Riuscirà l&#8217;ingenua ma volitiva Andrea a farsi strada in un ambiente spietato e caratterizzato dallo spiccato senso per la moda?</p>
+<h2><span class="ez-toc-section" id="1_%E2%80%93_Il_Diavolo_veste_Prada"></span>1 – The Devil Wears Prada<span class="ez-toc-section-end"></span></h2>
+<p>When we talk about cinematographic works freely inspired by the lives of big names in fashion, we cannot help but start with a <strong>must</strong> of the category: “<strong>The Devil Wears Prada</strong>“.</p>
+<p>We know the plot of the 2006 film directed by <strong>David Frankel</strong> and taken from the novel of the same name by <strong>Lauren Weisberger</strong> quite well: the recent graduate<strong> Andrea</strong> (played by a very good <strong>Anne Hathaway</strong>) undertakes an internship at the prestigious magazine <em>Runway</em>. His task? Acting as assistant to the "diabolical" <strong>Miranda Priestly</strong> (a masterful <strong>Meryl Streep</strong>, who gives the public a character that is quite reminiscent of the director of <a href="{{ '/riviste-di-moda/vogue/' | relative_url }}">Vogue</a> <strong>Anna Wintour</strong>).</p>
+<p>Will the naive but strong-willed Andrea be able to make her way in a ruthless environment characterized by a strong sense of fashion?</p>
 <div class="video-shortcode"><iframe title="IL DIAVOLO VESTE PRADA | Il colloquio di Andy" width="1170" height="658" src="https://www.youtube.com/embed/--hdEhwCJck?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-<h2><span class="ez-toc-section" id="2_%E2%80%93_House_of_Gucci"></span>2 &#8211; House of Gucci<span class="ez-toc-section-end"></span></h2>
-<p>E&#8217; stato il caso cinematografico del 2021 l&#8217;adattamento filmico del libro &#8220;<strong>House of Gucci. Una storia vera di moda, avidità, crimine</strong>&#8221; di <strong>Sara Gay Forden</strong>. Ha diviso pubblico e critica &#8220;<strong>House of Gucci</strong>&#8220;, lungometraggio diretto da <strong>Ridley Scott</strong> che mette in scena le tappe che portarono al drammatico epilogo della storia d&#8217;amore tra <strong>Maurizio Gucci </strong>e <strong>Patrizia Reggiani</strong>.</p>
-<p>Sullo sfondo, il patinato mondo della moda, del quale Maurizio Gucci è ritenuto ancora oggi uno dei suoi massimi esponenti. Nel cast troviamo <strong>Lady Gaga</strong> nei panni della Reggiani e <strong>Adam River</strong> nel ruolo di Maurizio Gucci.</p>
+<h2><span class="ez-toc-section" id="2_%E2%80%93_House_of_Gucci"></span>2 – House of Gucci<span class="ez-toc-section-end"></span></h2>
+<p>The film adaptation of the book "<strong>House of Gucci. A true story of fashion, greed, crime</strong>" by <strong>Sara Gay Forden</strong> was the cinematic sensation of 2021. “<strong>House of Gucci</strong>“, a feature film directed by <strong>Ridley Scott</strong> which stages the stages that led to the dramatic epilogue of the love story between <strong>Maurizio Gucci </strong>and <strong>Patrizia Reggiani</strong>, divided audiences and critics.</p>
+<p>In the background, the glossy world of fashion, of which Maurizio Gucci is still considered one of its greatest exponents today. In the cast we find <strong>Lady Gaga</strong> in the role of Reggiani and <strong>Adam River</strong> in the role of Maurizio Gucci.</p>
 <div class="video-shortcode"><iframe title="House of Gucci - Trailer Italiano Ufficiale [HD]" width="1170" height="658" src="https://www.youtube.com/embed/8WMVSV0-7fc?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-<h2><span class="ez-toc-section" id="3_%E2%80%93_Cenerentola_a_Parigi"></span>3 &#8211; Cenerentola a Parigi<span class="ez-toc-section-end"></span></h2>
-<p>Facciamo un gran bel tuffo nel passato sino al 1957, anno nel quale esce nelle sale &#8220;<strong>Cenerentola a Parigi</strong>&#8221; con protagonista l&#8217;eterna icona di stile <strong>Audrey Hepburn</strong>: solo il nome della divina interprete sarebbe una ragione sufficiente per ripescare questa pellicola!</p>
-<p>La Hepburn interpreta <strong>Jo Stockton</strong>, timida bibliotecaria più interessata alla cultura che alla moda, che entra suo malgrado nell&#8217;elegante mondo del fashion grazie all&#8217;intuizione di un fotografo, <strong>Dick Avery</strong> (<strong>Fred Astaire</strong>).</p>
-<p>Un <strong>musical</strong> intriso di moda in ogni sua sfaccettatura: il personaggio di Dick ricalca fedelmente la figura del noto fotografo <strong>Richard Avedon</strong>; il guardaroba della Hepburn, inoltre, fu realizzato dal famoso stilista francese <strong>Hubert de Givenchy</strong>.</p>
+<h2><span class="ez-toc-section" id="3_%E2%80%93_Cenerentola_a_Parigi"></span>3 – Cinderella in Paris<span class="ez-toc-section-end"></span></h2>
+<p>Let's take a great dive into the past until 1957, the year in which “<strong>Cinderella in Paris</strong>” was released in cinemas starring the eternal style icon <strong>Audrey Hepburn</strong>: the name of the divine interpreter alone would be a sufficient reason to fish out this film!</p>
+<p>Hepburn plays <strong>Jo Stockton</strong>, a shy librarian more interested in culture than fashion, who reluctantly enters the elegant world of fashion thanks to the intuition of a photographer, <strong>Dick Avery</strong> (<strong>Fred Astaire</strong>).</p>
+<p>A <strong>musical</strong> steeped in fashion in all its facets: the character of Dick faithfully follows the figure of the well-known photographer <strong>Richard Avedon</strong>; Furthermore, Hepburn's wardrobe was created by the famous French designer <strong>Hubert de Givenchy</strong>.</p>
 <div class="video-shortcode"><iframe title="Funny Face (Cenerentola a Parigi, 1957) - Empatia  [Fred Astaire &amp; Audrey Hepburn]" width="1170" height="878" src="https://www.youtube.com/embed/yjGxgqDIIm4?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-<h2><span class="ez-toc-section" id="4_%E2%80%93_The_Dressmaker_%E2%80%93_Il_diavolo_e_tornato"></span>4 &#8211; The Dressmaker &#8211; Il diavolo è tornato<span class="ez-toc-section-end"></span></h2>
-<p>Una commedia a dir poco caustica, tratta dall&#8217;omonimo romanzo di <strong>Rosalie Ham</strong> e interpretato da una <strong>Kate Winslet</strong> in pieno stato di grazia. &#8220;<strong>The Dressmaker &#8211; Il diavolo è tornato</strong>&#8221; è incentrato sulla figura di <strong>Tilly</strong>, giovane ritenuta quasi un demonio dalla bigotta comunità di un paesino australiano nel quale nasce e cresce.</p>
-<p>Allontanata dalla sua terra natia, Tilly vi tornerà venticinque anni dopo. Posta sotto una nuova luce dai suoi compaesani, la donna inizia a farsi amare soprattutto per le sue capacità stilistiche. Quando le vecchie abitudini della comunità torneranno a materializzarsi, toccherà a Tilly mettere in atto il suo <strong>piano di vendetta</strong>.</p>
+<h2><span class="ez-toc-section" id="4_%E2%80%93_The_Dressmaker_%E2%80%93_Il_diavolo_e_tornato"></span>4 – The Dressmaker – The devil is back<span class="ez-toc-section-end"></span></h2>
+<p>A caustic comedy to say the least, taken from the novel of the same name by <strong>Rosalie Ham</strong> and starring a <strong>Kate Winslet</strong> in a full state of grace. “<strong>The Dressmaker – The devil is back</strong>” focuses on the figure of <strong>Tilly</strong>, a young woman considered almost a devil by the bigoted community of a small Australian village in which she was born and raised.</p>
+<p>Removed from her homeland, Tilly will return twenty-five years later. Placed in a new light by her fellow villagers, the woman begins to be loved above all for her stylistic abilities. When the old habits of the community return to materialize, it will be up to Tilly to implement her <strong> plan of revenge </strong>.</p>
 <div class="video-shortcode"><iframe title="The Dressmaker - Il diavolo è tornato. Trailer italiano ufficiale [HD]" width="1170" height="658" src="https://www.youtube.com/embed/8m7jPjDGIvY?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-<h2><span class="ez-toc-section" id="5_%E2%80%93_Zoolander"></span>5 &#8211; Zoolander<span class="ez-toc-section-end"></span></h2>
-<p>Riuscitissima parodia sulla moda ed i suoi stereotipi, &#8220;<strong>Zoolander</strong>&#8221; vede protagonista il brillante duo comico <strong>Ben Stiller &#8211; Owen Wilson</strong>.</p>
-<p>Stiller è <strong>Derek Zoolander</strong>, supermodello tanto bello quanto sciocco, che viene ingaggiato da <strong>Jacobim Mugatu</strong> al fine di uccidere un noto politico dopo averlo sottoposto a lavaggio del cervello.</p>
-<p>&#8220;Zoolander&#8221; vanta anche un <strong>sequel</strong>, realizzato nel 2012; entrambe le pellicole hanno registrato incassi da capogiro al botteghino.</p>
+<h2><span class="ez-toc-section" id="5_%E2%80%93_Zoolander"></span>5 – Zoolander<span class="ez-toc-section-end"></span></h2>
+<p>A very successful parody on fashion and its stereotypes, “<strong>Zoolander</strong>” features the brilliant comic duo <strong>Ben Stiller – Owen Wilson</strong>.</p>
+<p>Stiller is <strong>Derek Zoolander</strong>, a supermodel as handsome as he is foolish, who is hired by <strong>Jacobim Mugatu</strong> in order to kill a well-known politician after brainwashing him.</p>
+<p>“Zoolander” also boasts a <strong>sequel</strong>, made in 2012; both films recorded dizzying returns at the box office.</p>
 <div class="video-shortcode"><iframe title="Zoolander (film 2001) TRAILER ITALIANO" width="1170" height="658" src="https://www.youtube.com/embed/dse7e35ZbSc?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-<h2><span class="ez-toc-section" id="6_%E2%80%93_Blow-up"></span>6 &#8211; Blow-up<span class="ez-toc-section-end"></span></h2>
-<p>Un regista che non ha bisogno di presentazioni dirige una delle sue pellicole più famose e pregevoli.</p>
-<p>Tratto dal racconto &#8220;<strong>Le bave del diavolo</strong>&#8221; dell&#8217;argentino Julio Cortázar, &#8220;<strong>Blow-up</strong>&#8221; di <strong>Michelangelo Antonioni</strong> mixa sapientemente fascino, mistero, suspense e visioni oniriche partendo dalle vicende di un annoiato fotografo di moda.</p>
-<p>Uno dei film più premiati (ed amati) dell&#8217;indimenticabile regista italiano.</p>
+<h2><span class="ez-toc-section" id="6_%E2%80%93_Blow-up"></span>6 – Blow-up<span class="ez-toc-section-end"></span></h2>
+<p>A director who needs no introduction directs one of his most famous and valuable films.</p>
+<p>Based on the story “<strong>The Devil's Drool</strong>” by the Argentinian Julio Cortázar, “<strong>Blow-up</strong>” by <strong>Michelangelo Antonioni</strong> expertly mixes charm, mystery, suspense and dreamlike visions starting from the events of a bored fashion photographer.</p>
+<p>One of the most awarded (and loved) films by the unforgettable Italian director.</p>
 
-<h2><span class="ez-toc-section" id="7_%E2%80%93_Yves_Saint_Laurent"></span>7 &#8211; Yves Saint Laurent<span class="ez-toc-section-end"></span></h2>
-<p>Nel 2014 esce nelle sale il biopic &#8220;<strong>Yves Saint Laurent</strong>&#8220;, diretto da <strong>Jalil Lespert</strong> e interpretato da <strong>Pierre Niney</strong>.</p>
-<p>Il lungometraggio prende il via dalla <strong>morte di Christian Dior</strong>. Un giovanissimo Saint Laurent eredita dal suo maestro la sua prestigiosa maison. Durante la sua prima sfilata lo stilista farà un incontro fondamentale per la sue professione e soprattutto per la sua vita privata.</p>
+<h2><span class="ez-toc-section" id="7_%E2%80%93_Yves_Saint_Laurent"></span>7 – Yves Saint Laurent<span class="ez-toc-section-end"></span></h2>
+<p>In 2014 the biopic “<strong>Yves Saint Laurent</strong>“, directed by <strong>Jalil Lespert</strong> and played by <strong>Pierre Niney</strong>.</p>
+<p>The feature film begins with the <strong> death of Christian Dior </strong>. A very young Saint Laurent inherits his prestigious maison from his master. During his first fashion show the designer will have a fundamental meeting for his profession and above all for his private life.</p>
 <div class="video-shortcode"><iframe title="Yves Saint Laurent Trailer Ufficiale Italiano (2014) - Pierre Niney, Guillaume Gallienne Movie HD" width="1170" height="658" src="https://www.youtube.com/embed/M-ye0vn4Cv8?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-<h2><span class="ez-toc-section" id="8_%E2%80%93_Coco_avant_Chanel_%E2%80%93_Lamore_prima_del_mito"></span>8 &#8211; Coco avant Chanel – L&#8217;amore prima del mito<span class="ez-toc-section-end"></span></h2>
-<p>Smessi i panni dell&#8217;innocente e svampita Amélie la francese <strong>Audrey Tatou</strong> indossa quelli, sontuosissimi, della stilista francese <strong>Coco Chanel</strong>, una delle più grandi muse di stile di tutti i tempi.</p>
-<p>L&#8217;infanzia di stenti, il suo grande amore, la sua ascesa nell&#8217;Olimpo dell&#8217;alta moda: un film biografico acclamato e candidato a numerosi riconoscimenti che rende giustizia alla celebre stilista francese.</p>
+<h2><span class="ez-toc-section" id="8_%E2%80%93_Coco_avant_Chanel_%E2%80%93_Lamore_prima_del_mito"></span>8 – Coco avant Chanel – Love before the myth<span class="ez-toc-section-end"></span></h2>
+<p>Having given up the role of the innocent and absent-minded Amélie, the French <strong>Audrey Tatou</strong> wears the very sumptuous ones of the French designer <strong>Coco Chanel</strong>, one of the greatest style muses of all time.</p>
+<p>Her difficult childhood, her great love, her rise to the Olympus of high fashion: an acclaimed biographical film nominated for numerous awards that does justice to the famous French designer.</p>
 <div class="video-shortcode"><iframe title="Coco Avant Chanel - L&#039;amore prima del mito - Trailer" width="1170" height="658" src="https://www.youtube.com/embed/vL33Vy57-Qs?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-<h2><span class="ez-toc-section" id="9_%E2%80%93_The_Neon_Demon"></span>9 &#8211; The Neon Demon<span class="ez-toc-section-end"></span></h2>
-<p><strong>Nicolas Winding Refn</strong> dirige <strong>Elle Fanning</strong> nel disturbante thriller del 2016 &#8220;<strong>The Neon Demon</strong>&#8220;, che mostra il lato oscuro che si nasconde al di là delle passerelle scintillanti.</p>
-<p>Invidia, competizione, sesso e morte sono gli ingredienti essenziali di questa pellicola, che si concentra sulla malsana competizione tra modelle, disposte a tutto pur di farsi notare.</p>
+<h2><span class="ez-toc-section" id="9_%E2%80%93_The_Neon_Demon"></span>9 – The Neon Demon<span class="ez-toc-section-end"></span></h2>
+<p><strong>Nicolas Winding Refn</strong> directs <strong>Elle Fanning</strong> in the disturbing 2016 thriller “<strong>The Neon Demon</strong>“, which shows the dark side that lies beyond the glittering catwalks.</p>
+<p>Envy, competition, sex and death are the essential ingredients of this film, which focuses on the unhealthy competition between models, willing to do anything to get noticed.</p>
 <div class="video-shortcode"><iframe title="THE NEON DEMON | Trailer Italiano" width="1170" height="658" src="https://www.youtube.com/embed/n6lkAwZ9ou8?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-<h2><span class="ez-toc-section" id="10_%E2%80%93_I_Love_Shopping"></span>10 &#8211; I Love Shopping<span class="ez-toc-section-end"></span></h2>
-<p>Non potevamo chiudere questa straordinaria classifica con un&#8217;autentica pietra miliare del cinema di moda.</p>
-<p>Tratto dall&#8217;omonimo bestseller di <strong>Sophie Kinsella</strong>, &#8220;<strong>I Love Shopping</strong>&#8221; porta su pellicola la divertente storia di Rebecca, giornalista con una passione a dir poco ossessiva per lo shopping.</p>
-<p>Interpretata da <strong>Isla Fisher</strong>, Rebecca imparerà a proprie spese come il desiderio di spendere un capitale per l&#8217;ultimo capo alla moda possa ritorcersi contro di lei con conseguenze impensabili.</p>
+<h2><span class="ez-toc-section" id="10_%E2%80%93_I_Love_Shopping"></span>10 – I Love Shopping<span class="ez-toc-section-end"></span></h2>
+<p>We couldn't close this extraordinary ranking with an authentic milestone of fashion cinema.</p>
+<p>Based on the bestseller of the same name by <strong>Sophie Kinsella</strong>, “<strong>I Love Shopping</strong>” brings to film the funny story of Rebecca, a journalist with an obsessive passion for shopping, to say the least.</p>
+<p>Played by <strong>Isla Fisher</strong>, Rebecca will learn the hard way how the desire to spend a fortune on the latest fashion item can turn against her with unthinkable consequences.</p>
 <div class="video-shortcode"><iframe title="I Love Shopping Trailer Italiano" width="1170" height="658" src="https://www.youtube.com/embed/KArZOyicW3c?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>

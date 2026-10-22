@@ -11,8 +11,7 @@ categories:
 ref: who-are-the-most-followed-and-influential-fashion-bloggers-of-2023
 lang: en
 locale: en
-tr: copia
-sitemap: false
+tr: tradotto
 tr_hash: wwb28d
 ---
 <p>The fashion world is constantly evolving, and fashion bloggers have become real opinion leaders who set trends and styles. But who are the most followed and influential fashion bloggers of 2023? We have made our ranking based on criteria such as the number of followers, collaborations with brands, quality of content and social impact. Here is our top 10.</p>

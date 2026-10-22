@@ -1,10 +1,10 @@
 ---
 layout: single
-title: "Il diavolo veste Prada"
+title: "The devil wears Prada"
 date: 2022-05-16
-excerpt: "Una ragazza che sogna di diventare giornalista, tanto intelligente quanto pessima in fatto di look; una donna in carriera, raffinata nei gusti ma a dir poco dispotica, senza tatto né rispetto per i suoi sottoposti. Due vite destinate a scontrarsi, a convivere tra loro, a contaminarsi, forse. Sullo s"
-seo_title: "Il diavolo veste Prada"
-seo_description: "Tratto dal romanzo di Lauren Weisberger, Il diavolo veste Prada è considerato un film cult per gli amanti della moda. Nel cast Meryl Streep"
+excerpt: "A girl who dreams of becoming a journalist, as intelligent as she is terrible when it comes to looks; a career woman, refined in her tastes but despotic to say the least, without tact or respect for her subordinates. Two lives destined to collide, to coexist with each other, to contaminate each other, perhaps. On the s"
+seo_title: "The devil wears Prada"
+seo_description: "Based on the novel by Lauren Weisberger, The Devil Wears Prada is considered a cult film for fashion lovers. Meryl Streep stars"
 header:
   teaser: /assets/posts/il-diavolo-veste-prada/Il-diavolo-veste-Prada-e1652730615248.jpg
 categories:
@@ -13,33 +13,32 @@ categories:
 ref: il-diavolo-veste-prada
 lang: en
 locale: en
-tr: copia
-sitemap: false
+tr: tradotto
 tr_hash: 1n72dh5
 ---
-<p>Una ragazza che sogna di diventare giornalista, tanto intelligente quanto pessima in fatto di look; una donna in carriera, raffinata nei gusti ma a dir poco dispotica, senza tatto né rispetto per i suoi sottoposti. <strong>Due vite destinate a scontrarsi</strong>, a convivere tra loro, a contaminarsi, forse. Sullo sfondo, ma non troppo, il patinato universo della moda, tra passerelle e agguerrita competizione.</p>
-<p>Ingredienti esplosivi che hanno dato vita ad una delle pellicole &#8220;fashion&#8221; più famose ed amate al mondo: <em><strong>Il diavolo veste Prada</strong></em>, tratto dall&#8217;omonimo romanzo di <strong>Lauren Weisberger</strong> con un cast a dir poco stellare.</p>
-<p>Se desideri approfondire le <strong>pellicole ispirate alla moda</strong> possiamo consigliarti questa lettura: <a href="{{ '/classifiche/classifica-i-migliori-film-sulla-moda/' | relative_url }}">Classifica: i migliori film sulla moda</a></p>
+<p>A girl who dreams of becoming a journalist, as intelligent as she is terrible when it comes to looks; a career woman, refined in her tastes but despotic to say the least, without tact or respect for her subordinates. <strong>Two lives destined to collide</strong>, to coexist with each other, to contaminate each other, perhaps. In the background, but not too much, the glossy universe of fashion, between catwalks and fierce competition.</p>
+<p>Explosive ingredients that gave life to one of the most famous and loved "fashion" films in the world: <em><strong>The Devil Wears Prada</strong></em>, based on the novel of the same name by <strong>Lauren Weisberger</strong> with a stellar cast to say the least.</p>
+<p>If you want to learn more about <strong>films inspired by fashion</strong> we can recommend this reading: <a href="{{ '/classifiche/classifica-i-migliori-film-sulla-moda/' | relative_url }}">Ranking: the best films about fashion</a></p>
 <div class="video-shortcode"><iframe title="IL DIAVOLO VESTE PRADA | Trailer italiano" width="1170" height="658" src="https://www.youtube.com/embed/F1poynsHWDk?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 <p>&nbsp;</p>
 
-<h2><span class="ez-toc-section" id="Il_diavolo_veste_Prada_scheda"></span><em>Il diavolo veste Prada</em>: scheda<span class="ez-toc-section-end"></span></h2>
+<h2><span class="ez-toc-section" id="Il_diavolo_veste_Prada_scheda"></span><em>The devil wears Prada</em>: fact sheet<span class="ez-toc-section-end"></span></h2>
 <ul>
 <li>Titolo originale: <strong><em>The Devil Wears Prada </em></strong></li>
-<li>Paese di produzione: <strong>Stati Uniti d&#8217;America </strong></li>
+<li>Country of production: <strong>United States of America </strong></li>
 <li>Anno: <strong>2006 </strong></li>
-<li>Genere: <strong>commedia, drammatico, sentimentale </strong></li>
+<li>Genre: <strong>comedy, drama, sentimental </strong></li>
 <li>Regia: <strong>David Frankel </strong></li>
-<li>Soggetto: <strong>Lauren Weisberger</strong> (romanzo)</li>
-<li>Sceneggiatura: <strong>Aline Brosh McKenna </strong></li>
-<li>Produttore: <strong>Wendy Finerman </strong></li>
+<li>Subject: <strong>Lauren Weisberger</strong> (novel)</li>
+<li>Screenplay: <strong>Aline Brosh McKenna </strong></li>
+<li>Producer: <strong>Wendy Finerman </strong></li>
 <li>Casa di produzione: <strong>Fox 2000 Pictures, Wendy Finerman Productions, Dune Entertainment </strong></li>
-<li>Distribuzione in italiano: <strong>20th Century Fox</strong></li>
+<li>Distribution in Italian: <strong>20th Century Fox</strong></li>
 </ul>
 <h3><span class="ez-toc-section" id="Cast"></span>Cast<span class="ez-toc-section-end"></span></h3>
 <ul>
 <li><strong>Meryl Streep</strong>: Miranda Priestley</li>
-<li><strong>Anne Hathaway</strong>: Andrea &#8220;Andy&#8221; Sachs</li>
+<li><strong>Anne Hathaway</strong>: Andrea “Andy” Sachs</li>
 <li><strong>Emily Blunt</strong>: Emily Charlton</li>
 <li><strong>Stanley Tucci</strong>: Nigel</li>
 <li><strong>Adrian Grenier</strong>: Nate</li>
@@ -50,23 +49,23 @@ tr_hash: 1n72dh5
 <li><strong>Gisele Bündchen</strong>: Serena</li>
 </ul>
 <p></p>
-<h2><span class="ez-toc-section" id="Trama"></span>Trama<span class="ez-toc-section-end"></span></h2>
-<p><em><strong>Il diavolo veste Prada</strong></em> segue le vicende di <strong>Andrea &#8220;Andy&#8221;  Sachs</strong>, neolaureata aspirante giornalista con un gusto a dir poco tremendo in fatto di look.</p>
-<p>In cerca di impiego, Andrea decide di sostenere un colloquio presso la prestigiosa rivista di moda <em>Runway</em> per ottenere il posto da seconda assistente della direttrice <strong>Miranda Priestly</strong>. Miranda non potrebbe essere più diversa da Andrea: dispotica, tiranna ma elegantissima, la donna inizialmente manda via la protagonista senza troppi complimenti, salvo poi tornare sui propri passi.</p>
-<p>Assunta da Miranda, che non perde occasione per schernirla per il suo scarso senso estetico, Andrea è costretta a subire anche le angherie della prima assistente <strong>Emily</strong>, gelosa ed eccessivamente competitiva (oltre che esageratamente ossessionata dal proprio aspetto); la situazione, però, è destinata a ribaltarsi.</p>
-<p>Andrea riceverà, infatti, sostegno incondizionato da <strong>Nigel</strong>, fidato braccio destro di Miranda, che ne rivoluzionerà il look, trasformandola da sciatta assistente a <strong>donna trendy</strong> e di successo. Un cambiamento che, se da un lato contribuirà a far salire le quotazioni di Andy all&#8217;interno di <em>Runway</em>, dall&#8217;altro <strong>la allontanerà dai suoi affetti più cari</strong>, in primis dal suo ragazzo <strong>Nate</strong>.</p>
-<p>Divisa tra il sogno di fare carriera e la volontà di rimanere sé stessa, Andy si ritroverà inevitabilmente davanti ad un bivio: <strong>quale strada deciderà di percorrere</strong>?</p>
+<h2><span class="ez-toc-section" id="Trama"></span>Plot<span class="ez-toc-section-end"></span></h2>
+<p><em><strong>The Devil Wears Prada</strong></em> follows the events of <strong>Andrea “Andy” Sachs</strong>, a recent graduate and aspiring journalist with nothing short of terrible taste in looks.</p>
+<p>Looking for a job, Andrea decides to have an interview at the prestigious fashion magazine <em>Runway</em> to get the job as second assistant to the director <strong>Miranda Priestly</strong>. Miranda couldn't be more different from Andrea: despotic, tyrannical but very elegant, the woman initially sends the protagonist away without too many compliments, only to then retrace her steps.</p>
+<p>Hired by Miranda, who never misses an opportunity to mock her for her poor aesthetic sense, Andrea is also forced to suffer the harassment of the first assistant <strong>Emily</strong>, jealous and excessively competitive (as well as exaggeratedly obsessed with her appearance); the situation, however, is destined to reverse.</p>
+<p>In fact, Andrea will receive unconditional support from <strong>Nigel</strong>, Miranda's trusted right-hand man, who will revolutionize her look, transforming her from a sloppy assistant to <strong>a trendy</strong> and successful woman. A change which, if on the one hand will contribute to raising Andy's prices within <em>Runway</em>, on the other <strong>will distance her from her closest loved ones</strong>, primarily from her boyfriend <strong>Nate</strong>.</p>
+<p>Torn between the dream of having a career and the desire to remain herself, Andy will inevitably find herself at a crossroads: <strong>which path will she decide to take</strong>?</p>
 <div class="video-shortcode"><iframe title="Il Diavolo Veste Prada (2006) - La trasformazione di Andy" width="1170" height="658" src="https://www.youtube.com/embed/Erkh65aenTc?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-<h2><span class="ez-toc-section" id="Accoglienza"></span>Accoglienza<span class="ez-toc-section-end"></span></h2>
-<p>La pellicola uscì il 30 giugno 2006 negli USA; per poterlo vedere in Italia, i cinefili hanno dovuto attendere sino ad ottobre dello stesso anno.</p>
-<p>Sin dalla sua prima proiezione <strong><em>Il diavolo veste Prada</em></strong> è stato inondato da <strong>recensioni positive</strong>. Il merito è da ricercarsi soprattutto nelle <strong>performance attoriali </strong>del duo<strong> Meryl Streep &#8211; Anne Hathaway</strong> e nell&#8217;adattamento del romanzo della Weisberger, talmente ben riuscito da aver superato qualitativamente l&#8217;opera originale.</p>
-<p>Sagace, pungente, ma veritiero: <em>Il diavolo veste Prada</em> mostra al pubblico l&#8217;altra faccia dello scintillante mondo della moda, quel lato oscuro fatto di sgambetti gratuiti, invidie, dispetti di varia entità e anche di piccole e grandi ipocrisie.</p>
-<p>Contribuisce a rendere la pellicola diretta da Frankel un autentico gioiello delle commedie agrodolci anche una <strong>colonna sonora</strong> ben adeguata al contesto. Non manca la hit <em>Vogue</em> di <strong>Madonna</strong> al fianco di canzoni come <em>City of Blinding Lights</em> degli <strong>U2</strong>,<em> Crazy</em> di <strong>Alanis Morissette</strong>,<em> Beautiful</em> di <strong>Moby</strong>.</p>
-<p><em><strong>Il diavolo veste Prada</strong> </em>ha ricevuto consensi quasi unanimi da pubblico e critica. Consensi che si sono tradotti non solo in <strong>incassi record al botteghino</strong> (prodotto con un budget di 35 milioni di dollari circa, il film di David Frankel ne ha incassati ben 326) ma anche in nomination e assegnazioni in quasi tutti i settori: tra questi, spicca il <strong>Golden Globe</strong> assegnato a <strong>Meryl Streep</strong> come Miglior Attrice in un Film Commedia o Musicale.</p>
+<h2><span class="ez-toc-section" id="Accoglienza"></span>Welcome<span class="ez-toc-section-end"></span></h2>
+<p>The film was released on June 30, 2006 in the USA; to see it in Italy, cinephiles had to wait until October of the same year.</p>
+<p>Since its first screening <strong><em>The Devil Wears Prada</em></strong> has been inundated with <strong>positive reviews</strong>. The merit is to be found above all in the <strong> acting performances </strong> of the duo <strong> Meryl Streep - Anne Hathaway </strong> and in the adaptation of Weisberger's novel, so successful that it has qualitatively surpassed the original work.</p>
+<p>Shrewd, biting, but truthful: <em>The Devil Wears Prada</em> shows the public the other side of the glittering world of fashion, that dark side made up of gratuitous trips, envy, spite of various degrees and also of small and large hypocrisies.</p>
+<p>A <strong>soundtrack</strong> well suited to the context also contributes to making the film directed by Frankel an authentic jewel of bittersweet comedies. There is no shortage of the hit <em>Vogue</em> by <strong>Madonna</strong> alongside songs such as <em>City of Blinding Lights</em> by <strong>U2</strong>,<em> Crazy</em> by <strong>Alanis Morissette</strong>,<em> Beautiful</em> by <strong>Moby</strong>.</p>
+<p><em><strong>The Devil Wears Prada</strong> </em>received almost unanimous acclaim from audiences and critics. Acclaim that translated not only into <strong>record box office receipts</strong> (produced with a budget of around 35 million dollars, David Frankel's film grossed 326) but also into nominations and awards in almost all sectors: among these, the <strong>Golden Globe</strong> awarded to <strong>Meryl Streep</strong> as Best Actress in a Comedy or Musical Film stands out.</p>
 <div class="video-shortcode"><iframe title="Il Diavolo Veste Prada - E&#039; effettivamente ceruleo" width="1170" height="878" src="https://www.youtube.com/embed/poQify7dyS8?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-<h2><span class="ez-toc-section" id="Curiosita"></span>Curiosità<span class="ez-toc-section-end"></span></h2>
-<p>L&#8217;autrice del romanzo dal quale è tratto <em>Il diavolo veste Prada</em> ha attinto dalla sua personale esperienza. La Weisberger, infatti, ha lavorato per anni presso la rivista<em> <a href="{{ '/riviste-di-moda/vogue/' | relative_url }}">Vogue</a></em> sotto l&#8217;attenta direzione di <strong>Anna Wintour</strong>. Sono lampanti i richiami della primadonna di <em>Vogue</em> nel personaggio di Miranda, anche se la scrittrice ha sottolineato che la Wintour non fosse caratterialmente così spigolosa come il suo &#8220;alter ego&#8221; sullo schermo.</p>
-<p>Lauren Weisberger è presente nel film in un piccolo <strong>cameo</strong>: interpreta, infatti, la governante delle gemelle Priestly. Oltre all&#8217;autrice del romanzo troviamo numerosi volti noti della moda all&#8217;interno del film, tra i quali spiccano l&#8217;immenso stilista <a href="{{ '/stilisti/stilisti-italiani/valentino/' | relative_url }}">Valentino</a> e le modelle <strong>Gisele Bündchen</strong> (nella parte di Serena), <strong>Heidi Klum, Bridget Hall, Inés Rivero </strong>e<strong> Alyssa Sutherland</strong>.</p>
-<p>Il ruolo di Miranda Priestly fu originariamente offerto a <strong>Glenn Close</strong> che, temendo di &#8220;rinchiudersi&#8221; in un ruolo-stereotipo (la bella ma megera antagonista), lo rifiutò.</p>
+<h2><span class="ez-toc-section" id="Curiosita"></span>Curiosities<span class="ez-toc-section-end"></span></h2>
+<p>The author of the novel from which <em> The Devil Wears Prada </em> is based drew on her personal experience. Weisberger, in fact, worked for years at the magazine<em> <a href="{{ '/riviste-di-moda/vogue/' | relative_url }}">Vogue</a></em> under the careful direction of <strong>Anna Wintour</strong>. The references to the <em>Vogue</em> primadonna in the character of Miranda are clear, even if the writer underlined that Wintour was not as angular in character as her "alter ego" on the screen.</p>
+<p>Lauren Weisberger is present in the film in a small <strong>cameo</strong>: she plays, in fact, the Priestly twins' housekeeper. In addition to the author of the novel we find numerous well-known fashion faces in the film, among which the immense stylist <a href="{{ '/stilisti/stilisti-italiani/valentino/' | relative_url }}"> Valentino </a> and the models <strong> Gisele Bündchen </strong> (in the role of Serena), <strong> Heidi Klum, Bridget Hall, Inés Rivero </strong> and <strong> Alyssa Sutherland </strong> stand out.</p>
+<p>The role of Miranda Priestly was originally offered to <strong>Glenn Close</strong> who, fearing "locking herself up" in a stereotype role (the beautiful but shrewd antagonist), turned it down.</p>
 <div class="video-shortcode"><iframe title="Il Diavolo Veste Prada (2006) - Miranda vuole che Andy vada a Parigi al posto di Emily" width="1170" height="658" src="https://www.youtube.com/embed/34K5_bX07-M?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 <p>&nbsp;</p>

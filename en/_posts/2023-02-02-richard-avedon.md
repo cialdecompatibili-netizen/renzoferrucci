@@ -2,7 +2,7 @@
 layout: single
 title: "Richard Avedon"
 date: 2023-02-02
-excerpt: "Richard Avedon è stato uno dei più grandi fotografi di moda del XX secolo. Nato a New York nel 1923, Avedon ha iniziato la sua carriera fotografica alla fine degli anni ’40, diventando presto uno dei fotografi più richiesti della sua generazione. La sua abilità nella fotografia di moda ha rivoluzion"
+excerpt: "Richard Avedon was one of the greatest fashion photographers of the 20th century. Born in New York in 1923, Avedon began his photographic career in the late 1940s, quickly becoming one of the most sought-after photographers of his generation. His skill in fashion photography has revolutionized"
 seo_title: "Richard Avedon"
 header:
   teaser: /assets/posts/richard-avedon/RichardAvedon.jpg
@@ -11,8 +11,7 @@ categories:
 ref: richard-avedon
 lang: en
 locale: en
-tr: copia
-sitemap: false
+tr: tradotto
 tr_hash: 1ye9iys
 ---
 <div class="w-full border-b border-black/10 dark:border-gray-900/50 text-gray-800 dark:text-gray-100 group bg-gray-50 dark:bg-[#444654]">
@@ -21,65 +20,65 @@ tr_hash: 1ye9iys
 <div class="flex flex-grow flex-col gap-3">
 <div class="min-h-[20px] flex flex-col items-start gap-4 whitespace-pre-wrap">
 <div class="markdown prose w-full break-words dark:prose-invert light">
-<p>Richard Avedon è stato uno dei più grandi fotografi di moda del XX secolo. Nato a New York nel 1923, Avedon ha iniziato la sua carriera fotografica alla fine degli anni &#8217;40, diventando presto uno dei fotografi più richiesti della sua generazione. La sua abilità nella fotografia di moda ha rivoluzionato il modo in cui le immagini venivano presentate e considerate dal pubblico e dalle aziende di moda.<br />
+<p>Richard Avedon was one of the greatest fashion photographers of the 20th century. Born in New York in 1923, Avedon began his photographic career in the late 1940s, quickly becoming one of the most sought-after photographers of his generation. His skill in fashion photography revolutionized the way images were presented and viewed by the public and fashion companies.<br />
 <!--more--></p>
 
-<h2><span class="ez-toc-section" id="Biografia"></span>Biografia<span class="ez-toc-section-end"></span></h2>
-<p><strong>Richard Avedon</strong> è stato uno dei fotografi più importanti del XX secolo, noto soprattutto per i suoi ritratti e le sue fotografie di moda. Nato a <strong>New York</strong> il 15 maggio 1923, Avedon ha iniziato ad esplorare la fotografia da solo all&#8217;età di 10 anni, e si è subito appassionato alla ritrattistica.</p>
-<p>Negli anni &#8217;40 ha iniziato a lavorare come fotografo freelance per varie riviste di moda, tra cui <a href="https://www.harpersbazaar.com/it/" target="_blank" rel="noopener"><strong>Harper&#8217;s Bazaar</strong></a>, dove ha sviluppato uno stile unico di fotografia di moda caratterizzato dall&#8217;uso del movimento e della sperimentazione di colori e pose. Negli anni &#8217;50 ha lavorato anche per la rivista <a href="https://www.vogue.it/" target="_blank" rel="noopener"><strong>Vogue</strong></a>, diventando uno dei fotografi più importanti del mondo della moda.</p>
-<p>Ma Avedon è stato anche un grande ritrattista, e ha fotografato molte celebrità tra cui <strong>Marilyn Monroe</strong>, <strong>The Beatles</strong>, <strong>Andy Warhol</strong> e <strong>Tupac Shakur</strong>, per citarne solo alcune. Nel 1963 ha scattato un famoso ritratto di <strong>James Baldwin</strong>, che divenne un&#8217;icona del movimento per i diritti civili.</p>
-<p>Avedon ha continuato a lavorare fino alla sua morte. È stato uno dei fotografi più influenti del XX secolo, e i suoi lavori sono stati esposti in importanti musei e gallerie di tutto il mondo. Inoltre, ha ricevuto numerosi premi e riconoscimenti per la sua carriera, tra cui la <strong>Medaglia d&#8217;Oro del National Arts Club</strong> e il <strong>Lifetime Achievement Award del Council of Fashion Designers of America</strong>.</p>
-<p>Sebbene sia deceduto nel 2004, la sua influenza continua a essere forte ancora oggi.</p>
+<h2><span class="ez-toc-section" id="Biografia"></span>Biography<span class="ez-toc-section-end"></span></h2>
+<p><strong>Richard Avedon</strong> was one of the most important photographers of the 20th century, best known for his portraits and fashion photographs. Born in <strong>New York</strong> on May 15, 1923, Avedon began exploring photography on his own at the age of 10, and quickly became passionate about portraiture.</p>
+<p>In the 1940s he began working as a freelance photographer for various fashion magazines, including <a href="https://www.harpersbazaar.com/it/" target="_blank" rel="noopener"><strong>Harper's Bazaar</strong></a>, where he developed a unique style of fashion photography characterized by the use of movement and experimentation with colors and poses. In the 1950s he also worked for <a href="https://www.vogue.it/" target="_blank" rel="noopener"><strong>Vogue</strong></a> magazine, becoming one of the most important photographers in the world of fashion.</p>
+<p>But Avedon was also a great portraitist, and photographed many celebrities including <strong>Marilyn Monroe</strong>, <strong>The Beatles</strong>, <strong>Andy Warhol</strong> and <strong>Tupac Shakur</strong>, to name just a few. In 1963 he took a famous portrait of <strong>James Baldwin</strong>, who became an icon of the civil rights movement.</p>
+<p>Avedon continued to work until his death. He was one of the most influential photographers of the 20th century, and his work has been exhibited in major museums and galleries around the world. Furthermore, he has received numerous awards and recognitions for his career, including the <strong>Gold Medal from the National Arts Club</strong> and the <strong>Lifetime Achievement Award from the Council of Fashion Designers of America</strong>.</p>
+<p>Although he passed away in 2004, his influence continues to be strong today.</p>
 <h2><span class="ez-toc-section" id="Stile"></span>Stile<span class="ez-toc-section-end"></span></h2>
-<p>Il suo stile distintivo si caratterizza per la sua <strong>immediatezza</strong>, la sua <strong>essenzialità</strong> e la sua <strong>intensità</strong>.</p>
+<p>His distinctive style is characterized by its <strong>immediacy</strong>, its <strong>essentiality</strong> and its <strong>intensity</strong>.</p>
 <p><img src="https://i.pinimg.com/736x/98/fb/cd/98fbcd6be79bc0690130722debb5e850--ballet-beautiful-vogue-magazine.jpg" alt="" loading="lazy"></p>
-<p>Avedon era un maestro nell&#8217;arte del ritratto, con un talento straordinario per catturare l&#8217;anima dei suoi soggetti attraverso l&#8217;obiettivo della macchina fotografica. I suoi ritratti sono famosi per la loro semplicità, per la loro capacità di concentrarsi sul soggetto e per la loro abilità nel mostrare l&#8217;essenza della persona fotografata. Avedon utilizzava spesso uno <strong>sfondo bianco</strong> per isolare il soggetto e farlo risaltare ancora di più.</p>
-<p>Oltre ai suoi ritratti, Avedon è stato anche un innovatore nella fotografia di <strong>moda</strong>, dove ha introdotto un nuovo stile basato sulla spontaneità e sulla naturalezza. Le sue fotografie di moda erano diverse da quelle di altri fotografi, perché Avedon cercava di mostrare l&#8217;<strong>abbigliamento in movimento</strong>, in modo che il pubblico potesse avere un&#8217;idea di come si sarebbe comportato indossandolo.</p>
+<p>Avedon was a master of the art of portraiture, with an extraordinary talent for capturing the soul of his subjects through the lens of the camera. His portraits are famous for their simplicity, for their ability to focus on the subject and for their ability to show the essence of the person photographed. Avedon often used a <strong>white background</strong> to isolate the subject and make it stand out even more.</p>
+<p>In addition to his portraits, Avedon was also an innovator in <strong>fashion photography</strong>, where he introduced a new style based on spontaneity and naturalness. His fashion photographs were different from those of other photographers, because Avedon tried to show <strong>clothing in motion</strong>, so that the public could get an idea of ​​how they would behave wearing it.</p>
 <p><img src="https://i.pinimg.com/originals/bb/fd/72/bbfd723ca0ecf4f2b0221f1aeb792c6d.jpg" alt="" loading="lazy"></p>
-<p>Ma l&#8217;elemento più importante dello stile di Avedon è la sua attenzione per l&#8217;essenzialità. Avedon cercava sempre di mostrare la verità in ciò che fotografava, e questo significava eliminare tutto ciò che era superfluo. Le sue fotografie sono caratterizzate da un uso molto limitato degli elementi visivi, che però sono sempre scelti con cura per rappresentare il soggetto nel modo più efficace possibile.</p>
-<p>Infine, lo stile di Avedon è caratterizzato anche dalla sua grande sensibilità nei confronti del tempo. I suoi ritratti spesso mostrano le <strong>rughe</strong> e le <strong>imperfezioni</strong> del volto dei soggetti, ma in modo tale da renderle un&#8217;aggiunta alla loro <strong>personalità</strong> piuttosto che un difetto. Avedon ha sempre cercato di catturare l&#8217;essenza del momento, lasciando che l&#8217;imperfezione aggiunga ulteriore profondità e significato alle sue fotografie.</p>
-<p>In sintesi, lo stile di Richard Avedon è caratterizzato dalla sua attenzione per la verità e per la sensibilità nei confronti del soggetto e del tempo. Il suo lavoro ha avuto un grande impatto sulla fotografia di ritratto e di moda, ed è ancora oggi una fonte di ispirazione per molti fotografi di tutto il mondo.</p>
-<h2><span class="ez-toc-section" id="Onoreficenze"></span>Onoreficenze<span class="ez-toc-section-end"></span></h2>
-<p>Durante la sua vita, Richard Avedon ha ricevuto moltissime onoreficenze: ora andremo ad elencare e descrivere brevemente le 7 principali.</p>
-<p>I. <strong>Medaglia d&#8217;Oro per la Fotografia dal Royal Photographic Society</strong>: nel 1985, Richard Avedon è stato premiato con la Medaglia d&#8217;Oro per la Fotografia dal Royal Photographic Society, uno dei premi più prestigiosi nel mondo della fotografia.</p>
-<p>II. <strong>Premio International Center of Photography Infinity for Lifetime Achievement</strong>: nel 1993, Avedon è stato premiato con il Premio International Center of Photography Infinity for Lifetime Achievement, un premio che riconosce il lavoro di una vita intera nel campo della fotografia.</p>
-<p>III. <strong>Medaglia d&#8217;Oro della National Arts Club</strong>: nel 1997, Avedon è stato premiato con la Medaglia d&#8217;Oro della National Arts Club, un&#8217;organizzazione che si dedica a promuovere l&#8217;arte e la cultura negli Stati Uniti.</p>
-<p>IV. <strong>Candidatura all&#8217;Oscar per il miglior documentario nel 1994 con il film &#8220;Richard Avedon: Darkness and Light&#8221;</strong>: nel 1994, Avedon è stato candidato all&#8217;Oscar per il miglior documentario con il film &#8220;Richard Avedon: Darkness and Light&#8221;, che racconta la sua vita e il suo lavoro come fotografo.</p>
-<p>V. Membro onorario dell&#8217;<strong>American Academy of Arts and Letters</strong>: nel 1994, Avedon è stato nominato membro onorario dell&#8217;American Academy of Arts and Letters, un&#8217;organizzazione che si dedica a promuovere le arti e la cultura negli Stati Uniti.</p>
-<p>VI. Membro onorario della <strong>Royal Photographic Society</strong> : nel 1994, Avedon è stato nominato membro onorario della Royal Photographic Society, un&#8217;organizzazione che promuove la fotografia nel Regno Unito e in tutto il mondo.</p>
-<p>VII. Candidatura al <strong>Premio Pulitzer per la fotografia</strong> : nel 1976, Avedon è stato candidato al Premio Pulitzer per la fotografia per il suo lavoro sulla campagna presidenziale di George McGovern.</p>
-<h2><span class="ez-toc-section" id="Bibliografia"></span>Bibliografia<span class="ez-toc-section-end"></span></h2>
-<p>Richard Avedon non ha mai scritto nessun libro, tuttavia ci sono molti autori che hanno speso del tempo per parlare di questo grande maestro della fotografia e per documentare la sua carriera e le sue opere più famose. Ecco alcuni dei libri più interessanti:</p>
+<p>But the most important element of Avedon's style is his attention to essentiality. Avedon always tried to show the truth in what he photographed, and that meant eliminating anything superfluous. His photographs are characterized by a very limited use of visual elements, which however are always carefully chosen to represent the subject in the most effective way possible.</p>
+<p>Finally, Avedon's style is also characterized by his great sensitivity towards time. His portraits often show the <strong>wrinkles</strong> and <strong>imperfections</strong> of the subjects' faces, but in such a way as to make them an addition to their <strong>personality</strong> rather than a flaw. Avedon has always sought to capture the essence of the moment, letting imperfection add further depth and meaning to his photographs.</p>
+<p>In summary, Richard Avedon's style is characterized by his attention to truth and sensitivity to subject and time. His work had a great impact on portrait and fashion photography, and is still a source of inspiration for many photographers around the world today.</p>
+<h2><span class="ez-toc-section" id="Onoreficenze"></span>Honoraries<span class="ez-toc-section-end"></span></h2>
+<p>During his life, Richard Avedon received many honors: we will now list and briefly describe the 7 main ones.</p>
+<p>I. <strong>Gold Medal for Photography by the Royal Photographic Society</strong>: In 1985, Richard Avedon was awarded the Gold Medal for Photography by the Royal Photographic Society, one of the most prestigious awards in the world of photography.</p>
+<p>II. <strong>International Center of Photography Infinity Award for Lifetime Achievement</strong>: In 1993, Avedon was awarded the International Center of Photography Infinity Award for Lifetime Achievement, an award recognizing a lifetime's work in the field of photography.</p>
+<p>III. <strong>Gold Medal from the National Arts Club</strong>: In 1997, Avedon was awarded the Gold Medal from the National Arts Club, an organization dedicated to promoting art and culture in the United States.</p>
+<p>IV. <strong>Oscar nomination for best documentary in 1994 with the film “Richard Avedon: Darkness and Light”</strong>: in 1994, Avedon was nominated for an Oscar for best documentary with the film “Richard Avedon: Darkness and Light”, which tells about his life and work as a photographer.</p>
+<p>V. Honorary Member of the <strong>American Academy of Arts and Letters</strong>: In 1994, Avedon was named an honorary member of the American Academy of Arts and Letters, an organization dedicated to promoting the arts and culture in the United States.</p>
+<p>YOU. Honorary Member of the <strong>Royal Photographic Society</strong>: In 1994, Avedon was made an honorary member of the Royal Photographic Society, an organization that promotes photography in the United Kingdom and around the world.</p>
+<p>VII. <strong>Pulitzer Prize for Photography Nomination</strong>: In 1976, Avedon was nominated for the Pulitzer Prize for Photography for his work on George McGovern's presidential campaign.</p>
+<h2><span class="ez-toc-section" id="Bibliografia"></span>Bibliography<span class="ez-toc-section-end"></span></h2>
+<p>Richard Avedon never wrote any book, however there are many authors who have spent time talking about this great master of photography and documenting his career and his most famous works. Here are some of the most interesting books:</p>
 <ol>
-<li><strong>&#8220;Richard Avedon: Photographs 1946-2004&#8221;</strong> &#8211; Questo album raccoglie una vasta selezione delle opere di Avedon, che spaziano dalla fotografia di moda ai ritratti di celebrità e personalità famose.</li>
-<li><strong>&#8220;Avedon Fashion 1944-2000&#8221;</strong> &#8211; Questo volume è incentrato sulla fotografia di moda di Avedon, mostrando alcuni dei suoi scatti più famosi per riviste come Harper&#8217;s Bazaar e Vogue.</li>
-<li><strong>&#8220;In the American West&#8221;</strong> &#8211; Questo libro documenta la serie di ritratti che Avedon ha realizzato in America occidentale nel 1979-1984. I ritratti mostrano persone comuni in pose semplici e senza trucco, catturando l&#8217;essenza della vita nella regione.</li>
+<li><strong>“Richard Avedon: Photographs 1946-2004”</strong> – This album brings together a vast selection of Avedon's works, ranging from fashion photography to portraits of celebrities and famous personalities.</li>
+<li><strong>“Avedon Fashion 1944-2000”</strong> – This volume focuses on Avedon's fashion photography, showcasing some of his most famous shots for magazines such as Harper's Bazaar and Vogue.</li>
+<li><strong>“In the American West”</strong> – This book documents the series of portraits Avedon made in the American West from 1979-1984. The portraits show ordinary people in simple poses and without makeup, capturing the essence of life in the region.</li>
 </ol>
-<h2><span class="ez-toc-section" id="Sito_Web"></span>Sito Web<span class="ez-toc-section-end"></span></h2>
-<p><a href="https://www.avedonfoundation.org/" target="_blank" rel="noopener"><strong>The Richard Avedon Foundation</strong></a> è un&#8217;organizzazione senza scopo di lucro dedicata alla conservazione e alla promozione del lavoro del celebre fotografo americano Richard Avedon.</p>
-<p>La fondazione è stata fondata nel 2004 dopo la morte di Avedon, e si dedica a preservare il suo archivio fotografico, a promuovere mostre del suo lavoro e a fornire borse di studio per artisti emergenti. L&#8217;archivio della fondazione è aperto al pubblico su appuntamento per scopi di ricerca e studio.</p>
-<p>La fondazione ha collaborato con importanti musei come il <strong>Metropolitan Museum of Art di New York</strong> per organizzare mostre del lavoro di Avedon. Nel 2023, ad esempio, la fondazione ha sponsorizzato una mostra di murales fotografici di Avedon al Met.</p>
-<p>La Richard Avedon Foundation offre anche borse di studio per artisti emergenti nei campi della fotografia, del cinema e delle arti visive, per promuovere l&#8217;eredità di Avedon e supportare giovani talenti.</p>
-<p>In sintesi, la Richard Avedon Foundation è un&#8217;organizzazione senza scopo di lucro dedicata alla conservazione e alla promozione del lavoro del celebre fotografo americano Richard Avedon.</p>
-<h2><span class="ez-toc-section" id="Citazioni"></span>Citazioni<span class="ez-toc-section-end"></span></h2>
-<p>Parlando di Richard Avedon non è solo la sua tecnica a renderlo unico, ma anche le sue parole: durante la sua carriera ha parlato della sua fotografia e del suo stile in modo da immortalare anche con la voce ciò che la sua arte rappresentava per lui. Vediamo alcune citazioni.</p>
-<blockquote><p>&#8220;Se passa un giorno in cui non ho fatto qualcosa legato alla fotografia, è come se avessi trascurato qualcosa di essenziale. È come se mi fossi dimenticato di svegliarmi.&#8221;</p></blockquote>
-<p>Questa citazione di Avedon sottolinea l&#8217;importanza che la fotografia aveva nella sua vita. E ci ricorda che per diventare un fotografo di successo, devi essere sempre motivato e impegnato.</p>
-<blockquote><p>&#8220;Tutte le fotografie sono accurate. Nessuna di esse è la verità.&#8221;</p></blockquote>
-<p>Questa frase è stata spesso discussa nel mondo della fotografia, ma cosa significa veramente? Avedon sostiene che le fotografie sono sempre accurate nel rappresentare ciò che è stato catturato, ma non possono mai essere la verità ultima, poiché sono sempre una rappresentazione soggettiva.</p>
-<blockquote><p>&#8220;Non esiste una vera bellezza senza una piccola imperfezione.&#8221;</p></blockquote>
-<p>Qui Avedon ci ricorda che la perfezione non è sempre ciò che rende una fotografia interessante. Le imperfezioni possono aggiungere profondità e carattere, rendendo la foto ancora più affascinante.</p>
-<blockquote><p>&#8220;Un ritratto non è una somiglianza. Il momento in cui un&#8217;emozione o un fatto viene trasformato in una fotografia non è più un fatto ma un&#8217;opinione.&#8221;</p></blockquote>
-<p>La fotografia non è solo una riproduzione esatta della realtà, ma può essere anche una rappresentazione emotiva e soggettiva.</p>
-<blockquote><p>&#8220;Non cerco la bellezza, cerco la verità.&#8221;</p></blockquote>
-<p>L&#8217;artista qui sottolinea la sua ricerca di autenticità e sincerità nella fotografia. Ciò che conta non è solo la bellezza esteriore, ma anche l&#8217;essenza interiore delle persone.</p>
-<blockquote><p>&#8220;La fotografia è una trappola per la realtà.&#8221;</p></blockquote>
-<p>La fotografia può essere ingannevole, ci mostra solo un istante della realtà, e non tutto ciò che accade intorno ad esso.</p>
-<blockquote><p>&#8220;Non c&#8217;è niente di noioso nella fotografia, solo persone noiose che non sono interessate alla fotografia.&#8221;</p></blockquote>
-<p>Avedon ci invita affettuosamente a scoprire l&#8217;entusiasmo e la passione che la fotografia può portare. È solo questione di trovare il giusto punto di vista.</p>
+<h2><span class="ez-toc-section" id="Sito_Web"></span>Website<span class="ez-toc-section-end"></span></h2>
+<p><a href="https://www.avedonfoundation.org/" target="_blank" rel="noopener"><strong>The Richard Avedon Foundation</strong></a> is a non-profit organization dedicated to preserving and promoting the work of celebrated American photographer Richard Avedon.</p>
+<p>The foundation was founded in 2004 after Avedon's death, and is dedicated to preserving his photographic archive, promoting exhibitions of his work and providing scholarships for emerging artists. The foundation's archive is open to the public by appointment for research and study purposes.</p>
+<p>The foundation has collaborated with major museums such as the <strong>Metropolitan Museum of Art in New York</strong> to organize exhibitions of Avedon's work. In 2023, for example, the foundation sponsored an exhibition of Avedon's photographic murals at the Met.</p>
+<p>The Richard Avedon Foundation also offers grants for emerging artists in the fields of photography, film and visual arts, to promote Avedon's legacy and support young talent.</p>
+<p>In summary, the Richard Avedon Foundation is a non-profit organization dedicated to preserving and promoting the work of celebrated American photographer Richard Avedon.</p>
+<h2><span class="ez-toc-section" id="Citazioni"></span>Quotes<span class="ez-toc-section-end"></span></h2>
+<p>Speaking of Richard Avedon, it is not only his technique that makes him unique, but also his words: during his career he spoke about his photography and his style in order to also immortalize with his voice what his art represented for him. Let's see some quotes.</p>
+<blockquote><p>"If a day goes by where I haven't done something photography-related, it's like I've neglected something essential. It's like I've forgotten to wake up."</p></blockquote>
+<p>This quote from Avedon underlines the importance that photography had in his life. And it reminds us that to become a successful photographer, you must always be motivated and committed.</p>
+<blockquote><p>"All photographs are accurate. None of them are the truth."</p></blockquote>
+<p>This phrase has often been discussed in the photography world, but what does it really mean? Avedon argues that photographs are always accurate in representing what has been captured, but can never be the ultimate truth, as they are always a subjective representation.</p>
+<blockquote><p>“There is no true beauty without a little imperfection.”</p></blockquote>
+<p>Here Avedon reminds us that perfection isn't always what makes a photograph interesting. Imperfections can add depth and character, making the photo even more fascinating.</p>
+<blockquote><p>"A portrait is not a likeness. The moment an emotion or a fact is transformed into a photograph is no longer a fact but an opinion."</p></blockquote>
+<p>Photography is not only an exact reproduction of reality, but it can also be an emotional and subjective representation.</p>
+<blockquote><p>“I'm not looking for beauty, I'm looking for truth.”</p></blockquote>
+<p>The artist here underlines his search for authenticity and sincerity in photography. What matters is not only external beauty, but also the internal essence of people.</p>
+<blockquote><p>“Photography is a trap for reality.”</p></blockquote>
+<p>Photography can be deceptive, it only shows us an instant of reality, and not everything that happens around it.</p>
+<blockquote><p>“There is nothing boring about photography, just boring people who aren't interested in photography.”</p></blockquote>
+<p>Avedon affectionately invites us to discover the enthusiasm and passion that photography can bring. It's just a matter of finding the right point of view.</p>
 </div>
 <h2><span class="ez-toc-section" id="Video"></span>Video<span class="ez-toc-section-end"></span></h2>
-<p>In questo video è possibile osservare alcune delle sue opere più famose ed iconiche, capaci di riassumere il suo talento e la sua arte.</p>
+<p>In this video it is possible to observe some of his most famous and iconic works, capable of summarizing his talent and his art.</p>
 <div class="video-shortcode"><iframe title="Richard Avedon - In The American West | Taccuino Fotografico" width="1170" height="658" src="https://www.youtube.com/embed/WuL7y7oaoag?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
 </div>
 </div>

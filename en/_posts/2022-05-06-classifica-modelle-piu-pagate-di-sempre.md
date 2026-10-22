@@ -1,10 +1,10 @@
 ---
 layout: single
-title: "Classifica: le modelle più pagate di sempre"
+title: "Ranking: the highest paid models of all time"
 date: 2022-05-06
-excerpt: "Sono bellissime, popolari e seguitissime sui social network: sono le modelle, brand vivente per eccellenza di ogni casa di moda. Negli anni la professione della top model si è evoluta: è sempre più frequente trovare come primedonne per le case di moda personalità multitasking, divise tra la professi"
-seo_title: "Classifica: le modelle più pagate di sempre"
-seo_description: "Amate, seguite e retribuite: quali sono le dieci modelle più pagate di sempre? Scoprilo con l'esclusiva classifica Renzo Pagani!"
+excerpt: "They are beautiful, popular and followed on social networks: they are the models, the living brand par excellence of every fashion house. Over the years the profession of the top model has evolved: it is increasingly common to find multitasking personalities as prima donnas for fashion houses, divided between the profession"
+seo_title: "Ranking: the highest paid models of all time"
+seo_description: "Loved, followed and paid: who are the ten highest paid models of all time? Find out with the exclusive Renzo Pagani ranking!"
 header:
   teaser: /assets/posts/classifica-modelle-piu-pagate-di-sempre/classifica-modelle.jpg
 categories:
@@ -13,54 +13,53 @@ categories:
 ref: classifica-modelle-piu-pagate-di-sempre
 lang: en
 locale: en
-tr: copia
-sitemap: false
+tr: tradotto
 tr_hash: 19pw7gt
 ---
-<p>Sono bellissime, popolari e seguitissime sui social network: sono le <strong>modelle</strong>, <em>brand vivente</em> per eccellenza di ogni casa di moda.</p>
-<p>Negli anni la <strong>professione della top model</strong> si è evoluta: è sempre più frequente trovare come primedonne per le case di moda <strong>personalità multitasking</strong>, divise tra la professione di supermodella e quelle di attrice, cantante, designer, personaggio televisivo.</p>
-<p>Oltre ad essere delle autentiche stacanoviste, le modelle sono anche <strong>ben retribuite</strong> per il loro lavoro. Se siete curiosi di sapere chi sono le le modelle più pagate dello star system, date un&#8217;occhiata a questa <strong>classifica</strong>.</p>
+<p>They are beautiful, popular and highly followed on social networks: they are the <strong>models</strong>, <em>living brands</em> par excellence of every fashion house.</p>
+<p>Over the years the <strong>profession of the top model</strong> has evolved: it is increasingly common to find prima donnas for fashion houses <strong>multitasking personality</strong>, divided between the profession of supermodel and those of actress, singer, designer, television personality.</p>
+<p>In addition to being true workaholics, models are also <strong>well paid</strong> for their work. If you are curious to know who the highest paid models in the star system are, take a look at this <strong> ranking </strong>.</p>
 
-<h2><span class="ez-toc-section" id="1_%E2%80%93_Kendall_Jenner"></span>1 &#8211; Kendall Jenner<span class="ez-toc-section-end"></span></h2>
-<p>Il primo posto di questa superlativa classifica è occupata da una modella che non ha certo bisogno di presentazioni.</p>
-<p>Classe &#8217;95, <strong>Kendall Jenner</strong> è nota al grande pubblico per appartenere alla vasta e pittoresca &#8220;dinastia&#8221; dei <strong>Kardashian</strong> ed è diventata famosa proprio grazie al reality &#8220;<strong>Al passo con i Kardashian</strong>&#8220;. Il patrimonio della figlia di<strong> Kris </strong>e<strong> Caitlyn Jenner</strong> si aggira attorno ai <strong>22,5 milioni di dollari</strong>: mica male per una giovane divenuta supermodella in tempi record.</p>
+<h2><span class="ez-toc-section" id="1_%E2%80%93_Kendall_Jenner"></span>1 – Kendall Jenner<span class="ez-toc-section-end"></span></h2>
+<p>The first place in this superlative ranking is occupied by a model who certainly needs no introduction.</p>
+<p>Born in '95, <strong>Kendall Jenner</strong> is known to the general public for belonging to the vast and picturesque "dynasty" of the <strong>Kardashians</strong> and became famous thanks to the reality show "<strong>Keeping up with the Kardashians</strong>". The assets of the daughter of <strong> Kris </strong> and <strong> Caitlyn Jenner </strong> are around <strong> 22.5 million dollars </strong>: not bad for a young woman who became a supermodel in record time.</p>
 <div class="video-shortcode"><iframe title="Model Moments: Kendall Jenner" width="1170" height="658" src="https://www.youtube.com/embed/rWaj-XtIkZ8?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-<h2><span class="ez-toc-section" id="2_%E2%80%93_Karlie_Kloss"></span>2 &#8211; Karlie Kloss<span class="ez-toc-section-end"></span></h2>
-<p>Al secondo posto della classifica delle modelle più pagate al mondo troviamo la supermodella e blogger americana <strong>Karlie Kloss</strong>. Nata nel 1992, ha iniziato a lavorare nel 2007 per le più grandi maison: <strong>Versace, Carolina Herrera, Calvin Klein, Just Cavalli</strong>. Il suo nome, tuttavia, è legato soprattutto al famosissimo brand di lingerie <strong>Victoria&#8217;s Secret</strong>, con il quale collaborerà dal 2011 al 2015.</p>
-<p>Il patrimonio della Kloss si aggira attorno ai <strong>13 milioni di dollari</strong>.</p>
+<h2><span class="ez-toc-section" id="2_%E2%80%93_Karlie_Kloss"></span>2 – Karlie Kloss<span class="ez-toc-section-end"></span></h2>
+<p>In second place in the ranking of the highest paid models in the world we find the American supermodel and blogger <strong>Karlie Kloss</strong>. Born in 1992, she began working in 2007 for the biggest fashion houses: <strong>Versace, Carolina Herrera, Calvin Klein, Just Cavalli</strong>. Her name, however, is above all linked to the very famous lingerie brand <strong>Victoria's Secret</strong>, with which she will collaborate from 2011 to 2015.</p>
+<p>Kloss' assets are around <strong>13 million dollars</strong>.</p>
 <div class="video-shortcode"><iframe title="Karlie Kloss | Runway Evolution" width="1170" height="658" src="https://www.youtube.com/embed/5-VKiJXV0Vc?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-<h2><span class="ez-toc-section" id="3_%E2%80%93_Chrissy_Teigen"></span>3 &#8211; Chrissy Teigen<span class="ez-toc-section-end"></span></h2>
-<p>Medaglia di bronzo per la bellissima<strong> Chrissy Teigen</strong>, moglie del cantautore <strong>John Legend</strong>, che vanta una bellezza  etnica grazie alle discendenze norvegesi da parte di padre e thailandesi da parte di madre.</p>
-<p>Il debutto della Teigen nel patinato mondo della moda inizia nel 2004; molto importante il suo debutto sulla rivista <em><strong>Sports Illustrated Swimsuit Issue</strong></em> nel 2010. La modella è comparsa su importanti riviste del settore come <em>Vogue, Glamour </em>e <em>Cosmopolitan</em>. Nel curriculum di Chrissy Teigen anche tanta televisione ed editoria, grazie alla pubblicazione di un libro di ricette.</p>
-<p>Chrissy Teigen è un vulcano in continua eruzione e il suo patrimonio lo dimostra: la modella guadagna, infatti, <strong>11,5 milioni di dollari</strong>.</p>
+<h2><span class="ez-toc-section" id="3_%E2%80%93_Chrissy_Teigen"></span>3 – Chrissy Teigen<span class="ez-toc-section-end"></span></h2>
+<p>Bronze medal for the beautiful<strong> Chrissy Teigen</strong>, wife of the singer-songwriter <strong>John Legend</strong>, who boasts an ethnic beauty thanks to her Norwegian ancestry on her father's side and Thai on her mother's side.</p>
+<p>Teigen's debut in the glossy world of fashion began in 2004; her debut in the magazine <em><strong>Sports Illustrated Swimsuit Issue</strong></em> in 2010 was very important. The model has appeared in important magazines in the sector such as <em>Vogue, Glamor </em>and <em>Cosmopolitan</em>. Chrissy Teigen's CV also includes a lot of television and publishing, thanks to the publication of a recipe book.</p>
+<p>Chrissy Teigen is a continuously erupting volcano and her assets prove it: the model earns, in fact, <strong>11.5 million dollars</strong>.</p>
 
-<h2><span class="ez-toc-section" id="4_%E2%80%93_Rosie_Huntington-Whitely"></span>4 &#8211; Rosie Huntington-Whitely<span class="ez-toc-section-end"></span></h2>
-<p>E&#8217; europea la quarta modella più pagata al mondo. La britannica <strong>Rosie Huntington-Whitely</strong>, oltre ad essere una supermodella di fama internazionale apparsa su riviste come <em>Vogue</em> e <em>Teen Vogue</em>, vanta anche una carriera appagante come attrice (è apparsa in blockbuster come &#8220;<strong>Transformers 3</strong>&#8221; e &#8220;<strong>Mad Max: Fury Road</strong>&#8220;).</p>
-<p>La Huntington-Whitely ha sfilato per grandi nomi della moda: <strong>Agent Provocateur, Shiatzy Chen, Burberry, Abercrombie &amp; Fitch, Bloomingdale&#8217;s, Sportmax, D&amp;G</strong>. Il suo patrimonio è di <strong>11,5 milioni di dollari</strong>, al pari di Chrissy Teigen.</p>
+<h2><span class="ez-toc-section" id="4_%E2%80%93_Rosie_Huntington-Whitely"></span>4 – Rosie Huntington-Whitely<span class="ez-toc-section-end"></span></h2>
+<p>The fourth highest paid model in the world is European. The British <strong>Rosie Huntington-Whitely</strong>, in addition to being an internationally renowned supermodel who has appeared in magazines such as <em>Vogue</em> and <em>Teen Vogue</em>, also boasts a fulfilling career as an actress (she has appeared in blockbusters such as “<strong>Transformers 3</strong>” and “<strong>Mad Max: Fury Road</strong>“).</p>
+<p>Huntington-Whitely has modeled for big names in fashion: <strong>Agent Provocateur, Shiatzy Chen, Burberry, Abercrombie &amp; Fitch, Bloomingdale's, Sportmax, D&amp;G</strong>. Her assets are <strong>11.5 million dollars</strong>, the same as Chrissy Teigen.</p>
 <div class="video-shortcode"><iframe title="Rosie Huntington-Whiteley&#039;s best red carpet moments | Bazaar UK" width="1170" height="658" src="https://www.youtube.com/embed/tg1d6i03i70?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-<h2><span class="ez-toc-section" id="5_%E2%80%93_Gisele_Bundchen"></span>5 &#8211; Gisele Bündchen<span class="ez-toc-section-end"></span></h2>
-<p>Per scoprire chi occupa il quinto posto di questa classifica da far girare la testa dobbiamo volare in Brasile, patria d&#8217;origine della &#8220;divina&#8221; <strong>Gisele Bündchen</strong>.</p>
-<p>Un nome che non ha bisogno di presentazioni, una bellezza da mozzare il fiato, una carriera da supermodella ben rodata che frutta all&#8217;angelo di <strong>Victoria&#8217;s Secret</strong> un patrimonio da fare impallidire Paperon dé Paperoni: <strong>10 milioni di dollari</strong>. Una &#8220;pensione&#8221; più che dignitosa per la Bündchen che, anche se non calca più le passerelle, resta un&#8217;icona assoluta del settore.</p>
+<h2><span class="ez-toc-section" id="5_%E2%80%93_Gisele_Bundchen"></span>5 – Gisele Bündchen<span class="ez-toc-section-end"></span></h2>
+<p>To find out who occupies fifth place in this head-spinning ranking we have to fly to Brazil, homeland of the "divine" <strong>Gisele Bündchen</strong>.</p>
+<p>A name that needs no introduction, a breathtaking beauty, a well-established supermodel career that earns the angel of <strong>Victoria's Secret</strong> a fortune that would make Scrooge McDuck pale: <strong>10 million dollars</strong>. A more than dignified "retirement" for Bündchen who, even if she no longer walks the catwalks, remains an absolute icon of the sector.</p>
 <div class="video-shortcode"><iframe title="Gisele Bündchen | Best Runway Walk" width="1170" height="658" src="https://www.youtube.com/embed/5MA87wHJdkY?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-<h2><span class="ez-toc-section" id="6_%E2%80%93_Cara_Delevigne"></span>6 &#8211; <span id="Cara_Delevigne">Cara Delevigne</span><span class="ez-toc-section-end"></span></h2>
-<p>Al sesto posto &#8211; in <em>ex-aequo</em> con Gisele Bündchen &#8211; l&#8217;inglese <a href="{{ '/modelle/cara-delevingne/' | relative_url }}" rel="noopener"><strong>Cara Delevingne</strong></a>, anche lei lontana dalle passerelle dal 2015: un&#8217;altra curiosa coincidenza che lega la sua carriera a quella della collega brasiliana.</p>
-<p>La Delevingne è <strong>inarrestabile</strong>: ex-supermodella, attrice, persino musicista. Il suo patrimonio si aggira sui <strong>10 milioni di dollari</strong> ed è destinato a &#8220;lievitare&#8221; ancora.</p>
+<h2><span class="ez-toc-section" id="6_%E2%80%93_Cara_Delevigne"></span>6 – <span id="Cara_Delevigne">Cara Delevigne</span><span class="ez-toc-section-end"></span></h2>
+<p>In sixth place – in <em>ex-aequo</em> with Gisele Bündchen – the English <a href="{{ '/modelle/cara-delevingne/' | relative_url }}" rel="noopener"><strong>Cara Delevingne</strong></a>, who has also been away from the catwalks since 2015: another curious coincidence that links her career to that of her Brazilian colleague.</p>
+<p>Delevingne is <strong>unstoppable</strong>: ex-supermodel, actress, even musician. His assets are around <strong>10 million dollars</strong> and are destined to "rise" further.</p>
 <div class="video-shortcode"><iframe title="Cara Delevingne Fiercest Runway Compilation" width="1170" height="658" src="https://www.youtube.com/embed/FpN2uSN6rJ4?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-<h2><span class="ez-toc-section" id="7_%E2%80%93_Gigi_Hadid"></span>7 &#8211; Gigi Hadid<span class="ez-toc-section-end"></span></h2>
-<p>Losangelina classe 1995, <strong>Gigi Hadid</strong> occupa il settimo posto della classifica delle modelle più pagate. La Hadid è una delle supermodelle più richieste al momento: vanta collaborazioni prestigiose con maison quali <strong>Chanel, Tom Ford, Jean Paul Gaultier, Tommy Hilfiger, Michael Kors</strong>.</p>
-<p>Il patrimonio della bellissima Gigi si aggira attualmente sui <strong>9,5 milioni di dollari</strong>.</p>
+<h2><span class="ez-toc-section" id="7_%E2%80%93_Gigi_Hadid"></span>7 – Gigi Hadid<span class="ez-toc-section-end"></span></h2>
+<p>Born in Los Angeles in 1995, <strong>Gigi Hadid</strong> occupies seventh place in the ranking of the highest paid models. Hadid is one of the most sought-after supermodels at the moment: she boasts prestigious collaborations with fashion houses such as <strong>Chanel, Tom Ford, Jean Paul Gaultier, Tommy Hilfiger, Michael Kors</strong>.</p>
+<p>The assets of the beautiful Gigi are currently around <strong>9.5 million dollars</strong>.</p>
 <div class="video-shortcode"><iframe title="Gigi Hadid // Runway Evolution (2014-2020)" width="1170" height="658" src="https://www.youtube.com/embed/8dvgueNbBd8?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-<h2><span class="ez-toc-section" id="8_%E2%80%93_Bella_Hadid"></span>8 &#8211; Bella Hadid<span class="ez-toc-section-end"></span></h2>
-<p>All&#8217;ottavo posto della classifica delle modelle più pagate troviamo la sorellina di Gigi Hadid, Bella.</p>
-<p>Buon sangue non mente: come la bionda sorella, anche <strong>Bella Hadid</strong> vanta uno sguardo magnetico e un&#8217;eleganza innata. La più piccola delle sorelle supermodelle ha collaborato tra gli altri con <strong>Burberry, Tom Ford, Diane von Fürstenberg, Tommy Hilfiger, Moschino, Balmain</strong>. Bella Hadid è comparsa anche nel videoclip della hit &#8220;<strong>In the night</strong>&#8221; del suo ex compagno, il cantante <strong>The Weeknd</strong>.</p>
-<p>Il patrimonio di Bella Hadid è quotato a <strong>8,5 milioni di dollari</strong>.</p>
+<h2><span class="ez-toc-section" id="8_%E2%80%93_Bella_Hadid"></span>8 – Bella Hadid<span class="ez-toc-section-end"></span></h2>
+<p>In eighth place in the ranking of the highest paid models we find Gigi Hadid's little sister, Bella.</p>
+<p>Good blood doesn't lie: like her blonde sister, <strong>Bella Hadid</strong> also boasts a magnetic gaze and innate elegance. The youngest of the supermodel sisters has collaborated among others with <strong>Burberry, Tom Ford, Diane von Fürstenberg, Tommy Hilfiger, Moschino, Balmain</strong>. Bella Hadid also appeared in the video clip of the hit “<strong>In the night</strong>” by her former partner, singer <strong>The Weeknd</strong>.</p>
+<p>Bella Hadid's assets are listed at <strong>8.5 million dollars</strong>.</p>
 <div class="video-shortcode"><iframe title="Bella Hadid // Runway Evolution (2014-2020)" width="1170" height="658" src="https://www.youtube.com/embed/dYOvzdOY6cQ?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-<h2><span class="ez-toc-section" id="9_%E2%80%93_Joan_Smalls_Rodriguez"></span>9 &#8211; Joan Smalls Rodriguez<span class="ez-toc-section-end"></span></h2>
-<p>Chi occupa il nono posto in classifica? Per scoprirlo, voliamo in Porto Rico, patria della supermodella <strong>Joan Smalls Rodriguez</strong>.</p>
-<p>Oltre ad aver calcato le passerelle di mezzo mondo per mostri sacri del fashion come <strong>Gucci, Givenchy</strong> e <strong>Ralph Lauren</strong>, la supermodella classe &#8217;88 ha trovato il suo spazio anche nel mondo del cinema ed è apparsa anche in alcuni videoclip di successo. Il patrimonio di Joan Smalls Rodriguez si aggira attorno agli <strong>8,5 milioni di dollari</strong>, al pari di quello di Bella Hadid.</p>
+<h2><span class="ez-toc-section" id="9_%E2%80%93_Joan_Smalls_Rodriguez"></span>9 – Joan Smalls Rodriguez<span class="ez-toc-section-end"></span></h2>
+<p>Who occupies ninth place in the rankings? To find out, we fly to Puerto Rico, home of supermodel <strong>Joan Smalls Rodriguez</strong>.</p>
+<p>In addition to having walked the catwalks around the world for fashion giants such as <strong>Gucci, Givenchy</strong> and <strong>Ralph Lauren</strong>, the supermodel born in '88 has also found her space in the world of cinema and has also appeared in some successful video clips. Joan Smalls Rodriguez's assets are around <strong>8.5 million dollars</strong>, on a par with that of Bella Hadid.</p>
 <div class="video-shortcode"><iframe title="Topmodel Joan Smalls" width="1170" height="658" src="https://www.youtube.com/embed/N10oDlI_-Tw?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-<h2><span class="ez-toc-section" id="10_%E2%80%93_Doutzen_Kroes"></span>10 &#8211; Doutzen Kroes<span class="ez-toc-section-end"></span></h2>
-<p>Chiude questa classifica da sogno l&#8217;olandese <strong>Doutzen Kroes</strong>, musa storica di Vistoria&#8217;s Secret, per la quale ha indossato le <em>ali d&#8217;angelo</em> dal 2005 al 2015.</p>
-<p>Non solo lingerie: la Kroes ha posato per numerosissimi magazine di moda come <em>Vogue</em> e <em>Harper&#8217;s Bazaar</em>; è stata testimonial di brand di prestigio come <strong>Calvin Klein</strong> e <strong>Blumarine</strong>. Il patrimonio della supermodella è di circa <strong>8 milioni di dollari</strong>.</p>
+<h2><span class="ez-toc-section" id="10_%E2%80%93_Doutzen_Kroes"></span>10 – Doutzen Kroes<span class="ez-toc-section-end"></span></h2>
+<p>Closing this dream ranking is the Dutchman <strong>Doutzen Kroes</strong>, historical muse of Vistoria's Secret, for whom he wore the <em>angel's wings</em> from 2005 to 2015.</p>
+<p>Not just lingerie: Kroes has posed for numerous fashion magazines such as <em>Vogue</em> and <em>Harper's Bazaar</em>; she has been a testimonial for prestigious brands such as <strong>Calvin Klein</strong> and <strong>Blumarine</strong>. The supermodel's assets are approximately <strong>8 million dollars</strong>.</p>
 <div class="video-shortcode"><iframe title="Supermodel Doutzen Kroes" width="1170" height="658" src="https://www.youtube.com/embed/k-yFjiQFkpA?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 <p>&nbsp;</p>
