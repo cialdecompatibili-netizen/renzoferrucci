@@ -471,3 +471,6 @@ document.addEventListener('DOMContentLoaded', function(){
   });
 });
 </script>
+{%- comment -%} MULTILINGUA: hreflang tra versioni con lo stesso ref; noindex sulle pagine ancora "copia" {%- endcomment -%}
+{%- if page.ref -%}{%- assign alts = site.pages | concat: site.posts | where: "ref", page.ref -%}{%- if alts.size > 1 -%}{%- for a in alts -%}<link rel="alternate" hreflang="{{ a.lang | default: site.default_lang }}" href="{{ a.url | absolute_url }}">{%- if a.lang == site.default_lang or a.lang == nil -%}<link rel="alternate" hreflang="x-default" href="{{ a.url | absolute_url }}">{%- endif -%}{%- endfor -%}{%- endif -%}{%- endif -%}
+{%- if page.tr == 'copia' -%}<meta name="robots" content="noindex,follow">{%- endif -%}

@@ -1,4 +1,5 @@
 {%- include site-name.html -%}
+{%- assign lg = include.locale | default: site.locale -%}{%- assign i18n = site.data.i18n[lg] -%}{%- if i18n -%}{%- assign shopnav = i18n.shop_nav -%}{%- assign lg_home = '/' | append: lg | append: '/' -%}{%- else -%}{%- assign shopnav = shopnav -%}{%- assign lg_home = '/' -%}{%- endif -%}
 {%- comment -%}
 =====================================================================================
  MENU DEL SITO  (_includes/masthead.html)
@@ -63,11 +64,11 @@
  Per lo stesso motivo non mettere qui dentro nulla che cambi da pagina a pagina.
 =====================================================================================
 {%- endcomment -%}
-{%- assign nv_items = site.data.navigation.main -%}
+{%- if i18n -%}{%- assign nv_items = i18n.navigation.main -%}{%- else -%}{%- assign nv_items = site.data.navigation.main -%}{%- endif -%}
 <header class="nv-header">
   <nav id="site-nav" class="nv" aria-label="Menu principale">
     <div class="nv__inner">
-      <a class="nv__brand" href="{{ '/' | relative_url }}"><img class="nv__logo" src="{{ '/assets/images/favicon-192.png' | relative_url }}" alt="" width="34" height="34">{{ site.masthead_title | default: site_name }}</a>
+      <a class="nv__brand" href="{{ lg_home | relative_url }}"><img class="nv__logo" src="{{ '/assets/images/favicon-192.png' | relative_url }}" alt="" width="34" height="34">{{ site.masthead_title | default: site_name }}</a>
 
       <!-- Pulsante hamburger: visibile solo sotto i 768px (vedi menu.css) -->
       <button class="nv__toggle collapsed" type="button" data-nv-toggle="nv-panel"
@@ -83,7 +84,7 @@
             {%- assign u = item.url | default: '#' -%}
 
             {%- comment -%} 1) costruisco le voci della tendina (se ce ne sono) {%- endcomment -%}
-            {%- assign kids = site.data.sottomenu[item.title] -%}
+            {%- if i18n -%}{%- assign kids = i18n.sottomenu[item.title] -%}{%- else -%}{%- assign kids = site.data.sottomenu[item.title] -%}{%- endif -%}
             {%- comment -%} Tendina con piu' di 8 voci = LARGA su 2 colonne (niente scroll lungo). Soglia: cambia il numero 8. {%- endcomment -%}
             {%- assign wide = false -%}
             {%- if kids.size > 8 -%}{%- assign wide = true -%}{%- endif -%}
@@ -97,13 +98,13 @@
                   {%- endif -%}
                 {%- endfor -%}
               {%- elsif item.title == 'Shop' -%}
-                {%- for c in site.data.shop_nav.categories -%}
+                {%- for c in shopnav.categories -%}
                   {%- if c.title and c.url -%}<a class="nv__dd-item" href="{{ c.url | relative_url }}">{{ c.title }}</a>{%- endif -%}
                 {%- endfor -%}
-                {%- if site.data.shop_nav.categories.size > 0 and site.data.shop_nav.featured.size > 0 -%}
+                {%- if shopnav.categories.size > 0 and shopnav.featured.size > 0 -%}
                   <div class="nv__divider" role="separator"></div>
                 {%- endif -%}
-                {%- for f in site.data.shop_nav.featured -%}
+                {%- for f in shopnav.featured -%}
                   {%- if f.title and f.url -%}<a class="nv__dd-item" href="{{ f.url | relative_url }}">{{ f.title }}</a>{%- endif -%}
                 {%- endfor -%}
               {%- endif -%}

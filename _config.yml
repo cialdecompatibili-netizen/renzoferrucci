@@ -1,3 +1,8 @@
+# --- MULTILINGUA (vedi CLAUDE.md) ---
+locale: "it"
+default_lang: it
+languages: [it]
+
 brand: "Renzo Ferrucci"
 related_posts: 3
 email: ""
@@ -48,6 +53,7 @@ footer:
   links: []
 
 defaults:
+  # LANG-DEFAULTS (l'admin aggiunge qui gli scope delle lingue: path = cartella lingua)
   - scope:
       path: ""
       type: posts
