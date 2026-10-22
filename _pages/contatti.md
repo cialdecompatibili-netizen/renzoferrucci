@@ -146,5 +146,5 @@ permalink: /contatti/
 })();
 </script>
 {%- else -%}
-<p class="cf-nota">Scrivici a <a href="mailto:renzopagani@gmail.com">renzopagani@gmail.com</a> o chiamaci al <a href="tel:+393392841847">339 284 1847</a>.</p>
+<p class="cf-nota">I contatti saranno pubblicati a breve.</p>
 {%- endif -%}
