@@ -214,12 +214,31 @@ tr:hover td{background:#f0f6fc}
     <div class="nav-label">Shop</div>
     <button class="nav-item" onclick="showPage('prodotti',this)"><span class="icon">🛒</span>Prodotti</button>
     <button class="nav-item" onclick="showPage('cat-prodotti',this)"><span class="icon">📦</span>Categorie Shop</button>
+    <div class="nav-label">Lingue</div>
+    <button class="nav-item" onclick="showPage('lingue',this);caricaLingue()"><span class="icon">&#127760;</span>Lingue</button>
     <div class="nav-label">Sistema</div>
     <button class="nav-item" onclick="showPage('integrazioni',this);caricaIntegrazioni()"><span class="icon">🔌</span>Integrazioni</button>
     <button class="nav-item" id="nav-aggiornamenti" onclick="showPage('aggiornamenti',this)"><span class="icon">🔄</span>Aggiornamenti<span id="update-badge" style="display:none;margin-left:auto;background:#e74c3c;color:white;font-size:10px;font-weight:700;padding:2px 7px;border-radius:10px">!</span></button>
   </nav>
 
   <main class="main">
+
+    <!-- LINGUE -->
+    <div class="page" id="page-lingue">
+      <div class="page-title">&#127760; Lingue</div>
+      <div class="card">
+        <div class="card-title">Nuova lingua</div>
+        <p style="font-size:13px;color:#666;margin-bottom:12px">Clona pagine, articoli, menu e testi da una lingua esistente: ogni contenuto nasce come &ldquo;copia da tradurre&rdquo; (non indicizzata da Google finch&eacute; non lo segni come tradotto).</p>
+        <div class="field"><label>Codice lingua (es. en, de, fr, es)</label><input type="text" id="lg-code" list="lg-codes" maxlength="5" placeholder="en"><datalist id="lg-codes"></datalist></div>
+        <div class="field"><label>Clona da</label><select id="lg-src"><option value="it">Italiano (it)</option></select></div>
+        <button class="btn btn-primary" onclick="lgNuova()">Crea lingua</button>
+        <div id="msg-lingue" class="msg"></div>
+      </div>
+      <div class="card">
+        <div class="card-title" style="display:flex;justify-content:space-between">Stato traduzioni <button class="btn btn-secondary btn-sm" onclick="caricaLingue(true)">&#8635; Aggiorna</button></div>
+        <div id="lg-tab"><span style="color:#bbb;font-size:13px">Apri la voce per caricare</span></div>
+      </div>
+    </div>
 
     <!-- ARTICOLI -->
     <div class="page active" id="page-articoli">
@@ -2341,5 +2360,6 @@ window.onload=function(){
 <script src="js/editor-seo.js"></script>
 <script src="js/dashboard.js"></script>
 <script src="js/wp-elenchi.js"></script>
+<script src="js/lingue.js"></script>
 </body>
 </html>
