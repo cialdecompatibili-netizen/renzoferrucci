@@ -1,15 +1,14 @@
 ---
 layout: single
-title: "Azienda"
+title: "About us"
 author_profile: false
 classes: wide
-seo_title: "Azienda - Renzo Ferrucci"
-seo_description: "Renzo Ferrucci: moda e lusso italiano. Abbigliamento, beauty e design nello shop, storie di moda nel Journal."
+seo_title: "About us - Renzo Ferrucci"
+seo_description: "Renzo Ferrucci: Italian fashion and luxury. Clothing, beauty and design in the shop, fashion stories in the Journal."
 ref: azienda
 lang: en
 locale: en
-tr: copia
-sitemap: false
+tr: tradotto
 tr_hash: 1jda7xa
 permalink: /en/azienda/
 ---
@@ -40,20 +39,20 @@ permalink: /en/azienda/
 
 <div class="az">
 <section class="az-top">
-<p class="az-eb">Chi siamo</p>
-<h1 class="az-h1">Moda e lusso italiano, tra <em>collezioni</em> e storie</h1>
-<p class="az-lead">Renzo Ferrucci è abbigliamento, beauty e design di lusso. Le collezioni arrivano nello shop; le storie dei grandi nomi della moda le trovi nel Journal.</p>
+<p class="az-eb">Who we are</p>
+<h1 class="az-h1">Italian fashion and luxury, between <em>collections</em> and stories</h1>
+<p class="az-lead">Renzo Ferrucci is luxury clothing, beauty and design. The collections are coming to the shop; the stories of the great names in fashion are in the Journal.</p>
 </section>
 
 <section class="az-grid">
-<div class="az-card"><h2>Shop</h2><p>Uomo, donna, beauty e living: le collezioni stanno per arrivare.</p><a class="az-link" href="{{ '/shop/' | relative_url }}">Vai allo shop</a></div>
-<div class="az-card"><h2>Journal</h2><p>Biografie di stilisti, storie delle maison, modelle, fotografi, classifiche e tendenze.</p><a class="az-link" href="{{ '/blog/' | relative_url }}">Leggi il Journal</a></div>
-<div class="az-card"><h2>Stile</h2><p>Un gusto italiano, essenziale e curato, dal capo al racconto.</p><a class="az-link" href="{{ '/categoria/?cat=stilisti' | relative_url }}">Scopri gli stilisti</a></div>
+<div class="az-card"><h2>Shop</h2><p>Men, women, beauty and living: the collections are on their way.</p><a class="az-link" href="{{ '/en/shop/' | relative_url }}">Go to the shop</a></div>
+<div class="az-card"><h2>Journal</h2><p>Designer biographies, stories of the fashion houses, models, photographers, rankings and trends.</p><a class="az-link" href="{{ '/en/blog/' | relative_url }}">Read the Journal</a></div>
+<div class="az-card"><h2>Style</h2><p>An Italian taste, essential and refined, from the garment to the story.</p><a class="az-link" href="{{ '/en/categoria/?cat=stilisti' | relative_url }}">Discover the designers</a></div>
 </section>
 
 <section class="az-cta">
-<h2>Parliamone</h2>
-<p>Informazioni, collaborazioni o curiosità sulle collezioni: scrivici.</p>
-<a class="az-btn" href="{{ '/contatti/' | relative_url }}">Contatti</a>
+<h2>Let's talk</h2>
+<p>Information, collaborations or questions about the collections: write to us.</p>
+<a class="az-btn" href="{{ '/en/contatti/' | relative_url }}">Contact</a>
 </section>
 </div>

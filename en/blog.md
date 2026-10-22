@@ -7,12 +7,13 @@ share: false
 ref: blog
 lang: en
 locale: en
-tr: copia
-sitemap: false
+tr: tradotto
 tr_hash: cru942
 permalink: /en/blog/
 ---
 {%- assign posts_l = site.posts | where: "lang", page.lang -%}
+{%- assign posts_t = posts_l | where: "tr", "tradotto" -%}
+{%- if posts_t.size > 0 -%}{%- assign posts_l = posts_t -%}{%- else -%}<p style="text-align:center;opacity:.7">English translations of the articles are coming soon. In the meantime the articles are shown in Italian.</p>{%- endif -%}
 
 <style>
 .blog-list { list-style: none; padding: 0; margin: 2em 0 0; }
@@ -165,7 +166,7 @@ permalink: /en/blog/
           {% endfor %}
         </div>
         {% endif %}
-        <a href="{{ post.url | relative_url }}" class="blog-readmore">Leggi tutto →</a>
+        <a href="{{ post.url | relative_url }}" class="blog-readmore">Read more →</a>
       </div>
     </div>
   </li>

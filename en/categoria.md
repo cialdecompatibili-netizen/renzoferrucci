@@ -1,13 +1,12 @@
 ---
-title: "Categoria"
+title: "Category"
 layout: single
 author_profile: false
 classes: wide
 ref: categoria
 lang: en
 locale: en
-tr: copia
-sitemap: false
+tr: tradotto
 tr_hash: 1o0n0q9
 permalink: /en/categoria/
 ---
@@ -38,8 +37,8 @@ permalink: /en/categoria/
 }
 </style>
 
-<a class="cat-back" href="{{ '/categorie/' | relative_url }}">← Tutte le categorie</a>
-<div id="cat-container"><div class="cat-empty">Caricamento...</div></div>
+<a class="cat-back" href="{{ '/categorie/' | relative_url }}">← All categories</a>
+<div id="cat-container"><div class="cat-empty">Loading...</div></div>
 
 <script>
 const SITE_POSTS = [
@@ -59,13 +58,13 @@ const SITE_POSTS = [
   const params = new URLSearchParams(window.location.search);
   const cat = params.get('cat') || '';
   const container = document.getElementById('cat-container');
-  if(!cat){ container.innerHTML = '<div class="cat-empty">Nessuna categoria specificata.</div>'; return; }
+  if(!cat){ container.innerHTML = '<div class="cat-empty">No category specified.</div>'; return; }
 
   const CAT_DATA = {{ site.data.categorie | jsonify }};
   const catInfo = (CAT_DATA||[]).find(c => c.nome === cat) || {};
   const posts = SITE_POSTS.filter(p => p.categories && p.categories.includes(cat));
 
-  document.title = cat + ' — Categorie';
+  document.title = cat + ' — Categories';
 
   let html = `<div class="cat-header">
     <div class="cat-header-name">${cat}</div>
@@ -73,7 +72,7 @@ const SITE_POSTS = [
   </div>`;
 
   if(!posts.length){
-    html += '<div class="cat-empty">Nessun articolo in questa categoria.</div>';
+    html += '<div class="cat-empty">No articles in this category.</div>';
   } else {
     html += '<div class="art-list">';
     posts.forEach(p => {

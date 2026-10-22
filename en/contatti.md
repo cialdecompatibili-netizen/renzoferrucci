@@ -1,11 +1,10 @@
 ---
 layout: single
-title: "Contatti"
+title: "Contact"
 ref: contatti
 lang: en
 locale: en
-tr: copia
-sitemap: false
+tr: tradotto
 tr_hash: y6bo48
 permalink: /en/contatti/
 ---
@@ -23,7 +22,7 @@ permalink: /en/contatti/
 
 
 
-{% if site.whatsapp and site.whatsapp != "" %}<div class="cf-wa-box"><a class="cf-wa" href="https://wa.me/{{ site.whatsapp }}?text={{ 'Buongiorno, vorrei avere informazioni.' | url_encode }}" target="_blank" rel="noopener"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413Z"/></svg>Scrivici su WhatsApp</a><p class="cf-nota">È il modo più rapido per ricevere una risposta.</p><p class="cf-tel">Oppure chiamaci: <a href="tel:+{{ site.whatsapp }}">+39 328 197 0254</a></p></div>{% endif %}<hr class="cf-hr"><p class="cf-intro">Oppure compila il modulo: ti ricontatteremo via email.</p>
+{% if site.whatsapp and site.whatsapp != "" %}<div class="cf-wa-box"><a class="cf-wa" href="https://wa.me/{{ site.whatsapp }}?text={{ 'Hello, I would like some information.' | url_encode }}" target="_blank" rel="noopener"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413Z"/></svg>Message us on WhatsApp</a><p class="cf-nota">It's the fastest way to get a reply.</p><p class="cf-tel">Or call us: <a href="tel:+{{ site.whatsapp }}">+39 328 197 0254</a></p></div>{% endif %}<hr class="cf-hr"><p class="cf-intro">Or fill in the form: we'll get back to you by email.</p>
 
 <style>
 .page__title{text-align:center}
@@ -60,27 +59,27 @@ permalink: /en/contatti/
 <div class="cf-wrap">
 <form id="cf-form" class="cf-form" novalidate>
   <div class="cf-campo">
-    <label for="cf-nome">Come ti chiami?</label>
+    <label for="cf-nome">What's your name?</label>
     <input type="text" id="cf-nome" name="nome" maxlength="100" required autocomplete="name">
   </div>
   <div class="cf-campo">
-    <label for="cf-email">La tua email</label>
-    <input type="email" id="cf-email" name="email" maxlength="150" required autocomplete="email" placeholder="nome@email.it">
+    <label for="cf-email">Your email</label>
+    <input type="email" id="cf-email" name="email" maxlength="150" required autocomplete="email" placeholder="name@email.com">
   </div>
   <div class="cf-campo">
-    <label for="cf-tel">Telefono (facoltativo)</label>
+    <label for="cf-tel">Phone (optional)</label>
     <input type="tel" id="cf-tel" name="telefono" maxlength="30" autocomplete="tel" placeholder="+39 ...">
   </div>
   <div class="cf-campo">
-    <label for="cf-msg">Cosa cerchi?</label>
-    <textarea id="cf-msg" name="messaggio" rows="5" maxlength="3000" required placeholder="Scrivici la tua richiesta: collaborazioni, informazioni o contenuti del magazine."></textarea>
+    <label for="cf-msg">What are you looking for?</label>
+    <textarea id="cf-msg" name="messaggio" rows="5" maxlength="3000" required placeholder="Tell us what you need: collaborations, information or magazine content."></textarea>
   </div>
   <div style="position:absolute;left:-9999px;height:0;overflow:hidden" aria-hidden="true">
-    <label for="cf-web">Non compilare</label>
+    <label for="cf-web">Do not fill in</label>
     <input type="text" id="cf-web" name="website" tabindex="-1" autocomplete="off">
   </div>
-  <button type="submit" class="cf-btn" id="cf-btn">Invia la richiesta</button>
-  <p class="cf-nota">Ti rispondiamo il prima possibile. I tuoi dati servono solo per risponderti.</p>
+  <button type="submit" class="cf-btn" id="cf-btn">Send request</button>
+  <p class="cf-nota">We will reply as soon as possible. Your details are used only to reply to you.</p>
   <p id="cf-esito" role="status" aria-live="polite"></p>
 </form>
 </div>
@@ -126,14 +125,14 @@ permalink: /en/contatti/
 
   form.addEventListener('submit', function (ev) {
     ev.preventDefault();
-    if (!form.checkValidity()) { mostra('Compila nome, email e messaggio.', false); return; }
-    btn.disabled = true; mostra('Invio in corso...', true, true);
+    if (!form.checkValidity()) { mostra('Please fill in name, email and message.', false); return; }
+    btn.disabled = true; mostra('Sending...', true, true);
     token().then(function (tk) {
-      if (!tk) { mostra('Verifica non riuscita. Riprova.', false); btn.disabled = false; return; }
+      if (!tk) { mostra('Verification failed. Please try again.', false); btn.disabled = false; return; }
       var d = new URLSearchParams(new FormData(form));
       d.set('altcha', tk);
       var tel = (form.telefono.value || '').trim();
-      if (tel) { d.set('messaggio', (d.get('messaggio') || '') + '\n\nTelefono: ' + tel); }
+      if (tel) { d.set('messaggio', (d.get('messaggio') || '') + '\n\nPhone: ' + tel); }
       d.set('t', String(t0));
       d.set('tipo', 'contatto-web');
       d.set('sito', location.hostname);
@@ -141,16 +140,16 @@ permalink: /en/contatti/
       return fetch(ENDPOINT, { method: 'POST', body: d })
         .then(function (r) { return r.json(); })
         .then(function (j) {
-          if (j.status === 'ok') { form.reset(); mostra("Ricevuto, grazie! Ti rispondiamo il prima possibile all'email che ci hai lasciato.", true); }
-          else { mostra('Invio non riuscito. Riprova tra poco.', false); }
+          if (j.status === 'ok') { form.reset(); mostra("Received, thank you! We will reply as soon as possible to the email you left us.", true); }
+          else { mostra('Sending failed. Please try again shortly.', false); }
           prepara(); btn.disabled = false; t0 = Date.now();
         });
     }).catch(function () {
-      mostra('Errore di rete. Riprova.', false); prepara(); btn.disabled = false;
+      mostra('Network error. Please try again.', false); prepara(); btn.disabled = false;
     });
   });
 })();
 </script>
 {%- else -%}
-<p class="cf-nota">I contatti saranno pubblicati a breve.</p>
+<p class="cf-nota">Contact details will be published soon.</p>
 {%- endif -%}
