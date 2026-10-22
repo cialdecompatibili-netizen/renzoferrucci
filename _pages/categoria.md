@@ -8,25 +8,31 @@ classes: wide
 
 <style>
 #page-title{display:none}
-.cat-header{margin-bottom:1.5em}
-.cat-header-name{font-size:1.8em;font-weight:800;color:#1a1a2e;margin:0 0 .3em}
-.cat-header-desc{font-size:14px;color:#888;margin:0}
+.cat-header{margin-bottom:1.6em}
+.cat-header-name{font-family:'Playfair Display',Georgia,serif;font-size:2em;font-weight:500;color:#141414;margin:0 0 .3em}
+.cat-header-desc{font-size:15px;color:#6b665f;margin:0;line-height:1.6;max-width:62ch}
 .cat-back{font-size:13px;color:#8a6d3b;text-decoration:none;display:inline-block;margin-bottom:1.2em}
 .cat-back:hover{text-decoration:underline}
-.art-list{display:flex;flex-direction:column;gap:.8em}
-.art-row{display:flex;gap:1.2em;align-items:flex-start;background:#fff;border:1.5px solid #eee;border-radius:12px;padding:1em 1.2em;text-decoration:none;color:inherit;transition:box-shadow .15s,border-color .15s}
-.art-row:hover{border-color:#d9bf94;box-shadow:0 4px 16px rgba(149,214,0,.10);text-decoration:none}
-.art-row-img{width:90px;height:70px;object-fit:cover;border-radius:8px;flex-shrink:0}
-.art-row-img-ph{width:90px;height:70px;border-radius:8px;flex-shrink:0;background:#f0f0f8;display:flex;align-items:center;justify-content:center;font-size:1.6em;color:#ccc}
-.art-row-body{flex:1;min-width:0}
-.art-row-date{font-size:11px;color:#bbb;margin-bottom:.3em}
-.art-row-title{font-size:.95em;font-weight:700;color:#1a1a2e;margin-bottom:.3em;line-height:1.4}
-.art-row-excerpt{font-size:13px;color:#888;line-height:1.5;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
-.cat-empty{color:#bbb;font-size:14px;padding:2em 0;text-align:center}
+.art-list{display:flex;flex-direction:column;gap:1.1rem}
+.art-row{display:grid;grid-template-columns:clamp(220px,34%,320px) 1fr;background:#fff;border:1px solid #e9e3d9;border-radius:18px;overflow:hidden;text-decoration:none;color:inherit;transition:border-color .2s,box-shadow .2s}
+.art-row:hover{border-color:#d9bf94;box-shadow:0 6px 22px rgba(60,45,20,.08);text-decoration:none}
+.art-row:focus-visible{outline:3px solid #b08d57;outline-offset:3px}
+.art-row-media{position:relative;min-height:190px;background:#f3eee6}
+.art-row-img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;display:block}
+.art-row-body{padding:1.4rem 1.7rem;min-width:0;display:flex;flex-direction:column;justify-content:center;gap:.5rem}
+.art-row-date{font-size:12px;color:#9a948a}
+.art-row-title{font-family:'Playfair Display',Georgia,serif;font-size:1.25rem;font-weight:500;color:#141414;line-height:1.3}
+.art-row-excerpt{font-size:.95rem;color:#5b5650;line-height:1.7;display:-webkit-box;-webkit-line-clamp:4;-webkit-box-orient:vertical;overflow:hidden}
+.cat-empty{color:#9a948a;font-size:14px;padding:2em 0;text-align:center}
+@media(max-width:640px){
+.art-row{grid-template-columns:1fr}
+.art-row-media{min-height:0;aspect-ratio:16/10}
+.art-row-body{padding:1.1rem 1.2rem 1.3rem}
+}
 </style>
 
 <a class="cat-back" href="{{ '/categorie/' | relative_url }}">← Tutte le categorie</a>
-<div id="cat-container"><div class="cat-empty">⏳ Caricamento...</div></div>
+<div id="cat-container"><div class="cat-empty">Caricamento...</div></div>
 
 <script>
 const SITE_POSTS = [
@@ -35,7 +41,7 @@ const SITE_POSTS = [
     title: {{ post.title | jsonify }},
     url: "{{ post.url | relative_url }}",
     date: "{{ post.date | date: '%d %b %Y' }}",
-    excerpt: {{ post.excerpt | strip_html | truncate: 120 | jsonify }},
+    excerpt: {{ post.excerpt | strip_html | strip_newlines | truncate: 320 | jsonify }},
     image: {% if post.header.teaser %}{{ post.header.teaser | relative_url | jsonify }}{% else %}""{% endif %},
     categories: {{ post.categories | jsonify }}
   }{% unless forloop.last %},{% endunless %}
@@ -64,11 +70,12 @@ const SITE_POSTS = [
   } else {
     html += '<div class="art-list">';
     posts.forEach(p => {
+      const alt = p.title.replace(/"/g,'&quot;');
       const img = p.image
-        ? `<img class="art-row-img" src="${p.image}" alt="${p.title}">`
-        : `<div class="art-row-img-ph">📄</div>`;
+        ? `<img class="art-row-img" src="${p.image}" alt="${alt}" loading="lazy">`
+        : '';
       html += `<a class="art-row" href="${p.url}">
-        ${img}
+        <div class="art-row-media">${img}</div>
         <div class="art-row-body">
           <div class="art-row-date">${p.date}</div>
           <div class="art-row-title">${p.title}</div>
