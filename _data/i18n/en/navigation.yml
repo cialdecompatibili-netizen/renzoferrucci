@@ -1,0 +1,13 @@
+main:
+  - title: "Home"
+    url: /en/
+  - title: "Uomo"
+    url: /en/shop/#uomo
+  - title: "Donna"
+    url: /en/shop/#donna
+  - title: "Living"
+    url: /en/shop/#living
+  - title: "Journal"
+    url: /en/blog/
+  - title: "Contatti"
+    url: /en/contatti/
