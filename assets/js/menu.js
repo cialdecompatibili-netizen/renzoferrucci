@@ -87,10 +87,25 @@
       if (e.key === 'Escape') { closePanel(); closeDropdowns(); }
     });
 
-    // se si allarga la finestra con il pannello aperto, torna tutto pulito
-    window.addEventListener('resize', function () {
-      if (window.innerWidth >= 768) closePanel();   // 768 = stesso valore di menu.css
-    });
+    // MENU SU UNA RIGA: se le voci non ci stanno in una riga, passa all'hamburger (classe nv--compact).
+    // Si rimisura a ogni resize, al caricamento dei font e dopo il selettore lingua: nessun breakpoint fisso.
+    var hdr = document.querySelector('.nv-header');
+    var inner = hdr ? hdr.querySelector('.nv__inner') : null;
+    var raf = 0;
+    function fit() {
+      if (!hdr || !inner) return;
+      var wasCompact = hdr.classList.contains('nv--compact');
+      hdr.classList.remove('nv--compact');
+      var wide = window.innerWidth >= 768;
+      var overflow = wide && inner.scrollWidth > inner.clientWidth + 1;
+      if (overflow) hdr.classList.add('nv--compact');
+      else if (wasCompact) closePanel();
+    }
+    function fitSoon() { cancelAnimationFrame(raf); raf = requestAnimationFrame(fit); }
+    window.addEventListener('resize', fitSoon);
+    window.addEventListener('load', fitSoon);
+    if (document.fonts && document.fonts.ready) document.fonts.ready.then(fitSoon);
+    fit();
   }
 
   if (document.readyState === 'loading') document.addEventListener('DOMContentLoaded', init);
