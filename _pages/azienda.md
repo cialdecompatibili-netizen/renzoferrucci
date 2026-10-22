@@ -4,15 +4,15 @@ title: "Azienda"
 permalink: /azienda/
 author_profile: false
 classes: wide
-seo_description: "Renzo Ferrucci: magazine di moda e lusso italiano con biografie di stilisti, storie delle maison, classifiche e tendenze."
+seo_description: "Renzo Ferrucci: moda e lusso italiano. Collezioni nello shop e storie di moda nel Journal."
 ---
 
 <div style="max-width:760px;margin:0 auto;font-size:1.1rem;line-height:1.8">
 
-**Renzo Ferrucci** è un magazine di moda e lusso italiano.
+**Renzo Ferrucci** è moda e lusso italiano: abbigliamento, beauty e design.
 
-Raccontiamo il mondo della moda attraverso le biografie degli stilisti, le storie delle case di moda, le classifiche e le tendenze, con uno sguardo su beauty, arte e design.
+Nello **shop** trovi le collezioni, che stanno per arrivare. Nel **Journal** raccontiamo il mondo della moda con le biografie degli stilisti, le storie delle case di moda, le classifiche e le tendenze.
 
-[Scrivici](/contatti/){: .btn .btn--inverse}  [Leggi il magazine](/blog/){: .btn}
+[Vai allo shop](/shop/){: .btn .btn--inverse}  [Leggi il Journal](/blog/){: .btn}
 
 </div>

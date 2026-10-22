@@ -32,7 +32,7 @@
 # Documentazione del funzionamento: commento in testa a _includes/masthead.html.
 # =====================================================================================
 
-Magazine:
+Journal:
   - title: "Stilisti"
     url: /categoria/?cat=stilisti
   - title: "Case di moda"

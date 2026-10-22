@@ -1,12 +1,10 @@
 main:
   - title: "Home"
     url: /
-  - title: "Magazine"
+  - title: "Shop"
+    url: /shop/
+  - title: "Journal"
     url: /blog/
-  - title: "Classifiche"
-    url: /categoria/?cat=classifiche
-  - title: "Case di moda"
-    url: /categoria/?cat=case-di-moda
   - title: "Azienda"
     url: /azienda/
   - title: "Contatti"
