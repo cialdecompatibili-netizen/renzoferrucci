@@ -19,7 +19,7 @@ layout: default
   {% endunless %}
 {% endif %}
 
-<div id="main" role="main">
+<div id="main" role="main"{% if page.collection == "posts" %} class="has-postside"{% endif %}>
   {% include sidebar.html locale=locale %}
 
   <article class="page h-entry" itemscope itemtype="https://schema.org/CreativeWork"{% if page.locale %} lang="{{ page.locale }}"{% endif %}>
@@ -85,6 +85,8 @@ layout: default
       {% endif %}
     {% endif %}
   </article>
+
+  {% if page.collection == "posts" %}{% include post-sidebar.html %}{% endif %}
 
   {% if page.id and page.related and site.related_posts.size > 0 %}
     {% include page__related.html locale=locale posts=site.related_posts %}

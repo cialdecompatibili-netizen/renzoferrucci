@@ -1,0 +1,8 @@
+# Riquadro "foto + presentazione" in cima alla barra laterale degli articoli.
+# Compare solo se "foto" e' compilata. Esempio:
+#   foto: /assets/images/chi-siamo.jpg
+#   titolo: "Renzo Ferrucci"
+#   testo: "Moda e lusso italiano: collezioni, storie e stile."
+foto: ""
+titolo: ""
+testo: ""
