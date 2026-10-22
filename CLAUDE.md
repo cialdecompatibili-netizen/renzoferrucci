@@ -41,3 +41,16 @@ Sito Jekyll su GitHub Pages: https://cialdecompatibili-netizen.github.io/edilext
 - MAI scrivere a mano eta' o "da N anni": si aggiornano da sole. Eta' persona: `<span data-eta="AAAA-MM-GG">N</span> anni`; anni da una data: `<span data-anni-da="AAAA">N</span> anni`. Lo script e' in fondo a `_includes/footer/custom.html` (commentato). Data di nascita ignota: scrivere "non nota".
 - Video YouTube: iframe dentro `<div class="video-shortcode">` (CSS 16:9 in main.scss). Prima di tenere un video controllare che esista: `https://www.youtube.com/oembed?url=<watch url>&format=json` (401/404 = rotto, da togliere).
 - Foto: mai `data:image` lazyload di Avada (l'immagine vera e' in `data-orig-src`); salvarle sempre in `assets/posts/<slug>/`.
+## PIANO MULTILINGUA (ottobre 2026) - da riprendere se si interrompe
+Obiettivo (Mirco): IT alla radice, altre lingue in sottocartelle (/en/, /de/...) create in automatico dall'admin e lette in automatico dal sito, cosi' il cloning dei siti e' immediato. Senza plugin Jekyll (GitHub Pages).
+Modello (ispirato a WPML/Polylang/TranslatePress): lingua principale + traduzioni collegate, clona da lingua esistente, stato per pagina e lingua, selettore lingua solo se la traduzione esiste.
+- Lingua: `lang` nel front matter, assegnato da `defaults` in `_config.yml` per path (`en/` -> lang en). `languages: [it, en]` e `default_lang: it` in `_config.yml`.
+- Collegamento: `ref: <slug-univoco>` uguale in tutte le versioni della stessa pagina/articolo.
+- Flag traduzione (front matter): `tr: copia | tradotto | da_aggiornare`; `tr_hash` = hash del contenuto originale al momento della traduzione. Se cambia l'originale e l'hash non combacia -> `da_aggiornare`.
+- Testi interfaccia: `_data/i18n/<lang>.yml` (partire da `_data/ui-text.yml`), include con `site.data.i18n[page.lang]`.
+- Selettore lingua + `hreflang` generati dai `ref`; selettore visibile solo se la traduzione esiste.
+- Articoli: `_posts` (it) e `en/_posts` (en), stesso meccanismo.
+FASE 1 (motore): config, defaults, `_data/i18n`, selettore lingua, hreflang, navigazione per lingua.
+FASE 2 (admin): voce "Lingue" nel menu a sinistra (`admin/index.html` + nuovo `admin/js/lingue.js`): elenco lingue attive, "Nuova lingua" con scelta della lingua da cui clonare (copia pagine, articoli, testi in `/xx/`, imposta `tr: copia` e `ref`), tabella di stato (riga per pagina, colonna per lingua, verde/giallo/rosso, clic apre l'editor), pulsante per segnare "tradotto", traduzione automatica opzionale.
+FASE 3: rilevamento automatico `da_aggiornare` quando cambia l'originale; documentare nel clone (cambiare solo `_config.yml`).
+Stato fasi: (aggiornare qui) FASE 1 = in corso.
