@@ -11,11 +11,11 @@ classes: wide
 .cat-header{margin-bottom:1.5em}
 .cat-header-name{font-size:1.8em;font-weight:800;color:#1a1a2e;margin:0 0 .3em}
 .cat-header-desc{font-size:14px;color:#888;margin:0}
-.cat-back{font-size:13px;color:#3f6b00;text-decoration:none;display:inline-block;margin-bottom:1.2em}
+.cat-back{font-size:13px;color:#8a6d3b;text-decoration:none;display:inline-block;margin-bottom:1.2em}
 .cat-back:hover{text-decoration:underline}
 .art-list{display:flex;flex-direction:column;gap:.8em}
 .art-row{display:flex;gap:1.2em;align-items:flex-start;background:#fff;border:1.5px solid #eee;border-radius:12px;padding:1em 1.2em;text-decoration:none;color:inherit;transition:box-shadow .15s,border-color .15s}
-.art-row:hover{border-color:#95d600;box-shadow:0 4px 16px rgba(149,214,0,.10);text-decoration:none}
+.art-row:hover{border-color:#d9bf94;box-shadow:0 4px 16px rgba(149,214,0,.10);text-decoration:none}
 .art-row-img{width:90px;height:70px;object-fit:cover;border-radius:8px;flex-shrink:0}
 .art-row-img-ph{width:90px;height:70px;border-radius:8px;flex-shrink:0;background:#f0f0f8;display:flex;align-items:center;justify-content:center;font-size:1.6em;color:#ccc}
 .art-row-body{flex:1;min-width:0}

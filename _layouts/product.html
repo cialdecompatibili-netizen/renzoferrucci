@@ -10,12 +10,12 @@ layout: single
 .sp-main-img{width:100%;height:420px;object-fit:cover;border-radius:14px;cursor:zoom-in;transition:opacity .2s}
 .sp-thumbs{display:flex;gap:.6em;margin-top:.8em;flex-wrap:wrap}
 .sp-thumb{width:72px;height:72px;object-fit:cover;border-radius:8px;cursor:pointer;border:2px solid transparent;transition:border-color .2s;opacity:.7}
-.sp-thumb:hover,.sp-thumb.active{border-color:#95d600;opacity:1}
+.sp-thumb:hover,.sp-thumb.active{border-color:#d9bf94;opacity:1}
 .sp-no-img{width:100%;height:420px;background:#f5f5f5;border-radius:14px;display:flex;align-items:center;justify-content:center;font-size:4em;color:#ccc}
 
 .sp-breadcrumb{font-size:12px;color:#999;margin-bottom:.8em}
-.sp-breadcrumb a{color:#3f6b00;text-decoration:none}
-.sp-badge{display:inline-block;font-size:11px;font-weight:700;background:#95d600;color:#15191d;padding:3px 10px;border-radius:20px;margin-bottom:.7em;letter-spacing:.5px;text-transform:uppercase}
+.sp-breadcrumb a{color:#8a6d3b;text-decoration:none}
+.sp-badge{display:inline-block;font-size:11px;font-weight:700;background:#d9bf94;color:#15191d;padding:3px 10px;border-radius:20px;margin-bottom:.7em;letter-spacing:.5px;text-transform:uppercase}
 .sp-title{font-size:1.7em;font-weight:800;color:#1a1a2e;margin:0 0 .4em;line-height:1.2}
 .sp-rating{display:flex;align-items:center;gap:.5em;margin-bottom:1em;font-size:14px}
 .sp-stars{color:#f4b942;letter-spacing:1px}
@@ -31,16 +31,16 @@ layout: single
 .sp-label{font-size:12px;font-weight:700;color:#555;text-transform:uppercase;letter-spacing:.5px;margin-bottom:.5em}
 .sp-options{display:flex;flex-wrap:wrap;gap:.5em;margin-bottom:1.1em}
 .sp-opt{padding:6px 16px;border:1.5px solid #ddd;border-radius:8px;font-size:13px;cursor:pointer;color:#333;background:#fff;transition:all .15s}
-.sp-opt:hover{border-color:#95d600;color:#3f6b00}
-.sp-opt.selected{border-color:#95d600;background:#95d600;color:#15191d}
+.sp-opt:hover{border-color:#d9bf94;color:#8a6d3b}
+.sp-opt.selected{border-color:#d9bf94;background:#d9bf94;color:#15191d}
 
 .sp-qty-row{display:flex !important;align-items:center !important;gap:1em !important;margin-bottom:1.2em !important;visibility:visible !important}
 .sp-qty{display:flex;align-items:center;border:1.5px solid #ddd;border-radius:8px;overflow:hidden}
 .sp-qty button{width:36px !important;height:40px !important;border:none !important;background:#fff !important;font-size:1.2em !important;cursor:pointer !important;color:#333 !important;display:inline-flex !important;align-items:center !important;justify-content:center !important;visibility:visible !important}
 .sp-qty button:hover{background:#f5f5f5}
 .sp-qty input{width:44px;height:40px;border:none;border-left:1.5px solid #ddd;border-right:1.5px solid #ddd;text-align:center;font-size:15px;font-weight:700;color:#1a1a2e;outline:none}
-.sp-btn-cart{flex:1;padding:12px 20px;background:#95d600 !important;color:#15191d !important;border:none !important;border-radius:10px !important;font-size:15px !important;font-weight:700 !important;cursor:pointer !important;transition:background .2s;letter-spacing:.3px;display:inline-block !important;visibility:visible !important;opacity:1 !important;line-height:1.4 !important;text-decoration:none !important;box-shadow:none !important}
-.sp-btn-cart:hover{background:#a9e81c !important;color:#15191d !important}
+.sp-btn-cart{flex:1;padding:12px 20px;background:#d9bf94 !important;color:#15191d !important;border:none !important;border-radius:10px !important;font-size:15px !important;font-weight:700 !important;cursor:pointer !important;transition:background .2s;letter-spacing:.3px;display:inline-block !important;visibility:visible !important;opacity:1 !important;line-height:1.4 !important;text-decoration:none !important;box-shadow:none !important}
+.sp-btn-cart:hover{background:#e6d2ae !important;color:#15191d !important}
 .sp-btn-wish{width:46px !important;height:46px !important;border:1.5px solid #ddd !important;border-radius:10px !important;background:#fff !important;cursor:pointer !important;font-size:1.3em !important;color:#e74c3c !important;transition:all .2s;display:inline-flex !important;align-items:center;justify-content:center;visibility:visible !important}
 .sp-btn-wish:hover{border-color:#e74c3c !important;background:#fff5f5 !important}
 
@@ -49,7 +49,7 @@ layout: single
 
 .sp-tabs{display:flex;gap:0;border-bottom:2px solid #eee;margin-bottom:1.5em}
 .sp-tab{padding:10px 18px;font-size:13px;font-weight:600;color:#999;cursor:pointer;border-bottom:2px solid transparent;margin-bottom:-2px;transition:all .2s}
-.sp-tab.active{color:#3f6b00;border-bottom-color:#95d600}
+.sp-tab.active{color:#8a6d3b;border-bottom-color:#d9bf94}
 .sp-tab-content{display:none;font-size:14px;line-height:1.8;color:#444}
 .sp-tab-content.active{display:block}
 
@@ -166,7 +166,7 @@ layout: single
       <a href="javascript:void(0)" class="sp-btn-wish" title="Wishlist" onclick="addWish()">♡</a>
     </div>
     <hr class="sp-divider">
-    <div class="sp-sku">SKU: {{ p.sku | default: "—" }} &nbsp;|&nbsp; Categoria: <a href="{{ '/shop/categoria/' | append: p.category | append: '/' | relative_url }}" style="color:#3f6b00">{{ p.category | default: "—" }}</a></div>
+    <div class="sp-sku">SKU: {{ p.sku | default: "—" }} &nbsp;|&nbsp; Categoria: <a href="{{ '/shop/categoria/' | append: p.category | append: '/' | relative_url }}" style="color:#8a6d3b">{{ p.category | default: "—" }}</a></div>
   </div>
 </div>
 
@@ -202,7 +202,7 @@ layout: single
 </div>
 
 <div style="max-width:1000px;margin:2em auto">
-  <a href="{{ '/shop/' | relative_url }}" style="font-size:13px;color:#3f6b00;text-decoration:none">← Torna allo Shop</a>
+  <a href="{{ '/shop/' | relative_url }}" style="font-size:13px;color:#8a6d3b;text-decoration:none">← Torna allo Shop</a>
 </div>
 
 <div id="sp-toast" class="sp-toast"></div>

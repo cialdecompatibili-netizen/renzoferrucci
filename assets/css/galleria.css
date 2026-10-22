@@ -1,5 +1,5 @@
 /* Galleria foto EdilExtreme: miniature, filtri, lightbox */
-.exg{max-width:1180px;margin:2.5rem auto 0;--acc:#3f6b00;--ink:#15191d;--muted:#4a5148;--line:#dfe3d6}
+.exg{max-width:1180px;margin:2.5rem auto 0;--acc:#8a6d3b;--ink:#15191d;--muted:#4a5148;--line:#e4ddd2}
 .exg-h{font-weight:700;font-size:1.5rem;line-height:1.2;margin:0 0 .35rem;color:var(--ink)}
 .exg-s{margin:0 0 1.1rem;color:var(--muted);font-size:1rem}
 .exg-f{display:flex;flex-wrap:wrap;gap:.5rem;margin:0 0 1.2rem}
@@ -18,12 +18,12 @@
 /* striscia verticale in home */
 .exv{margin:1.75rem 0 0;padding:0;list-style:none;display:flex;flex-direction:column;gap:.7rem;max-width:340px}
 .exv li{margin:0;padding:0}
-.exv a{display:flex;align-items:center;gap:.85rem;text-decoration:none!important;color:inherit;padding:.4rem;border:1px solid #dfe3d6;border-radius:12px;background:#fff;transition:border-color .2s,box-shadow .2s}
-.exv a:hover{border-color:#3f6b00;box-shadow:0 4px 14px rgba(0,0,0,.08)}
+.exv a{display:flex;align-items:center;gap:.85rem;text-decoration:none!important;color:inherit;padding:.4rem;border:1px solid #e4ddd2;border-radius:12px;background:#fff;transition:border-color .2s,box-shadow .2s}
+.exv a:hover{border-color:#8a6d3b;box-shadow:0 4px 14px rgba(0,0,0,.08)}
 .exv img{width:84px;height:84px;object-fit:cover;border-radius:8px;flex:none;display:block}
 .exv span{font-size:.95rem;font-weight:600;line-height:1.3;color:#15191d}
 .exv-t{margin:1.5rem 0 0;font-size:.95rem;font-weight:700;color:#15191d}
-.exv-m{display:inline-block;margin-top:.8rem;font-size:.92rem;font-weight:600;color:#3f6b00}
+.exv-m{display:inline-block;margin-top:.8rem;font-size:.92rem;font-weight:600;color:#8a6d3b}
 @media(max-width:700px){.exv{max-width:none}}
 /* lightbox */
 .exlb{position:fixed;inset:0;z-index:99999;background:rgba(10,12,8,.92);display:none;align-items:center;justify-content:center;padding:1rem}
@@ -34,4 +34,4 @@
 .exlb button:hover{background:rgba(255,255,255,.3)}
 .exlb-x{top:1rem;right:1rem}.exlb-p{left:1rem;top:50%;transform:translateY(-50%)}.exlb-n{right:1rem;top:50%;transform:translateY(-50%)}
 .exg-i a{display:block;width:100%;height:100%}
-.exg-i a:focus-visible{outline:3px solid #95d600;outline-offset:-3px}
+.exg-i a:focus-visible{outline:3px solid #d9bf94;outline-offset:-3px}

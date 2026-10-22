@@ -45,9 +45,9 @@ share: false
   font-weight: 700;
   letter-spacing: 0.14em;
   text-transform: uppercase;
-  color: #3f6b00;
+  color: #8a6d3b;
   background: transparent;
-  border: 1.5px solid #3f6b00;
+  border: 1.5px solid #8a6d3b;
   border-radius: 999px;
   padding: 3px 12px;
   text-decoration: none !important;
@@ -56,7 +56,7 @@ share: false
   display: inline-block;
 }
 .blog-cat:hover {
-  background: #95d600;
+  background: #d9bf94;
   color: #15191d !important;
   text-decoration: none !important;
   transform: translateY(-1px);

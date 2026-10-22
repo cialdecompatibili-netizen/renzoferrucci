@@ -3,15 +3,15 @@
 <style>
 .exr{max-width:1180px;margin:0 auto;display:flex;flex-direction:column;gap:1.5rem}
 .exr-i{display:grid;grid-template-columns:minmax(0,380px) minmax(0,1fr);gap:1.75rem;align-items:center;padding:1rem;border:1px solid #e3e3e3;border-radius:10px;background:#fff;text-decoration:none!important;color:inherit;transition:border-color .2s,box-shadow .2s}
-.exr-i:hover{border-color:#3f6b00;box-shadow:0 6px 18px rgba(0,0,0,.08)}
-.exr-img{display:block;aspect-ratio:4/3;overflow:hidden;border-radius:6px;background:#eef3e4}
+.exr-i:hover{border-color:#8a6d3b;box-shadow:0 6px 18px rgba(0,0,0,.08)}
+.exr-img{display:block;aspect-ratio:4/3;overflow:hidden;border-radius:6px;background:#f6f2ec}
 .exr-img img{width:100%;height:100%;object-fit:cover;display:block;margin:0}
 .exr-b{display:flex;flex-direction:column;gap:.6rem;padding:.25rem .5rem .25rem 0}
 .exr-t{font-weight:700;font-size:1.4rem;line-height:1.2;color:#111}
 .exr-d{font-size:1rem;line-height:1.55;color:#4a4a4a}
 .exr-c{display:flex;flex-wrap:wrap;gap:.4rem}
-.exr-c b{font-size:.78rem;font-weight:700;letter-spacing:.02em;text-transform:uppercase;color:#1d3a06;background:#e8f3cf;padding:.25rem .6rem;border-radius:999px}
-.exr-m{font-size:.95rem;font-weight:700;color:#3f6b00}
+.exr-c b{font-size:.78rem;font-weight:700;letter-spacing:.02em;text-transform:uppercase;color:#3d2f1a;background:#efe3cf;padding:.25rem .6rem;border-radius:999px}
+.exr-m{font-size:.95rem;font-weight:700;color:#8a6d3b}
 @media(max-width:760px){.exr-i{grid-template-columns:1fr;gap:1rem}.exr-b{padding:0 .25rem .5rem}.exr-t{font-size:1.25rem}}
 </style>
 {% assign used = "" | split: "," %}
@@ -21,7 +21,7 @@
 </div>
 {% else %}
 <style>
-.exl{--ink:#111;--muted:#5b5b5b;--line:#e3e3e3;--warm:#f3f5ee;--acc:#3f6b00;max-width:1180px;margin:0 auto}
+.exl{--ink:#111;--muted:#5b5b5b;--line:#e3e3e3;--warm:#f6f2ec;--acc:#8a6d3b;max-width:1180px;margin:0 auto}
 .exl-g{display:grid;grid-template-columns:repeat(2,1fr);gap:1.25rem}
 .exl-c{display:flex;flex-direction:column;gap:.5rem;padding:1.4rem 1.5rem;border:1px solid var(--line);border-radius:10px;background:#fff;text-decoration:none!important;color:inherit;transition:border-color .2s,box-shadow .2s,transform .2s}
 .exl-c:hover{border-color:var(--acc);box-shadow:0 6px 18px rgba(0,0,0,.08);transform:translateY(-2px)}
