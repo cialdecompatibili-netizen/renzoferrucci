@@ -32,3 +32,8 @@ Sito Jekyll su GitHub Pages: https://cialdecompatibili-netizen.github.io/edilext
 - Fare le modifiche in una sola chiamata, risposte brevissime.
 ## Regola di design (da Mirco, ottobre 2026)
 - MAI bordi laterali colorati (border-left verde oliva o simili) su box, citazioni, avvisi, strisce CTA: sembrano fatti da un'IA. Nessuna barretta colorata a sinistra, mai. Usare box puliti con sfondo leggero o bordo uniforme.
+
+## Regola eta' e date automatiche (da Mirco, ottobre 2026)
+- MAI scrivere a mano eta' o "da N anni": si aggiornano da sole. Eta' persona: `<span data-eta="AAAA-MM-GG">N</span> anni`; anni da una data: `<span data-anni-da="AAAA">N</span> anni`. Lo script e' in fondo a `_includes/footer/custom.html` (commentato). Data di nascita ignota: scrivere "non nota".
+- Video YouTube: iframe dentro `<div class="video-shortcode">` (CSS 16:9 in main.scss). Prima di tenere un video controllare che esista: `https://www.youtube.com/oembed?url=<watch url>&format=json` (401/404 = rotto, da togliere).
+- Foto: mai `data:image` lazyload di Avada (l'immagine vera e' in `data-orig-src`); salvarle sempre in `assets/posts/<slug>/`.

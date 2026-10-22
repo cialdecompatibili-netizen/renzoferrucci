@@ -20,7 +20,7 @@ categories:
 <h2><span class="ez-toc-section" id="Biografia"></span>Biografia<span class="ez-toc-section-end"></span></h2>
 <ul>
 <li><strong>Nome</strong>: Chiara Ferragni</li>
-<li><strong>Età</strong>: 33 anni</li>
+<li><strong>Età</strong>: <span data-eta="1987-05-07">39</span> anni</li>
 <li><strong>Data di nascita</strong>: 7 maggio 1987</li>
 <li><strong>Segno Zodiacale</strong>: Toro</li>
 <li><strong>Luogo di nascita</strong>: Cremona</li>
@@ -54,12 +54,12 @@ categories:
 <p><strong>Chiara Ferragni è stylist di sé stessa</strong>. La donna sceglie da sola gli outfit da indossare, puntando innanzitutto su capi che non possono assolutamente mancare nell&#8217;armadio della metà femminile dei <em>Ferragnez</em>. Mini dress a stampa floreale, maglia a righe in stile marinaro, pantaloni cargo; ma anche <em>mise</em> più adatte alle grandi occasioni, come sexy tailleur, abiti dalle scollature vertiginose e completi in stile <em>vedo-non vedo</em>.</p>
 <p>Look talvolta <strong>eccessivi</strong>, che non sempre vengono apprezzati o che spesso fanno discutere: esempi eclatanti in tal senso sono i <strong>top che lasciano scoperta la parte bassa del seno</strong> o l&#8217;<strong>abito intrecciato</strong>, che ha fatto gridare allo scandalo alcuni critici di moda nonché parte delle internaute di sesso femminile. In occasione del suo matrimonio, tuttavia, la bionda influencer ha sfoggiato un <strong>tris di abiti da sposa</strong> promossi da fan ed esperti di moda.</p>
 <p>Numerosi sono gli stilisti che amano vestire da testa a piedi Chiara Ferragni: <strong>Roberto Cavalli, Philosophy by Lorenzo Serafini, Louis Vuitton, Prada, Atsuko Kudo</strong>, grandi nomi italiani ed internazionali che trovano nell&#8217;imprenditrice una <strong>vetrina perfetta</strong> per dare rilievo alle proprie creazioni, soprattutto a quelle più &#8220;provocatorie&#8221;, destinate a far parlare di sé: gli outfit più azzeccati per la Ferragni.</p>
-<p><img decoding="async" class="lazyload aligncenter wp-image-4613 size-fusion-600" src="data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27600%27%20height%3D%27450%27%20viewBox%3D%270%200%20600%20450%27%3E%3Crect%20width%3D%27600%27%20height%3D%27450%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E" data-orig-src="https://renzoferrucci.com/wp-content/uploads/2022/04/Chiara-Ferragni-look-600x450.jpg" alt="" width="600" height="450" /></p>
+<p></p>
 <h2><span class="ez-toc-section" id="Opere_filantropiche_e_riconoscimenti"></span>Opere filantropiche e riconoscimenti<span class="ez-toc-section-end"></span></h2>
 <p>Chiara Ferragni e Fedez hanno mostrato una notevole sensibilità e un&#8217;attenzione particolare durante il drammatico biennio della pandemia da <strong>Covid-19</strong> che ha messo in ginocchio il mondo intero, Italia compresa.</p>
 <p>Nel corso della prima ondata, tra marzo e maggio 2020 i coniugi Lucia hanno donato quasi <strong>17 milioni di euro</strong> all&#8217;<strong>Ospedale San Raffaele</strong> di Milano. I fondi &#8211; ottenuti sia grazie ad un&#8217;ingente donazione dei <em>Ferragnez</em> che tramite una campagna di raccolta fondi lanciata contemporaneamente dalla coppia &#8211; sono stati devoluti all&#8217;ospedale per la <strong>creazione di nuovi posti letto</strong> da destinare al Reparto di Terapia Intensiva e destinati anche ad associazioni e organizzazioni di volontariato che hanno affrontato la terribile emergenza sanitaria.</p>
 <p>Tali opere di beneficenza hanno permesso che a Fedez e Chiara Ferragni fosse consegnato dal Comune di Milano un <strong>Ambrogino d&#8217;Oro</strong> nel mese di dicembre del 2020. La Ferragni ha inoltre ricevuto dalla città di Venezia un <strong>Leone d&#8217;Oro</strong> per la medesima ragione.</p>
-<p><img decoding="async" class="lazyload aligncenter wp-image-4615 size-fusion-600" src="data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27600%27%20height%3D%27342%27%20viewBox%3D%270%200%20600%20342%27%3E%3Crect%20width%3D%27600%27%20height%3D%27342%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E" data-orig-src="https://renzoferrucci.com/wp-content/uploads/2022/04/ferragni_ig-600x342.jpg" alt="" width="600" height="342" /></p>
+<p></p>
 <h2><span class="ez-toc-section" id="Altre_attivita"></span>Altre attività<span class="ez-toc-section-end"></span></h2>
 <p>Chiara Ferragni ha prestato il suo volto alla causa della <strong>musica</strong>, del <strong>cinema</strong> e del<strong> piccolo schermo</strong>. Scopriamo insieme le sue &#8220;attività collaterali&#8221; alla moda.</p>
 <h3><span class="ez-toc-section" id="Filmografia"></span>Filmografia<span class="ez-toc-section-end"></span></h3>

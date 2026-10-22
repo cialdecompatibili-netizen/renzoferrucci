@@ -386,3 +386,9 @@ a:focus-visible,button:focus-visible,input:focus-visible{outline:3px solid var(-
 @media (prefers-reduced-motion: reduce) {
   .page__footer a[href*="webtomars.it"] { animation: none; }
 }
+
+/* VIDEO YOUTUBE: sempre a larghezza piena, proporzione 16:9 (gli iframe del vecchio WordPress avevano width/height fissi) */
+.video-shortcode{position:relative;width:100%;aspect-ratio:16/9;margin:1.6rem 0}
+.video-shortcode iframe,.page__content iframe[src*="youtube"]{width:100%;height:100%;border:0}
+.page__content iframe[src*="youtube"]:not(.video-shortcode iframe){aspect-ratio:16/9;height:auto}
+.page__content img{max-width:100%;height:auto}

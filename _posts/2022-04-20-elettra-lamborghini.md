@@ -20,7 +20,7 @@ categories:
 <h2><span class="ez-toc-section" id="Biografia"></span>Biografia<span class="ez-toc-section-end"></span></h2>
 <ul>
 <li><strong>Nome</strong>: Elettra Miura Lamborghini</li>
-<li><strong>Età</strong>: 26 anni</li>
+<li><strong>Età</strong>: <span data-eta="1994-05-17">32</span> anni</li>
 <li><strong>Data di nascita</strong>: 17 Maggio 1994</li>
 <li><strong>Segno Zodiacale</strong>: Toro</li>
 <li><strong>Luogo di nascita</strong>: Bologna</li>
@@ -50,13 +50,13 @@ categories:
 <p>Elettra Lamborghini è dichiaratamente <strong>bisessuale</strong>: prima di sposare il fidanzato <strong>Afrojack</strong> ha infatti intrattenuto dei flirt con due coinquiline di &#8220;<strong>Geordie Shore</strong>&#8220;, Chloe e Marnie.</p>
 <p>Il grande amore dell&#8217;ereditiera è però il sopracitato DJ olandese Afrojack. I due, fidanzatisi ufficialmente nel 2018, sono convolati a nozze due anni dopo. Il <strong>matrimonio</strong>, organizzato dal popolare wedding planner <strong>Enzo Miccio</strong>, si è svolto sul lago di Como il <strong>26 settembre 2020</strong>. Grande assente all&#8217;evento la sorella dell&#8217;ereditiera, <strong>Ginevra Lamborghini</strong>: i motivi non sono mai stati resi noti.</p>
 <p>Elettra Lamborghini ama moltissimo gli animali: possiede <strong>cinque cavalli</strong> e più di <strong>trenta cani</strong>!</p>
-<p><img decoding="async" class="lazyload aligncenter wp-image-4670 size-fusion-600" src="data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27600%27%20height%3D%27370%27%20viewBox%3D%270%200%20600%20370%27%3E%3Crect%20width%3D%27600%27%20height%3D%27370%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E" data-orig-src="https://renzoferrucci.com/wp-content/uploads/2022/04/Afrojack-e-Elettra-Lamborghini-600x370.jpg" alt="" width="600" height="370" /></p>
+<p></p>
 <h2><span class="ez-toc-section" id="Preferenze_stilistiche_di_Elettra_Lamborghini"></span>Preferenze stilistiche di Elettra Lamborghini<span class="ez-toc-section-end"></span></h2>
 <p>Se dovessimo apostrofare con una sola parola lo <strong>stile</strong> della<em> regina del twerking</em>, &#8220;<strong>eccesso</strong>&#8221; sarebbe quella giusta!</p>
 <p>Elettra Lamborghini non è esattamente una donna che passa inosservata. <strong>Scollature vertiginose, trasparenze, fantasie leopardate</strong>: tutto o quasi è stato indossato con assoluta nonchalance dalla cantante e star televisiva, che spazia dalle mise più sportive a seducenti abiti da sera per red carpet prestigiosi.</p>
 <p>I look di Elettra possono choccare ma mai lasciare indifferenti e il suo gusto in fatto di abbigliamento è particolarmente amato dalle teenager. Ecco perché, oltre ad aver collaborato con <a href="https://www.yamamay.com/it_it/elettra-lamborghini-for-yamamay-collection?page=1" target="_blank" rel="noopener">Yamamay</a>  per una linea di underwear giovane e sbarazzina, la Lamborghini ha lanciato una sua linea di abbigliamento pensata per neonate, bambine e adolescenti.</p>
 <p>Tra i <em>must have</em> della performer troviamo, infine, le <strong>scarpe</strong>: Elettra ha una collezione infinita di ogni tipologia di calzatura.</p>
-<p><img decoding="async" class="lazyload aligncenter wp-image-4672 size-fusion-600" src="data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27600%27%20height%3D%27399%27%20viewBox%3D%270%200%20600%20399%27%3E%3Crect%20width%3D%27600%27%20height%3D%27399%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E" data-orig-src="https://renzoferrucci.com/wp-content/uploads/2022/04/Elettra-Lamborghini-2-600x399.jpg" alt="" width="600" height="399" /></p>
+<p></p>
 <h2><span class="ez-toc-section" id="Discografia"></span>Discografia<span class="ez-toc-section-end"></span></h2>
 <p>La <strong>discografia di Elettra Lamborghini</strong> vanta un album in studio, un EP e ben nove singoli ascoltati e scaricati sulle principali piattaforme di streaming.</p>
 <h3><span class="ez-toc-section" id="Album_in_studio"></span>Album in studio<span class="ez-toc-section-end"></span></h3>
@@ -79,7 +79,7 @@ categories:
 <li>2021 – <em>Pistolero</em></li>
 <li>2021 – <em>A mezzanotte (Christmas Song)</em></li>
 </ul>
-<p><img decoding="async" class="lazyload aligncenter wp-image-4674 size-fusion-600" src="data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27600%27%20height%3D%27410%27%20viewBox%3D%270%200%20600%20410%27%3E%3Crect%20width%3D%27600%27%20height%3D%27410%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E" data-orig-src="https://renzoferrucci.com/wp-content/uploads/2022/04/Elettra-Lamborghini-album-600x410.png" alt="" width="600" height="410" /></p>
+<p></p>
 <h2><span class="ez-toc-section" id="Apparizioni_televisive_web_TV_filmografia"></span>Apparizioni televisive, web TV, filmografia<span class="ez-toc-section-end"></span></h2>
 <p>Elettra è nota per le sue <strong>apparizioni su grande e piccolo schermo</strong>.</p>
 <h3><span class="ez-toc-section" id="Apparizioni_televisive"></span>Apparizioni televisive<span class="ez-toc-section-end"></span></h3>

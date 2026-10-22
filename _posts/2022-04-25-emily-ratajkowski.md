@@ -18,7 +18,7 @@ categories:
 <h2 id="firstHeading" class="firstHeading mw-first-heading"><span class="ez-toc-section" id="Biografia"></span>Biografia<span class="ez-toc-section-end"></span></h2>
 <ul>
 <li><strong>Nome</strong>: Emily O&#8217;Hara Ratajkowski</li>
-<li><strong>Età</strong>: 30 anni</li>
+<li><strong>Età</strong>: <span data-eta="1991-06-07">35</span> anni</li>
 <li><strong>Data di nascita</strong>: 7 giugno 1991</li>
 <li><strong>Segno zodiacale</strong>: Gemelli</li>
 <li><strong>Luogo di nascita</strong>: Londra</li>
@@ -35,7 +35,7 @@ categories:
 <p>Nel 2009 Emily Ratajkowski accantona gli studi universitari per lanciarsi nel <strong>patinato mondo della moda</strong> e dei videoclip musicali, non disdegnando proposte &#8220;succinte&#8221; come posare per il magazine erotico &#8220;<strong>Treats!</strong>&#8220;. La donna si mostra a proprio agio senza abiti addosso: sin da giovane, infatti, ha ammesso di aver visitato numerose spiagge per nudisti, non vivendo il restare senza veli come un tabù.</p>
 <p>Nel 2015 Emily Ratajkowski debutta ufficialmente come modella sulle passerelle di mezzo mondo. La supermodella sfila per i grandi nomi della moda internazionale: <strong>Marc Jacobs, Miu Miu, DKNY</strong>. La trentenne posa, inoltre, sulle più note riviste di moda: &#8220;<strong>Vogue</strong>&#8220;, &#8220;<strong>Marie Claire</strong>&#8220;, &#8220;<strong>Glamour</strong>&#8220;.</p>
 <p>Modella dalle forme perfette, Emily Ratajkowski si batte per un <strong>canone di bellezza non stereotipato</strong>, affermando che sogna delle passerelle inclusive per ogni misura e altezza.</p>
-<div class="video-shortcode"><iframe title="Emily Ratajkowski walks the runway" width="1170" height="658" src="https://www.youtube.com/embed/Dctv2jjhdfE?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
 <h2><span class="ez-toc-section" id="Campagne_pubblicitarie"></span>Campagne pubblicitarie<span class="ez-toc-section-end"></span></h2>
 <p>Emily Ratajkowski ha prestato volto e corpo a numerose <strong>campagne pubblicitarie</strong>.</p>
 <p>In occasione della 50esima edizione dei <strong>Super Bowl</strong> la modella fu protagonista, assieme al campione di football <strong>Odell Beckham</strong>, dello uno spot pubblicitario di una nota marca di automobili. La modella, inoltre, posò vestita solo di gioielli realizzati dalla nota designer <strong>Jacquie Aiche</strong>.</p>
@@ -55,7 +55,7 @@ categories:
 <li><em>Kérastase</em> (2018–2019)</li>
 <li><em>Express Holiday</em> (2019)</li>
 </ul>
-<p><img decoding="async" class="lazyload aligncenter wp-image-4711 size-fusion-600" src="data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27600%27%20height%3D%27402%27%20viewBox%3D%270%200%20600%20402%27%3E%3Crect%20width%3D%27600%27%20height%3D%27402%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E" data-orig-src="https://renzoferrucci.com/wp-content/uploads/2022/04/Emily-Ratajkowski-per-The-Kooples-600x402.jpg" alt="" width="600" height="402" /></p>
+<p></p>
 <h2><span class="ez-toc-section" id="Apparizioni_nei_videoclip"></span>Apparizioni nei videoclip<span class="ez-toc-section-end"></span></h2>
 <p>La trentenne supermodella Emily Ratajkowski è volto noto anche grazie alle sue importanti e controverse interpretazioni in <strong>videoclip musicali</strong>.</p>
 <p>La statunitense è apparsa nel video di <strong>Taio Cruz</strong> <em>Fastcar</em> e in <em>Love Somebody</em> dei<strong> Maroon Five</strong>. Il video più conosciuto nel quale la modella e attrice è apparsa, però, è quello di <em><strong>Blurred Lines</strong></em>, singolo di successo del 2013 che vede il cantante e produttore <strong>Robin Thicke</strong> avvalersi delle esclusive partecipazioni di <strong>Pharrel Williams</strong> e <strong>T.I.</strong>. Il cantautore scelse la Ratajkowski copo averne ammirato gli scatti su &#8220;Treats!&#8221;.</p>
@@ -97,7 +97,7 @@ categories:
 <li><em><strong>Viva London</strong></em> – Londra</li>
 <li><em><strong>Viva Barcelona</strong></em> – Barcellona</li>
 </ul>
-<p><img decoding="async" class="lazyload aligncenter wp-image-4713 size-fusion-600" src="data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27600%27%20height%3D%27400%27%20viewBox%3D%270%200%20600%20400%27%3E%3Crect%20width%3D%27600%27%20height%3D%27400%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E" data-orig-src="https://renzoferrucci.com/wp-content/uploads/2022/04/Emily-Ratajkowski-1-600x400.jpg" alt="" width="600" height="400" /></p>
+<p></p>
 <h2><span class="ez-toc-section" id="Vita_privata"></span>Vita privata<span class="ez-toc-section-end"></span></h2>
 <p>Non esiste una classifica di <strong>donne più sexy</strong> che non veda inclusa Emily Ratajkowski. L&#8217;assenza di inibizioni nel mostrarsi senza veli ha causato, però, non pochi grattacapi alla modella e attrice, vittima come altre star dello <em>showbiz</em> di un <strong>furto di foto private</strong> nel 2014.</p>
 <p>Per quanto concerne la <strong>vita sentimentale</strong> della supermodella, Emily Ratajkowski è stata precedentemente legata al produttore musicale <strong>Jeff Magid</strong>. La relazione, iniziata nel 2014, finì quattro anni dopo. Nel 2018 Emily Ratajkowski si lega in matrimonio con l&#8217;attore <strong>Sebastian Bear-McClard</strong> dopo un breve fidanzamento: l&#8217;annuncio è stato dato dalla Ratajkowski stessa sul proprio profilo Instagram. Nel 2021 la coppia annuncia la nascita del primo figlio, <strong>Sylvester Apollo</strong>.</p>

@@ -30,7 +30,7 @@ categories:
 <h2><span class="ez-toc-section" id="Influenze_musicali"></span>Influenze musicali<span class="ez-toc-section-end"></span></h2>
 <p>Achille Lauro mostra tutta la sua <strong>ecletticità</strong> in fatto di influenze musicali. Dal <strong>rap underground</strong> alla <strong>trap</strong> ad una versione latina di quest&#8217;ultimo genere &#8211; rinominato <em><strong>samba trap</strong></em> &#8211; il cantautore spazia in fatto di sonorità e regala testi molto spesso contestati ma mai scontati e soprattutto molto originali.</p>
 <p>In <em>Rolls Royce</em>, ad esempio, Achille Lauro decide di virare verso un sound più <strong>rock</strong>. Le sue muse in fatto di produzione artistica sono numerose: oltre ai già citati Vasco Rossi e Beatles il performer ha ammesso di amare <strong>Elvis Presley, Kurt Cobain, Rino Gaetano, Lucio Battisti, Travis Scott, 6lack</strong> e <strong>Young Thug</strong>.</p>
-<p><img decoding="async" class="lazyload aligncenter wp-image-4326 size-fusion-600" src="data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27600%27%20height%3D%27400%27%20viewBox%3D%270%200%20600%20400%27%3E%3Crect%20width%3D%27600%27%20height%3D%27400%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E" data-orig-src="https://renzoferrucci.com/wp-content/uploads/2022/04/Achille-Lauro-1-600x400.jpg" alt="" width="600" height="400" /></p>
+<p></p>
 <h2><span class="ez-toc-section" id="Polemiche_e_controversie"></span>Polemiche e controversie<span class="ez-toc-section-end"></span></h2>
 <p>La figura di Achille Lauro e le sue performance non sono state esenti da <strong>polemiche</strong>, talvolta comprensibili, a volte feroci.</p>
 <p>Nel <strong>2019</strong> la sua partecipazione a Sanremo con il brano <em><strong>Rolls Royce</strong></em> fu attenzionata dal popolare TG satirico &#8220;<strong>Striscia La Notizia</strong>&#8220;. Oggetto del contendere il testo del brano, a partire dal titolo: la redazione della trasmissione Mediaset, infatti, trovò una &#8220;sorprendente&#8221; <strong>analogia</strong> tra la Rolls Royce di Lauro e il nome di una pasticca di <strong>ecstasy</strong>. A riprova di ciò, l&#8217;intero testo della canzone pare essere un elenco di personaggi famosi che hanno fatto uso di droghe, talvolta con esiti drammatici.</p>
@@ -111,7 +111,7 @@ categories:
 <li>2022 – <em>Domenica </em></li>
 <li>2022 – <em>Stripper</em></li>
 </ul>
-<p><img decoding="async" class="lazyload aligncenter wp-image-4330 size-fusion-600" src="data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27600%27%20height%3D%27600%27%20viewBox%3D%270%200%20600%20600%27%3E%3Crect%20width%3D%27600%27%20height%3D%27600%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E" data-orig-src="https://renzoferrucci.com/wp-content/uploads/2022/04/Album-600x600.jpg" alt="" width="600" height="600" /></p>
+<p></p>
 <h2><span class="ez-toc-section" id="Altre_attivita"></span>Altre attività<span class="ez-toc-section-end"></span></h2>
 <p>Oltre ad uno straordinario <em>corpus</em> discografico, <strong>Achille Lauro</strong> ha sfogato la sua vena creativa in altre forme comunicative scrivendo libri, partecipando ad esposizioni artistiche o semplicemente prendendo parte a diversi format televisivi. Scopriamo insieme i mille volti di Lauro.</p>
 <h3><span class="ez-toc-section" id="Achille_Lauro_in_libreria"></span>Achille Lauro in libreria<span class="ez-toc-section-end"></span></h3>
@@ -139,7 +139,7 @@ categories:
 <li><em>71º Festival di Sanremo</em>, Rai 1 (2021) &#8211; ospite fisso</li>
 <li><em>Celebrity Hunted: Caccia all&#8217;uomo 2</em>, Amazon Prime Video (2021)</li>
 </ul>
-<p><img decoding="async" class="lazyload aligncenter wp-image-4328 size-fusion-600" src="data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27600%27%20height%3D%27337%27%20viewBox%3D%270%200%20600%20337%27%3E%3Crect%20width%3D%27600%27%20height%3D%27337%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E" data-orig-src="https://renzoferrucci.com/wp-content/uploads/2022/04/achille-lauro-boss-doms-pechino-express-2017-600x337.jpg" alt="" width="600" height="337" /></p>
+<p></p>
 <h2><span class="ez-toc-section" id="Citazioni"></span>Citazioni<span class="ez-toc-section-end"></span></h2>
 <p>Tra le citazioni più significative di <strong>Achille Lauro</strong> non possiamo non menzionare spezzoni dalle sue canzoni più famose.</p>
 <ul>

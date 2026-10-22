@@ -29,3 +29,32 @@ document.addEventListener('click', function(e) {
   }
 });
 </script>
+{%- comment -%}
+=====================================================================================
+ REGOLA ETA / ANNI AUTOMATICI  (mai scrivere un'eta' o "da N anni" a mano nei testi)
+ Le eta' si aggiornano da sole nel browser, ogni giorno, senza toccare gli articoli.
+   - Eta' di una persona:   <span data-eta="1970-05-22">56</span> anni
+        data-eta  = data di nascita AAAA-MM-GG (il numero dentro lo span e' solo il valore
+        di riserva per chi non ha JavaScript: lo script lo sostituisce con quello giusto).
+   - Anni trascorsi da una data o da un anno (fondazione, debutto, ecc.):
+        <span data-anni-da="1975">51</span> anni di storia      (anche AAAA-MM-GG)
+ Se la data di nascita non e' nota: scrivere "non nota", NON un numero.
+ Vale per tutte le date: se un testo contiene un'eta' o un "N anni fa/di", va scritta cosi'.
+=====================================================================================
+{%- endcomment -%}
+<script>
+(function () {
+  var oggi = new Date();
+  function anni(s) {
+    var p = String(s).split('-'), y = +p[0], m = (+p[1] || 1) - 1, d = +p[2] || 1;
+    if (!y) return null;
+    var a = oggi.getFullYear() - y;
+    if (oggi.getMonth() < m || (oggi.getMonth() === m && oggi.getDate() < d)) a--;
+    return a;
+  }
+  document.querySelectorAll('[data-eta],[data-anni-da]').forEach(function (el) {
+    var v = anni(el.getAttribute('data-eta') || el.getAttribute('data-anni-da'));
+    if (v !== null && v >= 0) el.textContent = v;
+  });
+})();
+</script>
