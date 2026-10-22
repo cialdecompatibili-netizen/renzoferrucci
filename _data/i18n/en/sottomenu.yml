@@ -32,8 +32,8 @@
 # Documentazione del funzionamento: commento in testa a _includes/masthead.html.
 # =====================================================================================
 
-Donna:
-  - title: "Tutto Donna"
+Women:
+  - title: "All Women"
     url: /en/shop/#donna
   - title: "Beauty"
     url: /en/shop/#beauty
