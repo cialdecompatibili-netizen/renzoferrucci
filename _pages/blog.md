@@ -6,6 +6,7 @@ author_profile: false
 classes: wide
 share: false
 ---
+{%- assign posts_l = site.posts | where: "lang", page.lang -%}
 
 <style>
 .blog-list { list-style: none; padding: 0; margin: 2em 0 0; }
@@ -127,7 +128,7 @@ share: false
 </style>
 
 <ul class="blog-list">
-  {% for post in site.posts %}
+  {% for post in posts_l %}
   <li class="blog-item">
     <div class="blog-img">
       {% if post.header.teaser %}

@@ -5,6 +5,7 @@ permalink: /categoria/
 author_profile: false
 classes: wide
 ---
+{%- assign posts_l = site.posts | where: "lang", page.lang -%}
 
 <style>
 #page-title{display:none}
@@ -36,7 +37,7 @@ classes: wide
 
 <script>
 const SITE_POSTS = [
-  {% for post in site.posts %}
+  {% for post in posts_l %}
   {
     title: {{ post.title | jsonify }},
     url: "{{ post.url | relative_url }}",

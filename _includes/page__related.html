@@ -1,9 +1,10 @@
+{%- assign posts_l = site.posts | where: "lang", page.lang -%}
 {% if page.related %}
 <div class="page__related">
   <h2 class="page__related-title">{{ site.data.ui-text[site.locale].related_label | default: "You May Also Enjoy" }}</h2>
   <div class="grid__wrapper">
     {% assign count = 0 %}
-    {% for post in site.posts %}
+    {% for post in posts_l %}
       {% unless post.id == page.id %}
         {% if count < 3 %}
           {% assign count = count | plus: 1 %}

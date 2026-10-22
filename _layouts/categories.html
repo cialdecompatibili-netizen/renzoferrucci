@@ -1,6 +1,7 @@
 ---
 layout: archive
 ---
+{%- assign posts_l = site.posts | where: "lang", page.lang -%}
 
 {{ content }}
 
@@ -9,7 +10,7 @@ layout: archive
 <div style="display:grid;grid-template-columns:repeat(auto-fill,minmax(280px,1fr));gap:20px;margin-top:20px">
 {% for cat in categorie %}
   {% assign nome = cat.nome %}
-  {% assign posts_cat = site.posts | where_exp:"p","p.categories contains nome" %}
+  {% assign posts_cat = posts_l | where_exp:"p","p.categories contains nome" %}
   <a href="{{ site.baseurl }}/categories/#{{ nome | slugify }}" style="text-decoration:none">
     <div style="background:white;border:1.5px solid #e5e5e5;border-radius:12px;padding:22px;transition:box-shadow .2s" onmouseover="this.style.boxShadow='0 4px 16px rgba(0,0,0,.1)'" onmouseout="this.style.boxShadow='none'">
       <div style="font-size:18px;font-weight:700;color:#1a1a2e;margin-bottom:6px;text-transform:capitalize">{{ nome }}</div>
@@ -24,7 +25,7 @@ layout: archive
 
 <hr style="margin:40px 0">
 
-{% assign posts_by_category = site.posts | group_by_exp: "post", "post.categories | first" %}
+{% assign posts_by_category = posts_l | group_by_exp: "post", "post.categories | first" %}
 {% for cat in posts_by_category %}
 <h2 id="{{ cat.name | slugify }}" style="text-transform:capitalize;margin-bottom:16px">{{ cat.name }}</h2>
 {% assign cat_data = site.data.categorie | where:"nome",cat.name | first %}

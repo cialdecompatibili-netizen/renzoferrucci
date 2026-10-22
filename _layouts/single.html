@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+{%- assign posts_l = site.posts | where: "lang", page.lang -%}
 {%- assign locale = page.locale | default: layout.locale | default: site.locale %}
 
 {% if page.header.overlay_color or page.header.overlay_image or page.header.image %}
@@ -91,7 +92,7 @@ layout: default
   {% if page.id and page.related and site.related_posts.size > 0 %}
     {% include page__related.html locale=locale posts=site.related_posts %}
   {% elsif page.id and page.related %}
-    {% assign related_limited = site.posts | limit: 3 %}
+    {% assign related_limited = posts_l | limit: 3 %}
     {% include page__related.html locale=locale posts=related_limited %}
   {% endif %}
 

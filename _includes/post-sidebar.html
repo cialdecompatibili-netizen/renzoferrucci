@@ -1,3 +1,4 @@
+{%- assign posts_l = site.posts | where: "lang", page.lang -%}
 <style>
 .has-postside{display:flex;flex-wrap:wrap;gap:2.2rem;align-items:flex-start}
 .has-postside > .page{float:none !important;flex:1 1 0;min-width:0;width:auto !important;margin:0 !important;padding:0 !important}
@@ -63,7 +64,7 @@
     <h2>Post recenti</h2>
     <ul class="ps-list">
       {%- assign shown = 0 -%}
-      {%- for p in site.posts -%}
+      {%- for p in posts_l -%}
         {%- if p.url != page.url and shown < 5 -%}
         <li><a class="ps-post" href="{{ p.url | relative_url }}">
           {%- if p.header.teaser -%}<img src="{{ p.header.teaser | relative_url }}" alt="" loading="lazy">{%- else -%}<span class="ps-ph"></span>{%- endif -%}
@@ -80,7 +81,7 @@
       {%- for v in site.data.sottomenu.Journal -%}
         {%- if v.url contains '/categoria/?cat=' -%}
           {%- assign slug = v.url | split: 'cat=' | last -%}
-          {%- assign n = site.categories[slug].size | default: 0 -%}
+          {%- assign n = posts_l | where_exp: "p","p.categories contains slug" | size -%}
           {%- if n > 0 -%}
           <li><a href="{{ v.url | relative_url }}"><span>{{ v.title }}</span><span class="ps-n">{{ n }}</span></a></li>
           {%- endif -%}
