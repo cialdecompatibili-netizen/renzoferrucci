@@ -32,6 +32,12 @@
 # Documentazione del funzionamento: commento in testa a _includes/masthead.html.
 # =====================================================================================
 
+Donna:
+  - title: "Tutto Donna"
+    url: /shop/#donna
+  - title: "Beauty"
+    url: /shop/#beauty
+
 Journal:
   - title: "Stilisti"
     url: /categoria/?cat=stilisti

@@ -5,8 +5,6 @@ main:
     url: /shop/#uomo
   - title: "Donna"
     url: /shop/#donna
-  - title: "Beauty"
-    url: /shop/#beauty
   - title: "Living"
     url: /shop/#living
   - title: "Journal"
