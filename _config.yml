@@ -44,6 +44,7 @@ include:
 
 plugins:
   - jekyll-sitemap
+  - jekyll-redirect-from
   - jekyll-gist
   - jekyll-feed
   - jemoji
@@ -69,7 +70,7 @@ defaults:
       type: posts
     values:
       layout: single
-      permalink: /en/:categories/:title/
+      permalink: /:categories/:title/
   - scope:
       path: ""
     values:

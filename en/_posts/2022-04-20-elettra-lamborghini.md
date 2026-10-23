@@ -14,6 +14,10 @@ lang: en
 locale: en
 tr: tradotto
 tr_hash: ubixt
+permalink: /en/fashion-and-celebrities/elettra-lamborghini/
+redirect_from:
+  - /en/en/moda-e-star/elettra-lamborghini/
+  - /en/moda-e-star/elettra-lamborghini/
 ---
 <p>She is an heiress, but incredibly nice and witty. <strong>Elettra Lamborghini</strong> is a star with a thousand facets, loved by adults and children alike not so much for her singing skills (much <strong>slaughtered by industry critics</strong>, despite her hits being danced and listened to throughout Italy) but for her bubbly character and her eccentric style, to say the least.</p>
 <p>Over the course of her career, the young woman has racked up countless <strong>TV appearances</strong>, a participation in the <strong>Sanremo Festival</strong> and has also given her leopard "touch" to the glittering universe of fashion, designing a hyper-bold collection for the underwear brand <strong>Yamamay</strong>, but not only that.</p>

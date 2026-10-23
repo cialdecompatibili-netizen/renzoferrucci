@@ -13,6 +13,10 @@ lang: en
 locale: en
 tr: tradotto
 tr_hash: hfzb9e
+permalink: /en/magazine/what-are-walter-albini-s-clothing-lines/
+redirect_from:
+  - /en/en/magazine/quali-sono-le-linee-di-abbigliamento-di-walter-albini-2/
+  - /en/magazine/quali-sono-le-linee-di-abbigliamento-di-walter-albini-2/
 ---
 <h2><span class="ez-toc-section" id="Introduzione"></span>Introduction<span class="ez-toc-section-end"></span></h2>
 <p><strong>Walter Albini</strong> revolutionized the Italian fashion industry by introducing an innovative approach that combines haute couture and industrial production. Born in 1941 in Busto Arsizio, Albini studied art in Turin and gained international experience in Paris and London, marking his encounter with figures such as Coco Chanel and Karl Lagerfeld. His most relevant intuition was to bring creativity to the factory, guaranteeing quality and stylistic coherence to collections created on a large scale. With the birth of its lines, Albini has overcome the traditional separation between haute couture and ready-to-wear, creating a bridge between luxury and accessibility for a new audience of consumers.</p>

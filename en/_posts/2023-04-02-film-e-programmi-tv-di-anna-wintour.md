@@ -13,6 +13,10 @@ lang: en
 locale: en
 tr: tradotto
 tr_hash: 1c9rikw
+permalink: /en/fashion-and-celebrities/anna-wintour-movies-and-tv-shows/
+redirect_from:
+  - /en/en/moda-e-star/film-e-programmi-tv-di-anna-wintour/
+  - /en/moda-e-star/film-e-programmi-tv-di-anna-wintour/
 ---
 <p>Anna Wintour is a British journalist and publisher with US citizenship, director of the monthly <strong>Vogue America</strong> since 1988, considered the most authoritative fashion magazine in the world. Her influence also extends to cinema and television, where she has been the protagonist or inspiration for several films and TV programs.</p>
 

@@ -14,6 +14,10 @@ lang: en
 locale: en
 tr: tradotto
 tr_hash: 4fjn44
+permalink: /en/fashion-and-celebrities/achille-lauro/
+redirect_from:
+  - /en/en/moda-e-star/achille-lauro/
+  - /en/moda-e-star/achille-lauro/
 ---
 <p>Histrionic, eccentric, unique: <em>ladies and gentlemen, here's</em> <strong>Achille Lauro</strong>!</p>
 <p>The popular singer of <em>Domenica</em> and <em>Rolls Royce</em> not only amazes his fans with his songs with provocative lyrics and his <strong>eclectic streak</strong> which ranges from American hip hop to the Beatles via Vasco Rossi, but also captures attention thanks to a <strong>style</strong> which we could easily define as "<strong>extreme</strong>" in certain aspects but which he hides, behind pompous hairpieces and costumes, a<strong> frantic search for detail</strong>, attention to every single detail, a perfect correlation between the various elements that make up his look.</p>

@@ -13,6 +13,10 @@ lang: en
 locale: en
 tr: tradotto
 tr_hash: 1ye9iys
+permalink: /en/fashion-photographers/richard-avedon/
+redirect_from:
+  - /en/en/fotografi-di-moda/richard-avedon/
+  - /en/fotografi-di-moda/richard-avedon/
 ---
 <div class="w-full border-b border-black/10 dark:border-gray-900/50 text-gray-800 dark:text-gray-100 group bg-gray-50 dark:bg-[#444654]">
 <div class="text-base gap-4 md:gap-6 m-auto md:max-w-2xl lg:max-w-2xl xl:max-w-3xl p-4 md:py-6 flex lg:px-0">

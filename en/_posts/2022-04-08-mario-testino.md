@@ -14,6 +14,10 @@ lang: en
 locale: en
 tr: tradotto
 tr_hash: o0a6hw
+permalink: /en/fashion-photographers/mario-testino/
+redirect_from:
+  - /en/en/fotografi-di-moda/mario-testino/
+  - /en/fotografi-di-moda/mario-testino/
 ---
 <p>He is rightly considered one of the <strong> greatest exponents of fashion photography </strong> alive. With his intense shots of models, influencers and VIPs <strong>Mario Testino</strong> has given an innovative touch to a genre, that of fashion photography, often considered "rigid", perhaps boring, mistakenly linked to some stereotypes.</p>
 <p>Testino gave a <strong>new image</strong> to the great fashion houses with which he collaborated and still collaborates, helping to launch the careers of models such as <a href="{{ '/modelle/kate-moss/' | relative_url }}" target="_blank" rel="noopener"><strong>Kate Moss</strong></a> and<strong> Stella Tennant</strong>; thanks to his portraits he has created glossy cover characters or endowed with noble titles so intense as to be almost palpable. The Peruvian is undoubtedly one of the most iconic photographers of all time and his works have set and continue to set standards.</p>

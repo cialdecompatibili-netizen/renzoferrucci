@@ -13,6 +13,10 @@ lang: en
 locale: en
 tr: tradotto
 tr_hash: slo37z
+permalink: /en/fashion-houses/air-jordan/
+redirect_from:
+  - /en/en/case-di-moda/air-jordan/
+  - /en/case-di-moda/air-jordan/
 ---
 <p>Air Jordans are a line of sports shoes created in 1984 by Nike for basketball champion Michael Jordan, considered one of the best players of all time. The name derives from his athletic skills and his aerial game, which made him famous throughout the world. Air Jordans are not just simple basketball shoes, but have become a cultural phenomenon, a symbol of style and success, an object of desire for millions of fans and collectors. In this article we tell you the history, characteristics and curiosities of these legendary sneakers.</p>
 

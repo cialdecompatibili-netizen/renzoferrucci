@@ -13,6 +13,10 @@ lang: en
 locale: en
 tr: tradotto
 tr_hash: 1cubfor
+permalink: /en/magazine/riccardo-gay-model-management/
+redirect_from:
+  - /en/en/magazine/riccardo-gay-model-management/
+  - /en/magazine/riccardo-gay-model-management/
 ---
 <div class="message">
 <div class="content" tabindex="0">

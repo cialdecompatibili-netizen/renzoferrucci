@@ -14,6 +14,10 @@ lang: en
 locale: en
 tr: tradotto
 tr_hash: 1jmkcab
+permalink: /en/fashion-houses/designers/the-world-of-chanel-from-its-origins-to-the-latest-trends/
+redirect_from:
+  - /en/en/case-di-moda/stilisti/il-mondo-di-chanel-dalle-origini-alle-ultime-tendenze/
+  - /en/case-di-moda/stilisti/il-mondo-di-chanel-dalle-origini-alle-ultime-tendenze/
 ---
 <p>Chanel is one of the most iconic fashion houses in the world, known for its unique and elegant style that revolutionized the world of fashion. Founded in Paris in 1910 by French designer<strong> Gabrielle “Coco” Chanel</strong>, the company has become synonymous with high fashion, perfumes and luxury accessories.</p>
 

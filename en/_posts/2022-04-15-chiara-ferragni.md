@@ -14,6 +14,10 @@ lang: en
 locale: en
 tr: tradotto
 tr_hash: cb0hsh
+permalink: /en/fashion-and-celebrities/chiara-ferragni/
+redirect_from:
+  - /en/en/moda-e-star/chiara-ferragni/
+  - /en/moda-e-star/chiara-ferragni/
 ---
 <p>You can love her or hate her, but it will be very difficult to ignore her: <strong>Chiara Ferragni</strong> is the <strong>influencer par excellence</strong>.</p>
 <p>The fashion blogger and designer shares a public and private existence as if it were an open book for her <em>followers</em>, who target all the <strong>social profiles</strong> of the most famous Italian mother and entrepreneur in the world.</p>

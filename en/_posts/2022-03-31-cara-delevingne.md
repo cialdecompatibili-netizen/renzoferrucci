@@ -14,6 +14,10 @@ lang: en
 locale: en
 tr: tradotto
 tr_hash: 12syo0w
+permalink: /en/models/cara-delevingne/
+redirect_from:
+  - /en/en/modelle/cara-delevingne/
+  - /en/modelle/cara-delevingne/
 ---
 <div class="fusion-fullwidth fullwidth-box fusion-builder-row-2 fusion-flex-container nonhundred-percent-fullwidth non-hundred-percent-height-scrolling" style="background-color: rgba(255,255,255,0);background-position: center center;background-repeat: no-repeat;border-width: 0px 0px 0px 0px;border-color:#eae9e9;border-style:solid;" ><div class="fusion-builder-row fusion-row fusion-flex-align-items-flex-start" style="max-width:1216.8px;margin-left: calc(-4% / 2 );margin-right: calc(-4% / 2 );"><div class="fusion-layout-column fusion_builder_column fusion-builder-column-1 fusion_builder_column_1_1 1_1 fusion-flex-column"><div class="fusion-column-wrapper fusion-flex-justify-content-flex-start fusion-content-layout-column" style="background-position:left top;background-repeat:no-repeat;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;padding: 0px 0px 0px 0px;"><div class="fusion-text fusion-text-2"><p><strong>One, none, one hundred thousand</strong>. If we had to describe the supermodel born in 1992 <strong>Cara Delevingne</strong> with just one word we could use the adjective <strong><em>multifaceted</em></strong>.</p>
 <p>The Londoner, with her ethereal charm favored by her blonde hair, pale complexion and blue eyes, might seem like a perfect doll. Be careful, however, because never before can appearances be deceiving as in this case.</p>

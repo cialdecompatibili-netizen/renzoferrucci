@@ -14,6 +14,10 @@ lang: en
 locale: en
 tr: tradotto
 tr_hash: 1opxh8k
+permalink: /en/models/naomi-campbell/
+redirect_from:
+  - /en/en/modelle/naomi-campbell/
+  - /en/modelle/naomi-campbell/
 ---
 <p>Raise your hand if you don't know the face behind the pseudonym of <em><strong>Black Venus</strong></em>! Despite the passing years, her excessively <em>fumantine</em> character and the dark period caused by addictions, <strong>Naomi Campbell</strong> remains a living legend of the Italian and international catwalks.</p>
 <p>The<strong> English supermodel</strong> is not only beautiful. Naomi Campbell is a very busy woman who boasts a multifaceted career and who has finally realized her greatest dream: <strong>becoming a mother</strong>. We know better all the faces of a Venus as splendid as it is "caustic".</p>

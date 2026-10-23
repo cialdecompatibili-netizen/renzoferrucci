@@ -15,6 +15,10 @@ lang: en
 locale: en
 tr: tradotto
 tr_hash: 1wszbui
+permalink: /en/designers/stilisti-italiani/valentino/
+redirect_from:
+  - /en/en/stilisti/stilisti-italiani/valentino/
+  - /en/stilisti/stilisti-italiani/valentino/
 ---
 <p>He was and continues to be one of the greatest representatives of Italian elegance in the world even after his official retirement from the catwalks. Always sober, never predictable, his clothes are among the most recognizable and among the most adored by the stars of the "old" and "new" generation. If we were to associate a color with a person we would have no doubts: <strong>red is definitely Valentino</strong>.</p>
 <p>Let's discover all the secrets and virtues of the man and the stylist personification of <em>charm</em>: <strong>Valentino Garavani</strong>.</p>

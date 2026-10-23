@@ -13,6 +13,10 @@ lang: en
 locale: en
 tr: tradotto
 tr_hash: 482iyh
+permalink: /en/magazine/what-are-giorgio-armani-s-clothing-lines/
+redirect_from:
+  - /en/en/magazine/quali-sono-le-linee-di-abbigliamento-di-giorgio-armani/
+  - /en/magazine/quali-sono-le-linee-di-abbigliamento-di-giorgio-armani/
 ---
 <p>Giorgio Armani is one of the most famous and prestigious names in the world of fashion. Its elegant and refined style has won over millions of customers around the world, including celebrities, politicians and influential personalities. But what are Giorgio Armani's clothing lines? What are the characteristics and differences between the various collections of the brand? In this article, we will try to answer these questions by analyzing Giorgio Armani's main clothing lines.</p>
 

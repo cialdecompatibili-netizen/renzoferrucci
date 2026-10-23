@@ -14,6 +14,10 @@ lang: en
 locale: en
 tr: tradotto
 tr_hash: 1hwdsnv
+permalink: /en/designers/stilisti-italiani/gianni-versace/
+redirect_from:
+  - /en/en/stilisti/stilisti-italiani/gianni-versace/
+  - /en/stilisti/stilisti-italiani/gianni-versace/
 ---
 <p>Gianni Versace was one of the biggest names in Italian fashion in the world, as well as the founder of the Versace fashion house. Considered one of the most innovative designers in the history of fashion, Versace has been able to combine art, culture, music and theater in his creations, giving life to a unique and recognizable aesthetic. His premature death, which occurred on 15 July 1997 at the hands of a serial killer, left an unfillable void in the international fashion scene.</p>
 

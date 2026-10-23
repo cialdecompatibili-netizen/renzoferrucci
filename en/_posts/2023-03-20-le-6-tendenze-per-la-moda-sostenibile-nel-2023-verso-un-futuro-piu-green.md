@@ -13,6 +13,10 @@ lang: en
 locale: en
 tr: tradotto
 tr_hash: yc8rur
+permalink: /en/trends/the-6-trends-for-sustainable-fashion-in-2023-towards-a-greener-future/
+redirect_from:
+  - /en/en/trend/le-6-tendenze-per-la-moda-sostenibile-nel-2023-verso-un-futuro-piu-green/
+  - /en/trend/le-6-tendenze-per-la-moda-sostenibile-nel-2023-verso-un-futuro-piu-green/
 ---
 <p>In recent years, sustainable fashion has become increasingly important for consumers and the clothing industry. With a greater focus on environmental impact and social responsibility, more and more brands are looking to adopt sustainable practices and reduce the environmental impact of clothing production. In 2023, there will be some major trends in sustainable fashion that will define the future of the apparel industry. In this article, we will explore the 6 trends for sustainable fashion, offering an overview of the latest news in sustainable fashion and showing how attention to the environment will increasingly be at the center of the clothing industry.</p>
 

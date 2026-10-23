@@ -14,6 +14,10 @@ lang: en
 locale: en
 tr: tradotto
 tr_hash: 285i
+permalink: /en/fashion-houses/giorgio-armani-s-p-a/
+redirect_from:
+  - /en/en/case-di-moda/armani-spa/
+  - /en/case-di-moda/armani-spa/
 ---
 <p><strong>To every sovereign his kingdom</strong>. The "king" of Made in Italy in the world is no exception to this rule, <a href="{{ '/stilisti/stilisti-italiani/giorgio-armani/' | relative_url }}" target="_blank" rel="noopener">Giorgio Armani</a> who together with Sergio Galeotti founded <strong>Giorgio Armani S.p.A.</strong>, a company operating in the field of fashion, luxury and design.</p>
 <p>Since its foundation in 1975, Armani's company has contributed to launching <em>made in Italy</em> in the world, expanding its already vast field of action over the years. From clothing to perfumes, from furnishing accessories to watches up to the restaurant sector, there is no high level service that the group headed by the designer from Piacenza does not offer to an <strong>exclusive clientele</strong>, who love to pamper themselves at any cost.</p>

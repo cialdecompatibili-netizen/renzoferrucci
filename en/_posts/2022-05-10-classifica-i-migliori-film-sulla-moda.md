@@ -14,6 +14,10 @@ lang: en
 locale: en
 tr: tradotto
 tr_hash: 2pfx30
+permalink: /en/rankings/ranking-the-best-fashion-films/
+redirect_from:
+  - /en/en/classifiche/classifica-i-migliori-film-sulla-moda/
+  - /en/classifiche/classifica-i-migliori-film-sulla-moda/
 ---
 <p><strong>Cinema </strong>and <strong>fashion</strong> have always been linked by an indissoluble thread. After all, each parade represents a more unique than rare spectacle. The lives of stylists, models and newspaper editors almost seem like authentic <strong> feature films </strong>.</p>
 <p>It is not difficult to imagine, therefore, that the universe of the <strong>Seventh Art</strong> has often drawn from the biographies, anecdotes and sentimental intrigues of the big names of the star system in terms of fashion. However, what are the works that deserve to be viewed at least once by <em>fashion addicts</em>? Let's find out together.</p>

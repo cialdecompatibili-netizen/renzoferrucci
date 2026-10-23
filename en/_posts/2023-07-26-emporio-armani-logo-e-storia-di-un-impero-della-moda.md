@@ -13,6 +13,10 @@ lang: en
 locale: en
 tr: tradotto
 tr_hash: 1oseizr
+permalink: /en/magazine/emporio-armani-logo-and-history-of-a-fashion-empire/
+redirect_from:
+  - /en/en/magazine/emporio-armani-logo-e-storia-di-un-impero-della-moda/
+  - /en/magazine/emporio-armani-logo-e-storia-di-un-impero-della-moda/
 ---
 <p>Milan, late seventies. The kingdom of fashion crowns its king: King George, as he will be nicknamed abroad. With Giorgio Armani, Milan quickly becomes the world capital of fashion, and Made in Italy is no longer just a label: it is now synonymous with elegance, refinement and class. How was this iconic fashion brand born? And where did the idea for that eagle come from? Read on to find out.</p>
 

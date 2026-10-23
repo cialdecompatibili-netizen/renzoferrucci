@@ -14,6 +14,10 @@ lang: en
 locale: en
 tr: tradotto
 tr_hash: 1h2xoic
+permalink: /en/models/emily-ratajkowski/
+redirect_from:
+  - /en/en/modelle/emily-ratajkowski/
+  - /en/modelle/emily-ratajkowski/
 ---
 <p>A beautiful, unscrupulous and feminist woman, <strong>Emily Ratajkowski</strong> is one of the most loved and "clicked" supermodels of the moment.</p>
 <p>The career of the model born in 1991 doesn't just stop at the catwalks. Ratajkowski, in fact, is a welcome presence in many <strong>music videos</strong> and has also started a promising career as an <strong>actress</strong>. His figure is also linked, in spite of himself, to a scandal relating to some of his stolen shots; an unpleasant episode which, however, did not affect its charm or determination.</p>

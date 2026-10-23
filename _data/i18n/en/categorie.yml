@@ -1,0 +1,10 @@
+﻿# Slug delle categorie in inglese (chiave = slug italiano usato nei file). Usato da automation/permalink_lingue.py
+# per creare gli indirizzi dei post tradotti. Per un'altra lingua: copia in _data/i18n/<lang>/categorie.yml.
+stilisti: designers
+case-di-moda: fashion-houses
+moda-e-star: fashion-and-celebrities
+modelle: models
+classifiche: rankings
+fotografi-di-moda: fashion-photographers
+riviste-di-moda: fashion-magazines
+trend: trends

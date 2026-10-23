@@ -14,6 +14,10 @@ lang: en
 locale: en
 tr: tradotto
 tr_hash: 2ugh67
+permalink: /en/magazine/news/naomi-campbell-frequently-asked-questions-and-answers/
+redirect_from:
+  - /en/en/magazine/news/naomi-campbell-domande-e-risposte-frequenti/
+  - /en/magazine/news/naomi-campbell-domande-e-risposte-frequenti/
 ---
 <p>Naomi Campbell is one of the most famous and influential supermodels in the history of fashion. Her beauty, her charisma and her personality have made her a true icon, admired and followed by millions of people around the world. But how much do you really know Naomi Campbell? In this article, we offer you a list of frequently asked questions and answers about his life, his career and his interests. Let's find out together who Naomi Campbell is and why she is the most loved supermodel.</p>
 

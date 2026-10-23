@@ -15,6 +15,10 @@ lang: en
 locale: en
 tr: tradotto
 tr_hash: 1jxhj7q
+permalink: /en/designers/stilisti-italiani/sergio-galeotti/
+redirect_from:
+  - /en/en/stilisti/stilisti-italiani/sergio-galeotti/
+  - /en/stilisti/stilisti-italiani/sergio-galeotti/
 ---
 <h2><span class="ez-toc-section" id="Sergio_Galeotti"></span>Sergio Galeotti<span class="ez-toc-section-end"></span></h2>
 <p><strong>Sergio Galeotti</strong> was a great Italian entrepreneur, best known for being the co-founder of Giorgio Armani together with the famous stylist<strong> <a href="{{ '/stilisti/stilisti-italiani/giorgio-armani/' | relative_url }}">Giorgio Armani</a></strong>. His life and career were characterized by successes and tragic losses, but his name remained inextricably linked to the history of Italian fashion.</p>

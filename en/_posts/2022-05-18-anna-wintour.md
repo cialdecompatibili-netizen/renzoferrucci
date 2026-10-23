@@ -14,6 +14,10 @@ lang: en
 locale: en
 tr: tradotto
 tr_hash: u6hb5b
+permalink: /en/fashion-and-celebrities/anna-wintour/
+redirect_from:
+  - /en/en/moda-e-star/anna-wintour/
+  - /en/moda-e-star/anna-wintour/
 ---
 <p>There are very few public personalities who have become living icons in their sector and if we talk about female style and power then we cannot fail to mention her, the "<strong>devil</strong>" who wears Prada: <strong>Anna Wintour</strong>.</p>
 <p>Director of the renowned monthly <em><a href="{{ '/riviste-di-moda/vogue/' | relative_url }}">Vogue</a></em> since 1988, <strong>Anna Wintour</strong> revolutionized the editorial approach of the magazine, offering her readers a<strong> new vision of fashion</strong> and becoming herself a model of innate class to follow. An aesthetic composure that seems to go hand in hand with an authoritarian character and not inclined to compromise: is it true?</p>

@@ -15,6 +15,10 @@ lang: en
 locale: en
 tr: tradotto
 tr_hash: 19pw7gt
+permalink: /en/rankings/models/ranking-the-highest-paid-models-of-all-time/
+redirect_from:
+  - /en/en/classifiche/modelle/classifica-modelle-piu-pagate-di-sempre/
+  - /en/classifiche/modelle/classifica-modelle-piu-pagate-di-sempre/
 ---
 <p>They are beautiful, popular and highly followed on social networks: they are the <strong>models</strong>, <em>living brands</em> par excellence of every fashion house.</p>
 <p>Over the years the <strong>profession of the top model</strong> has evolved: it is increasingly common to find prima donnas for fashion houses <strong>multitasking personality</strong>, divided between the profession of supermodel and those of actress, singer, designer, television personality.</p>

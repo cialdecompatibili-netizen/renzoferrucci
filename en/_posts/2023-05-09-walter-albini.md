@@ -14,6 +14,10 @@ lang: en
 locale: en
 tr: tradotto
 tr_hash: geklbq
+permalink: /en/designers/stilisti-italiani/walter-albini/
+redirect_from:
+  - /en/en/stilisti/stilisti-italiani/walter-albini/
+  - /en/stilisti/stilisti-italiani/walter-albini/
 ---
 <p>Walter Albini was one of the greatest Italian stylists, considered the pioneer of ready-to-wear and the total look. His vision revolutionized the relationship between fashion and industry, giving life to Made in Italy and the figure of the stylist as creator of style and image. 40 years after his death on 31 May 1983 due to AIDS, his legacy is still alive and a source of inspiration for many.</p>
 

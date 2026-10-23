@@ -14,6 +14,10 @@ lang: en
 locale: en
 tr: tradotto
 tr_hash: 107qdr9
+permalink: /en/fashion-photographers/annie-leibovitz/
+redirect_from:
+  - /en/en/fotografi-di-moda/annie-leibovitz/
+  - /en/fotografi-di-moda/annie-leibovitz/
 ---
 <p>He has photographed just about everyone throughout his still glittering photography career. <strong>Annie Leibovitz</strong> is a master of portraits, capable of giving the viewer real snapshots of life rather than the usual set shots. His style involves a <strong> close collaboration between photographer and model </strong>: a winning approach, capable of translating into true works of art that you never stop admiring.</p>
 <div class="video-shortcode"><iframe title="Annie Leibovitz Teaches Photography | Official Trailer | MasterClass" width="1170" height="658" src="https://www.youtube.com/embed/NFYHfcTyU4M?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>

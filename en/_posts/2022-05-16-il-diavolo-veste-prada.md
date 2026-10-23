@@ -15,6 +15,10 @@ lang: en
 locale: en
 tr: tradotto
 tr_hash: 1n72dh5
+permalink: /en/fashion-and-celebrities/trends/the-devil-wears-prada/
+redirect_from:
+  - /en/en/moda-e-star/trend/il-diavolo-veste-prada/
+  - /en/moda-e-star/trend/il-diavolo-veste-prada/
 ---
 <p>A girl who dreams of becoming a journalist, as intelligent as she is terrible when it comes to looks; a career woman, refined in her tastes but despotic to say the least, without tact or respect for her subordinates. <strong>Two lives destined to collide</strong>, to coexist with each other, to contaminate each other, perhaps. In the background, but not too much, the glossy universe of fashion, between catwalks and fierce competition.</p>
 <p>Explosive ingredients that gave life to one of the most famous and loved "fashion" films in the world: <em><strong>The Devil Wears Prada</strong></em>, based on the novel of the same name by <strong>Lauren Weisberger</strong> with a stellar cast to say the least.</p>

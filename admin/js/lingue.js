@@ -170,7 +170,7 @@ async function lgNuova() {
     if (lyml !== null && !new RegExp('^' + code + ':', 'm').test(lyml)) add({ path: '_data/languages.yml', content: lyml.replace(/\s+$/, '') + '\n' + code + ':\n  name: ' + (LG.names[code] || code.toUpperCase()) + '\n' });
     let cfg = await lgReadPath('_config.yml');
     cfg = cfg.replace(/^languages:.*$/m, 'languages: [' + LG.langs.concat([code]).join(', ') + ']');
-    const scope = '  - scope:\n      path: "' + code + '"\n    values:\n      lang: ' + code + '\n      locale: ' + code + '\n  - scope:\n      path: "' + code + '"\n      type: pages\n    values:\n      layout: single\n  - scope:\n      path: "' + code + '"\n      type: posts\n    values:\n      layout: single\n      permalink: /' + code + '/:categories/:title/\n';
+    const scope = '  - scope:\n      path: "' + code + '"\n    values:\n      lang: ' + code + '\n      locale: ' + code + '\n  - scope:\n      path: "' + code + '"\n      type: pages\n    values:\n      layout: single\n  - scope:\n      path: "' + code + '"\n      type: posts\n    values:\n      layout: single\n      permalink: /:categories/:title/\n';
     cfg = cfg.replace(/^(  # LANG-DEFAULTS[^\r\n]*\r?\n)/m, '$1' + scope);
     add({ path: '_config.yml', content: cfg });
     await lgCommit(entries, 'Multilingua: nuova lingua ' + code + ' clonata da ' + src);

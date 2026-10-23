@@ -14,6 +14,10 @@ lang: en
 locale: en
 tr: tradotto
 tr_hash: 4fwt3v
+permalink: /en/magazine/news/autumn-2023-fashion-colours-fabrics-and-accessories-not-to-be-missed/
+redirect_from:
+  - /en/en/magazine/news/moda-autunno-2023-colori-tessuti-e-accessori-da-non-perdere/
+  - /en/magazine/news/moda-autunno-2023-colori-tessuti-e-accessori-da-non-perdere/
 ---
 <p>Autumn is upon us and with it the desire to renew our wardrobe with the most popular garments and accessories of the season. But what are the autumn 2023 fashion trends that we cannot ignore? Which colours, fabrics and styles will make us feel in step with the times and with our personality? In this article we reveal everything you need to know about the fashion news of autumn 2023, from the catwalks to the shop windows, to always be at the top.</p>
 

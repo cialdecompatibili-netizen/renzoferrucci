@@ -13,6 +13,10 @@ lang: en
 locale: en
 tr: tradotto
 tr_hash: 1vd2cc3
+permalink: /en/designers/yves-saint-laurent/
+redirect_from:
+  - /en/en/stilisti/yves-saint-laurent/
+  - /en/stilisti/yves-saint-laurent/
 ---
 <p>Yves Saint Laurent was one of the greatest and most influential designers of the 20th century, capable of transforming fashion into art and giving women new freedom and confidence through his clothes. Born in Algeria in 1936, he moved to Paris at 18 to follow his passion for drawing and couture. Here he joined the prestigious fashion house Dior, of which he became artistic director after the death of the founder. In 1962, together with his partner and partner Pierre Bergé, he launched his eponymous brand, which marked the history of fashion with its innovative and original collections.</p>
 <p>In this article, we will retrace the life and works of Yves Saint Laurent, his sources of inspiration, his muses, his iconic pieces and his legacy in the world of fashion.</p>

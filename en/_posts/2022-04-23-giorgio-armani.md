@@ -15,6 +15,10 @@ lang: en
 locale: en
 tr: tradotto
 tr_hash: 1x9t1f5
+permalink: /en/designers/stilisti-italiani/giorgio-armani/
+redirect_from:
+  - /en/en/stilisti/stilisti-italiani/giorgio-armani/
+  - /en/stilisti/stilisti-italiani/giorgio-armani/
 ---
 <p>For all of us he is simply the “<strong>king</strong>“:<strong>&nbsp;Giorgio Armani</strong> is one of the greatest representatives of <em>made in Italy</em> in the world. His clothes perfectly fit the bodies of models and the most famous film and music stars; its perfumes are among the most coveted by women and men who love to surprise with elegance; his "empire" is not only thriving for himself and his employees, but also for the important <strong>social causes</strong> that the designer and entrepreneur embraces with passion.</p>
 <p>Luxury, grace, humanitarian commitment: let's discover together the <strong> thousand faces of the "king" Giorgio Armani</strong>.</p>

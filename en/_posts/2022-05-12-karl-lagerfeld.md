@@ -13,6 +13,10 @@ lang: en
 locale: en
 tr: tradotto
 tr_hash: onam8q
+permalink: /en/designers/karl-lagerfeld/
+redirect_from:
+  - /en/en/stilisti/karl-lagerfeld/
+  - /en/stilisti/karl-lagerfeld/
 ---
 <p>"<em>I remember a designer who claimed that only intelligent women wore her clothes. Naturally she failed</em>".</p>
 <p><em>"L for <strong>Lsd</strong>. Not the psychedelic substance, but his publishing house: Lagerfeld, Steidl, Druckerei Verlag. He also found time to be an editor. And he enjoyed underlining the curious similarity between the two acronyms."</em></p>
