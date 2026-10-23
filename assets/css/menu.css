@@ -153,12 +153,12 @@ a.nv__dd-item.active, a.nv__dd-item.active:visited, a.nv__dd-item.active:hover {
 .nv__toggle:hover .nv__bar--mid { width: 22px; }
 @media (max-width: 767.98px) {
   .nv__brand { order: 0; }
-  .nv__toggle { order: 1; margin-left: auto; }
-  .nv__cart { order: 2; margin-left: 0; }
+  .nv__toggle { order: 2; margin-left: 0; }
+  .nv__cart { order: 1; margin-left: auto; }
   .nv__panel { order: 3; }
 }
-.nv--compact .nv__toggle { order: 1; margin-left: auto; }
-.nv--compact .nv__cart { order: 2; margin-left: 0; }
+.nv--compact .nv__toggle { order: 2; margin-left: 0; }
+.nv--compact .nv__cart { order: 1; margin-left: auto; }
 .nv--compact .nv__panel { order: 3; }
 /* Pulsante lingua: solo bandierina, senza codice IT/EN */
 .nv__lang-btn .nv__lang-code { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; }
