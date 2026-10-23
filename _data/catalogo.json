@@ -21,98 +21,106 @@
     {
       "tipo": "fisico",
       "id": "giove",
-      "nome": "Giove – Giacca doppiopetto in cashmere",
+      "nome": "Aventino – Giacca doppiopetto in cashmere",
       "categoria": "uomo",
       "prezzo_centesimi": 249000,
-      "descrizione": "Il re degli dei in una giacca doppiopetto: cashmere e seta, linea scolpita.",
-      "descrizione_completa": "Giacca doppiopetto in cashmere e seta, spalla morbida e fodera in bemberg. Tagliata a mano in Italia, bottoni in corno. Una presenza autorevole, mai ostentata.",
+      "descrizione": "Collezione Giove · Il re degli dei in una giacca doppiopetto: cashmere e seta, linea scolpita. Made in Rome.",
+      "descrizione_completa": "Collezione Giove.\nGiacca doppiopetto in cashmere e seta, spalla morbida e fodera in bemberg. Tagliata a mano in Italia, bottoni in corno. Una presenza autorevole, mai ostentata.\nTagliato e cucito a Roma: la sartoria romana incontra una linea contemporanea, pulita, senza tempo.",
       "immagine": "assets/images/products/giove.jpg",
       "icona": "",
-      "visibile": true
+      "visibile": true,
+      "collezione": "Giove"
     },
     {
       "tipo": "fisico",
       "id": "marte",
-      "nome": "Marte – Camicia in lino sabbia",
+      "nome": "Testaccio – Camicia in lino sabbia",
       "categoria": "uomo",
       "prezzo_centesimi": 42000,
-      "descrizione": "Lino europeo lavato a pietra, colletto morbido, carattere deciso.",
-      "descrizione_completa": "Camicia in puro lino europeo lavato a pietra, colletto morbido non foderato, madreperla naturale. Fresca, essenziale, sempre elegante.",
+      "descrizione": "Collezione Giove · Lino europeo lavato a pietra, colletto morbido, carattere deciso. Made in Rome.",
+      "descrizione_completa": "Collezione Giove.\nCamicia in puro lino europeo lavato a pietra, colletto morbido non foderato, madreperla naturale. Fresca, essenziale, sempre elegante.\nTagliato e cucito a Roma: la sartoria romana incontra una linea contemporanea, pulita, senza tempo.",
       "immagine": "assets/images/products/marte.jpg",
       "icona": "",
-      "visibile": true
+      "visibile": true,
+      "collezione": "Giove"
     },
     {
       "tipo": "fisico",
       "id": "mercurio",
-      "nome": "Mercurio – Sneaker in pelle",
+      "nome": "Monti – Sneaker in pelle di vitello",
       "categoria": "uomo",
       "prezzo_centesimi": 69000,
-      "descrizione": "Leggera e veloce come il messaggero degli dei: pelle di vitello, suola in gomma.",
-      "descrizione_completa": "Sneaker low-top in pelle di vitello morbida, suola in gomma cucita a mano, interno in pelle. Pensata per muoversi veloce, con stile.",
+      "descrizione": "Collezione Vulcano · Leggera e veloce come il messaggero degli dei: pelle di vitello, suola in gomma. Made in Rome.",
+      "descrizione_completa": "Collezione Vulcano.\nSneaker low-top in pelle di vitello morbida, suola in gomma cucita a mano, interno in pelle. Pensata per muoversi veloce, con stile.\nTagliato e cucito a Roma: la sartoria romana incontra una linea contemporanea, pulita, senza tempo.",
       "immagine": "assets/images/products/mercurio.jpg",
       "icona": "",
-      "visibile": true
+      "visibile": true,
+      "collezione": "Vulcano"
     },
     {
       "tipo": "fisico",
       "id": "saturno",
-      "nome": "Saturno – Cappotto in lana",
+      "nome": "Flaminia – Cappotto lungo in lana double-face",
       "categoria": "uomo",
       "prezzo_centesimi": 189000,
-      "descrizione": "Il cappotto lungo per l'inverno: lana vergine doppia, anello d'argento nel taglio.",
-      "descrizione_completa": "Cappotto lungo in lana vergine double-face, cuciture a mano, interno in seta. Un classico senza tempo per le stagioni fredde.",
+      "descrizione": "Collezione Giove · Il cappotto lungo per l'inverno: lana vergine doppia, anello d'argento nel taglio. Made in Rome.",
+      "descrizione_completa": "Collezione Giove.\nCappotto lungo in lana vergine double-face, cuciture a mano, interno in seta. Un classico senza tempo per le stagioni fredde.\nTagliato e cucito a Roma: la sartoria romana incontra una linea contemporanea, pulita, senza tempo.",
       "immagine": "assets/images/products/saturno.jpg",
       "icona": "",
-      "visibile": true
+      "visibile": true,
+      "collezione": "Giove"
     },
     {
       "tipo": "fisico",
       "id": "apollo",
-      "nome": "Apollo – Polo in seta e cotone",
+      "nome": "Pincio – Polo in seta e cotone",
       "categoria": "uomo",
       "prezzo_centesimi": 46000,
-      "descrizione": "Luce dorata e trama fine: polo a maniche corte in seta e cotone.",
-      "descrizione_completa": "Polo in maglia di seta e cotone extra-fine, bordi a costine, finitura satinata. Per le giornate di sole, dentro e fuori città.",
+      "descrizione": "Collezione Giove · Luce dorata e trama fine: polo a maniche corte in seta e cotone. Made in Rome.",
+      "descrizione_completa": "Collezione Giove.\nPolo in maglia di seta e cotone extra-fine, bordi a costine, finitura satinata. Per le giornate di sole, dentro e fuori città.\nTagliato e cucito a Roma: la sartoria romana incontra una linea contemporanea, pulita, senza tempo.",
       "immagine": "assets/images/products/apollo.jpg",
       "icona": "",
-      "visibile": true
+      "visibile": true,
+      "collezione": "Giove"
     },
     {
       "tipo": "fisico",
       "id": "venere",
-      "nome": "Venere – Abito midi in seta",
+      "nome": "Trastevere – Abito midi in seta",
       "categoria": "donna",
       "prezzo_centesimi": 185000,
-      "descrizione": "Seta fluida, scollo morbido, lunghezza midi: l'eleganza dell'amore.",
-      "descrizione_completa": "Abito midi in crêpe di seta, drappeggio sul fianco, scollo a V profondo. Cucito in Italia, perfetto dal giorno alla sera.",
+      "descrizione": "Collezione Venere · Seta fluida, scollo morbido, lunghezza midi: l'eleganza dell'amore. Made in Rome.",
+      "descrizione_completa": "Collezione Venere.\nAbito midi in crêpe di seta, drappeggio sul fianco, scollo a V profondo. Cucito in Italia, perfetto dal giorno alla sera.\nTagliato e cucito a Roma: la sartoria romana incontra una linea contemporanea, pulita, senza tempo.",
       "immagine": "assets/images/products/venere.jpg",
       "icona": "",
-      "visibile": true
+      "visibile": true,
+      "collezione": "Venere"
     },
     {
       "tipo": "fisico",
       "id": "diana",
-      "nome": "Diana – Blazer sartoriale",
+      "nome": "Parioli – Blazer sartoriale in lana fresca",
       "categoria": "donna",
       "prezzo_centesimi": 129000,
-      "descrizione": "Il blazer della cacciatrice: linea netta, spalla strutturata, lana leggera.",
-      "descrizione_completa": "Blazer monopetto in lana fresca, spalla strutturata, vita segnata. Sartoria italiana per chi sa dove vuole arrivare.",
+      "descrizione": "Collezione Venere · Il blazer della cacciatrice: linea netta, spalla strutturata, lana leggera. Made in Rome.",
+      "descrizione_completa": "Collezione Venere.\nBlazer monopetto in lana fresca, spalla strutturata, vita segnata. Sartoria italiana per chi sa dove vuole arrivare.\nTagliato e cucito a Roma: la sartoria romana incontra una linea contemporanea, pulita, senza tempo.",
       "immagine": "assets/images/products/diana.jpg",
       "icona": "",
-      "visibile": true
+      "visibile": true,
+      "collezione": "Venere"
     },
     {
       "tipo": "fisico",
       "id": "aurora",
-      "nome": "Aurora – Blusa in seta",
+      "nome": "Borgo – Blusa in seta lavata",
       "categoria": "donna",
       "prezzo_centesimi": 52000,
-      "descrizione": "I colori dell'alba in una blusa in seta lavata, morbida e luminosa.",
-      "descrizione_completa": "Blusa in seta lavata, bottoni in madreperla, polsi morbidi. Un capo versatile, da portare sotto il blazer o da sola.",
+      "descrizione": "Collezione Venere · I colori dell'alba in una blusa in seta lavata, morbida e luminosa. Made in Rome.",
+      "descrizione_completa": "Collezione Venere.\nBlusa in seta lavata, bottoni in madreperla, polsi morbidi. Un capo versatile, da portare sotto il blazer o da sola.\nTagliato e cucito a Roma: la sartoria romana incontra una linea contemporanea, pulita, senza tempo.",
       "immagine": "assets/images/products/aurora.jpg",
       "icona": "",
-      "visibile": true
+      "visibile": true,
+      "collezione": "Venere"
     },
     {
       "tipo": "fisico",
@@ -124,79 +132,86 @@
       "descrizione_completa": "Collezione Giunone.\nCappotto con cintura in puro cammello, spalla scesa e lunghezza midi. Fodera in seta, bottoni in corno.\nTagliato e cucito a Roma: la sartoria romana incontra una linea contemporanea, pulita, senza tempo.\nComposizione: 100% cammello. Fodera: 100% seta.",
       "immagine": "assets/images/products/appia.jpg",
       "icona": "",
-      "visibile": true
+      "visibile": true,
+      "collezione": "Giunone"
     },
     {
       "tipo": "fisico",
       "id": "vesta",
-      "nome": "Vesta – Abito lungo da sera",
+      "nome": "Gianicolo – Abito lungo in raso di seta",
       "categoria": "donna",
       "prezzo_centesimi": 295000,
-      "descrizione": "Il fuoco sacro di Roma in un abito lungo: raso di seta, schiena scoperta.",
-      "descrizione_completa": "Abito lungo in raso di seta, schiena scoperta, spacco laterale. Per le sere in cui servono luce e carattere.",
+      "descrizione": "Collezione Venere · Il fuoco sacro di Roma in un abito lungo: raso di seta, schiena scoperta. Made in Rome.",
+      "descrizione_completa": "Collezione Venere.\nAbito lungo in raso di seta, schiena scoperta, spacco laterale. Per le sere in cui servono luce e carattere.\nTagliato e cucito a Roma: la sartoria romana incontra una linea contemporanea, pulita, senza tempo.",
       "immagine": "assets/images/products/vesta.jpg",
       "icona": "",
-      "visibile": true
+      "visibile": true,
+      "collezione": "Venere"
     },
     {
       "tipo": "fisico",
       "id": "nettuno",
-      "nome": "Nettuno – Foulard in seta blu",
+      "nome": "Tevere – Foulard in twill di seta blu",
       "categoria": "accessori",
       "prezzo_centesimi": 29000,
-      "descrizione": "Onde di blu profondo: foulard in twill di seta, bordi rullati a mano.",
-      "descrizione_completa": "Foulard 90x90 in twill di seta stampato a mano, bordi rullati. Un accessorio che cambia ogni look.",
+      "descrizione": "Collezione Nettuno · Onde di blu profondo: foulard in twill di seta, bordi rullati a mano. Made in Rome.",
+      "descrizione_completa": "Collezione Nettuno.\nFoulard 90x90 in twill di seta stampato a mano, bordi rullati. Un accessorio che cambia ogni look.\nTagliato e cucito a Roma: la sartoria romana incontra una linea contemporanea, pulita, senza tempo.",
       "immagine": "assets/images/products/nettuno.jpg",
       "icona": "",
-      "visibile": true
+      "visibile": true,
+      "collezione": "Nettuno"
     },
     {
       "tipo": "fisico",
       "id": "plutone",
-      "nome": "Plutone – Borsa in pelle nera",
+      "nome": "Capitolino – Borsa in pelle pieno fiore",
       "categoria": "accessori",
       "prezzo_centesimi": 235000,
-      "descrizione": "Nera come l'oltretomba, preziosa come un tesoro: borsa strutturata in pelle.",
-      "descrizione_completa": "Borsa a mano in pelle di vitello pieno fiore, chiusura in metallo satinato, interno in camoscio. Pochi pezzi, numerati.",
+      "descrizione": "Collezione Vulcano · Nera come l'oltretomba, preziosa come un tesoro: borsa strutturata in pelle. Made in Rome.",
+      "descrizione_completa": "Collezione Vulcano.\nBorsa a mano in pelle di vitello pieno fiore, chiusura in metallo satinato, interno in camoscio. Pochi pezzi, numerati.\nTagliato e cucito a Roma: la sartoria romana incontra una linea contemporanea, pulita, senza tempo.",
       "immagine": "assets/images/products/plutone.jpg",
       "icona": "",
-      "visibile": true
+      "visibile": true,
+      "collezione": "Vulcano"
     },
     {
       "tipo": "fisico",
       "id": "luna",
-      "nome": "Luna – Pochette in satin",
+      "nome": "Pantheon – Pochette in satin di seta",
       "categoria": "accessori",
       "prezzo_centesimi": 98000,
-      "descrizione": "Piccola luna d'argento: pochette in satin con chiusura gioiello.",
-      "descrizione_completa": "Pochette in satin di seta con chiusura gioiello a forma di mezzaluna, catenina rimovibile. La sera in una mano.",
+      "descrizione": "Collezione Nettuno · Piccola luna d'argento: pochette in satin con chiusura gioiello. Made in Rome.",
+      "descrizione_completa": "Collezione Nettuno.\nPochette in satin di seta con chiusura gioiello a forma di mezzaluna, catenina rimovibile. La sera in una mano.\nTagliato e cucito a Roma: la sartoria romana incontra una linea contemporanea, pulita, senza tempo.",
       "immagine": "assets/images/products/luna.jpg",
       "icona": "",
-      "visibile": true
+      "visibile": true,
+      "collezione": "Nettuno"
     },
     {
       "tipo": "fisico",
       "id": "urano",
-      "nome": "Urano – Occhiali da sole",
+      "nome": "Ripetta – Occhiali da sole in acetato",
       "categoria": "accessori",
       "prezzo_centesimi": 54000,
-      "descrizione": "Montatura in acetato italiano, lenti azzurro cielo: visione limpida.",
-      "descrizione_completa": "Occhiali da sole in acetato italiano fatto a mano, lenti polarizzate con protezione UV400. Fatti per durare.",
+      "descrizione": "Collezione Nettuno · Montatura in acetato italiano, lenti azzurro cielo: visione limpida. Made in Rome.",
+      "descrizione_completa": "Collezione Nettuno.\nOcchiali da sole in acetato italiano fatto a mano, lenti polarizzate con protezione UV400. Fatti per durare.\nTagliato e cucito a Roma: la sartoria romana incontra una linea contemporanea, pulita, senza tempo.",
       "immagine": "assets/images/products/urano.jpg",
       "icona": "",
-      "visibile": true
+      "visibile": true,
+      "collezione": "Nettuno"
     },
     {
       "tipo": "fisico",
       "id": "vulcano",
-      "nome": "Vulcano – Cintura in cuoio",
+      "nome": "Sallustiano – Cintura in cuoio vegetale",
       "categoria": "accessori",
       "prezzo_centesimi": 38000,
-      "descrizione": "Cuoio vegetale conciato in Toscana, fibbia in ottone fuso.",
-      "descrizione_completa": "Cintura in cuoio conciato al vegetale, fibbia in ottone fuso a mano, cuciture a vista. Migliora con gli anni.",
+      "descrizione": "Collezione Vulcano · Cuoio vegetale conciato in Toscana, fibbia in ottone fuso. Made in Rome.",
+      "descrizione_completa": "Collezione Vulcano.\nCintura in cuoio conciato al vegetale, fibbia in ottone fuso a mano, cuciture a vista. Migliora con gli anni.\nTagliato e cucito a Roma: la sartoria romana incontra una linea contemporanea, pulita, senza tempo.",
       "immagine": "assets/images/products/vulcano.jpg",
       "icona": "",
-      "visibile": true
+      "visibile": true,
+      "collezione": "Vulcano"
     }
   ]
 }
