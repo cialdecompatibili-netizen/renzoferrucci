@@ -29,6 +29,9 @@ permalink: /:categories/:title/
 timezone:
 
 collections:
+  negozio:
+    output: true
+    permalink: /negozio/:name/
   products:
     output: false
     permalink: /shop/:name/
@@ -125,3 +128,9 @@ cms_homepage:
 whatsapp: ""
 # Indirizzo del servizio che inoltra il modulo di contatto (worker). Vuoto = il modulo non appare.
 contact_endpoint: ""
+
+# E-commerce (copiato da prodottidigitali). true = accende menu, carrello e script. Solo true accende.
+ecommerce: true
+# Ordini (SMOKE TEST, nessun pagamento): URL dell'Apps Script che scrive nel foglio Google. Vuoto = il pulsante 'Invia richiesta d'ordine' resta spento.
+ordini:
+  tracker: ""

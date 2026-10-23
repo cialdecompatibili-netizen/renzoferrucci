@@ -3,6 +3,7 @@ ref: shop
 layout: single
 title: "Shop"
 permalink: /shop/
+redirect_to: /negozio/
 author_profile: false
 classes: wide
 seo_description: "Lo shop di Renzo Ferrucci apre a breve: collezioni uomo, donna, beauty e living."

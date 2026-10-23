@@ -152,9 +152,22 @@
           {%- endif -%}
         </ul>
       </div>
+      {%- if site.ecommerce == true -%}
+      {%- capture nz_cat -%}{%- for b in site.data.catalogo.prodotti -%}{%- unless b.visibile == false -%}{"id":{{ b.id | jsonify }},"p":{{ b.prezzo_centesimi | default: 0 | jsonify }},"n":{{ b.nome | jsonify }},"t":{{ b.tipo | default: 'fisico' | jsonify }},"u":{{ '/negozio/' | append: b.id | append: '/' | relative_url | jsonify }},"i":{% if b.immagine and b.immagine != '' %}{% if b.immagine contains '://' %}{{ b.immagine | jsonify }}{% else %}{{ '/' | append: b.immagine | relative_url | jsonify }}{% endif %}{% else %}""{% endif %},"e":{{ b.icona | default: '' | jsonify }}},{%- endunless -%}{%- endfor -%}{%- endcapture -%}
+      <div class="nv__cart nv__cart--nz">
+      <div class="nz-cartw">
+                <a id="nz-cart" class="nz-cart" href="{{ '/carrello/' | relative_url }}" data-catalogo="{{ nz_cat | escape }}" aria-label="Carrello">
+                  <svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle cx="9" cy="20" r="1.4"/><circle cx="18" cy="20" r="1.4"/><path d="M2.5 3.5h2.6l2.3 11.2a1.6 1.6 0 0 0 1.6 1.3h8.5a1.6 1.6 0 0 0 1.6-1.2l1.5-6.8H6"/></svg>
+                  <span class="nz-n">(0)</span>
+                </a>
+                <div class="nz-prev" id="nz-prev"></div>
+              </div>
+      </div>
+      {%- else -%}
       <a class="nv__cart" href="{{ lg_home | append: 'shop/' | relative_url }}" aria-label="{% if lg == 'en' %}Cart{% else %}Carrello{% endif %}">
         <svg class="nv__ico" viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M5 8h14l-1 12H6L5 8Z"/><path d="M9 8V6.5a3 3 0 0 1 6 0V8"/></svg>
       </a>
+      {%- endif -%}
     </div>
   </nav>
 </header>

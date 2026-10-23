@@ -1,0 +1,58 @@
+{
+    "_nota":  "DEMO SHOP (pre-ordine, nessun pagamento). Prezzi in centesimi. Fonte UNICA di /negozio/ e delle pagine prodotto. L\u0027id categoria e\u0027 riservato.",
+    "categorie":  [
+                      {
+                          "nome":  "Uomo",
+                          "id":  "uomo",
+                          "icona":  ""
+                      },
+                      {
+                          "nome":  "Donna",
+                          "id":  "donna",
+                          "icona":  ""
+                      },
+                      {
+                          "nome":  "Accessori",
+                          "id":  "accessori",
+                          "icona":  ""
+                      }
+                  ],
+    "prodotti":  [
+                     {
+                         "tipo":  "fisico",
+                         "descrizione":  "Prodotto di prova per testare il negozio.",
+                         "id":  "camicia-demo",
+                         "visibile":  true,
+                         "immagine":  "",
+                         "prezzo_centesimi":  8900,
+                         "categoria":  "uomo",
+                         "icona":  "",
+                         "nome":  "Camicia in cotone (demo)",
+                         "descrizione_completa":  "Prodotto DEMO, solo per test.\nCamicia in cotone, taglio classico.\nPre-ordine: nessun pagamento ora."
+                     },
+                     {
+                         "tipo":  "fisico",
+                         "descrizione":  "Prodotto di prova per testare il negozio.",
+                         "id":  "abito-demo",
+                         "visibile":  true,
+                         "immagine":  "",
+                         "prezzo_centesimi":  19900,
+                         "categoria":  "donna",
+                         "icona":  "",
+                         "nome":  "Abito midi (demo)",
+                         "descrizione_completa":  "Prodotto DEMO, solo per test.\nAbito midi in tessuto leggero.\nPre-ordine: nessun pagamento ora."
+                     },
+                     {
+                         "tipo":  "fisico",
+                         "descrizione":  "Prodotto di prova per testare il negozio.",
+                         "id":  "sciarpa-demo",
+                         "visibile":  true,
+                         "immagine":  "",
+                         "prezzo_centesimi":  5900,
+                         "categoria":  "accessori",
+                         "icona":  "",
+                         "nome":  "Sciarpa in seta (demo)",
+                         "descrizione_completa":  "Prodotto DEMO, solo per test.\nSciarpa in seta stampata.\nPre-ordine: nessun pagamento ora."
+                     }
+                 ]
+}
