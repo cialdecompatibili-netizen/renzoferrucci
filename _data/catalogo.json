@@ -1,58 +1,202 @@
 {
-    "_nota":  "DEMO SHOP (pre-ordine, nessun pagamento). Prezzi in centesimi. Fonte UNICA di /negozio/ e delle pagine prodotto. L\u0027id categoria e\u0027 riservato.",
-    "categorie":  [
-                      {
-                          "nome":  "Uomo",
-                          "id":  "uomo",
-                          "icona":  ""
-                      },
-                      {
-                          "nome":  "Donna",
-                          "id":  "donna",
-                          "icona":  ""
-                      },
-                      {
-                          "nome":  "Accessori",
-                          "id":  "accessori",
-                          "icona":  ""
-                      }
-                  ],
-    "prodotti":  [
-                     {
-                         "tipo":  "fisico",
-                         "descrizione":  "Prodotto di prova per testare il negozio.",
-                         "id":  "camicia-demo",
-                         "visibile":  true,
-                         "immagine":  "",
-                         "prezzo_centesimi":  8900,
-                         "categoria":  "uomo",
-                         "icona":  "",
-                         "nome":  "Camicia in cotone (demo)",
-                         "descrizione_completa":  "Prodotto DEMO, solo per test.\nCamicia in cotone, taglio classico.\nPre-ordine: nessun pagamento ora."
-                     },
-                     {
-                         "tipo":  "fisico",
-                         "descrizione":  "Prodotto di prova per testare il negozio.",
-                         "id":  "abito-demo",
-                         "visibile":  true,
-                         "immagine":  "",
-                         "prezzo_centesimi":  19900,
-                         "categoria":  "donna",
-                         "icona":  "",
-                         "nome":  "Abito midi (demo)",
-                         "descrizione_completa":  "Prodotto DEMO, solo per test.\nAbito midi in tessuto leggero.\nPre-ordine: nessun pagamento ora."
-                     },
-                     {
-                         "tipo":  "fisico",
-                         "descrizione":  "Prodotto di prova per testare il negozio.",
-                         "id":  "sciarpa-demo",
-                         "visibile":  true,
-                         "immagine":  "",
-                         "prezzo_centesimi":  5900,
-                         "categoria":  "accessori",
-                         "icona":  "",
-                         "nome":  "Sciarpa in seta (demo)",
-                         "descrizione_completa":  "Prodotto DEMO, solo per test.\nSciarpa in seta stampata.\nPre-ordine: nessun pagamento ora."
-                     }
-                 ]
+  "_nota": "Catalogo Renzo Ferrucci. Prezzi in centesimi. Fonte UNICA di /negozio/ e delle pagine prodotto. L'id categoria e' riservato.",
+  "categorie": [
+    {
+      "nome": "Uomo",
+      "id": "uomo",
+      "icona": ""
+    },
+    {
+      "nome": "Donna",
+      "id": "donna",
+      "icona": ""
+    },
+    {
+      "nome": "Accessori",
+      "id": "accessori",
+      "icona": ""
+    }
+  ],
+  "prodotti": [
+    {
+      "tipo": "fisico",
+      "id": "giove",
+      "nome": "Giove – Giacca doppiopetto in cashmere",
+      "categoria": "uomo",
+      "prezzo_centesimi": 249000,
+      "descrizione": "Il re degli dei in una giacca doppiopetto: cashmere e seta, linea scolpita.",
+      "descrizione_completa": "Giacca doppiopetto in cashmere e seta, spalla morbida e fodera in bemberg. Tagliata a mano in Italia, bottoni in corno. Una presenza autorevole, mai ostentata.",
+      "immagine": "assets/images/products/giove.jpg",
+      "icona": "",
+      "visibile": true
+    },
+    {
+      "tipo": "fisico",
+      "id": "marte",
+      "nome": "Marte – Camicia in lino sabbia",
+      "categoria": "uomo",
+      "prezzo_centesimi": 42000,
+      "descrizione": "Lino europeo lavato a pietra, colletto morbido, carattere deciso.",
+      "descrizione_completa": "Camicia in puro lino europeo lavato a pietra, colletto morbido non foderato, madreperla naturale. Fresca, essenziale, sempre elegante.",
+      "immagine": "assets/images/products/marte.jpg",
+      "icona": "",
+      "visibile": true
+    },
+    {
+      "tipo": "fisico",
+      "id": "mercurio",
+      "nome": "Mercurio – Sneaker in pelle",
+      "categoria": "uomo",
+      "prezzo_centesimi": 69000,
+      "descrizione": "Leggera e veloce come il messaggero degli dei: pelle di vitello, suola in gomma.",
+      "descrizione_completa": "Sneaker low-top in pelle di vitello morbida, suola in gomma cucita a mano, interno in pelle. Pensata per muoversi veloce, con stile.",
+      "immagine": "assets/images/products/mercurio.jpg",
+      "icona": "",
+      "visibile": true
+    },
+    {
+      "tipo": "fisico",
+      "id": "saturno",
+      "nome": "Saturno – Cappotto in lana",
+      "categoria": "uomo",
+      "prezzo_centesimi": 189000,
+      "descrizione": "Il cappotto lungo per l'inverno: lana vergine doppia, anello d'argento nel taglio.",
+      "descrizione_completa": "Cappotto lungo in lana vergine double-face, cuciture a mano, interno in seta. Un classico senza tempo per le stagioni fredde.",
+      "immagine": "assets/images/products/saturno.jpg",
+      "icona": "",
+      "visibile": true
+    },
+    {
+      "tipo": "fisico",
+      "id": "apollo",
+      "nome": "Apollo – Polo in seta e cotone",
+      "categoria": "uomo",
+      "prezzo_centesimi": 46000,
+      "descrizione": "Luce dorata e trama fine: polo a maniche corte in seta e cotone.",
+      "descrizione_completa": "Polo in maglia di seta e cotone extra-fine, bordi a costine, finitura satinata. Per le giornate di sole, dentro e fuori città.",
+      "immagine": "assets/images/products/apollo.jpg",
+      "icona": "",
+      "visibile": true
+    },
+    {
+      "tipo": "fisico",
+      "id": "venere",
+      "nome": "Venere – Abito midi in seta",
+      "categoria": "donna",
+      "prezzo_centesimi": 185000,
+      "descrizione": "Seta fluida, scollo morbido, lunghezza midi: l'eleganza dell'amore.",
+      "descrizione_completa": "Abito midi in crêpe di seta, drappeggio sul fianco, scollo a V profondo. Cucito in Italia, perfetto dal giorno alla sera.",
+      "immagine": "assets/images/products/venere.jpg",
+      "icona": "",
+      "visibile": true
+    },
+    {
+      "tipo": "fisico",
+      "id": "diana",
+      "nome": "Diana – Blazer sartoriale",
+      "categoria": "donna",
+      "prezzo_centesimi": 129000,
+      "descrizione": "Il blazer della cacciatrice: linea netta, spalla strutturata, lana leggera.",
+      "descrizione_completa": "Blazer monopetto in lana fresca, spalla strutturata, vita segnata. Sartoria italiana per chi sa dove vuole arrivare.",
+      "immagine": "assets/images/products/diana.jpg",
+      "icona": "",
+      "visibile": true
+    },
+    {
+      "tipo": "fisico",
+      "id": "aurora",
+      "nome": "Aurora – Blusa in seta",
+      "categoria": "donna",
+      "prezzo_centesimi": 52000,
+      "descrizione": "I colori dell'alba in una blusa in seta lavata, morbida e luminosa.",
+      "descrizione_completa": "Blusa in seta lavata, bottoni in madreperla, polsi morbidi. Un capo versatile, da portare sotto il blazer o da sola.",
+      "immagine": "assets/images/products/aurora.jpg",
+      "icona": "",
+      "visibile": true
+    },
+    {
+      "tipo": "fisico",
+      "id": "giunone",
+      "nome": "Giunone – Cappotto cammello",
+      "categoria": "donna",
+      "prezzo_centesimi": 219000,
+      "descrizione": "Regale e avvolgente: cappotto in cammello puro, taglio ampio.",
+      "descrizione_completa": "Cappotto oversize in puro cammello, spalla scesa, cintura in tessuto. Calore e morbidezza assoluti, senza tempo.",
+      "immagine": "assets/images/products/giunone.jpg",
+      "icona": "",
+      "visibile": true
+    },
+    {
+      "tipo": "fisico",
+      "id": "vesta",
+      "nome": "Vesta – Abito lungo da sera",
+      "categoria": "donna",
+      "prezzo_centesimi": 295000,
+      "descrizione": "Il fuoco sacro di Roma in un abito lungo: raso di seta, schiena scoperta.",
+      "descrizione_completa": "Abito lungo in raso di seta, schiena scoperta, spacco laterale. Per le sere in cui servono luce e carattere.",
+      "immagine": "assets/images/products/vesta.jpg",
+      "icona": "",
+      "visibile": true
+    },
+    {
+      "tipo": "fisico",
+      "id": "nettuno",
+      "nome": "Nettuno – Foulard in seta blu",
+      "categoria": "accessori",
+      "prezzo_centesimi": 29000,
+      "descrizione": "Onde di blu profondo: foulard in twill di seta, bordi rullati a mano.",
+      "descrizione_completa": "Foulard 90x90 in twill di seta stampato a mano, bordi rullati. Un accessorio che cambia ogni look.",
+      "immagine": "assets/images/products/nettuno.jpg",
+      "icona": "",
+      "visibile": true
+    },
+    {
+      "tipo": "fisico",
+      "id": "plutone",
+      "nome": "Plutone – Borsa in pelle nera",
+      "categoria": "accessori",
+      "prezzo_centesimi": 235000,
+      "descrizione": "Nera come l'oltretomba, preziosa come un tesoro: borsa strutturata in pelle.",
+      "descrizione_completa": "Borsa a mano in pelle di vitello pieno fiore, chiusura in metallo satinato, interno in camoscio. Pochi pezzi, numerati.",
+      "immagine": "assets/images/products/plutone.jpg",
+      "icona": "",
+      "visibile": true
+    },
+    {
+      "tipo": "fisico",
+      "id": "luna",
+      "nome": "Luna – Pochette in satin",
+      "categoria": "accessori",
+      "prezzo_centesimi": 98000,
+      "descrizione": "Piccola luna d'argento: pochette in satin con chiusura gioiello.",
+      "descrizione_completa": "Pochette in satin di seta con chiusura gioiello a forma di mezzaluna, catenina rimovibile. La sera in una mano.",
+      "immagine": "assets/images/products/luna.jpg",
+      "icona": "",
+      "visibile": true
+    },
+    {
+      "tipo": "fisico",
+      "id": "urano",
+      "nome": "Urano – Occhiali da sole",
+      "categoria": "accessori",
+      "prezzo_centesimi": 54000,
+      "descrizione": "Montatura in acetato italiano, lenti azzurro cielo: visione limpida.",
+      "descrizione_completa": "Occhiali da sole in acetato italiano fatto a mano, lenti polarizzate con protezione UV400. Fatti per durare.",
+      "immagine": "assets/images/products/urano.jpg",
+      "icona": "",
+      "visibile": true
+    },
+    {
+      "tipo": "fisico",
+      "id": "vulcano",
+      "nome": "Vulcano – Cintura in cuoio",
+      "categoria": "accessori",
+      "prezzo_centesimi": 38000,
+      "descrizione": "Cuoio vegetale conciato in Toscana, fibbia in ottone fuso.",
+      "descrizione_completa": "Cintura in cuoio conciato al vegetale, fibbia in ottone fuso a mano, cuciture a vista. Migliora con gli anni.",
+      "immagine": "assets/images/products/vulcano.jpg",
+      "icona": "",
+      "visibile": true
+    }
+  ]
 }
