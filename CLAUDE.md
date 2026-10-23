@@ -1,8 +1,10 @@
-# edilextreme4
+﻿# edilextreme4
 
 Sito Jekyll su GitHub Pages: https://cialdecompatibili-netizen.github.io/edilextreme4/
 
 ## Cose che funzionano
+
+- **Menu desktop che sparisce (hamburger su desktop):** succede se qualcosa aggiunto a .nv__inner (carrello, lingua, ricerca) allarga la riga: menu.js > fit() mette .nv--compact. Il carrello del negozio deve restare largo come la sola icona (~40px), contatore = pallino assoluto (menu.css, blocco 'CARRELLO DEL NEGOZIO NEL MENU'). Dopo ogni modifica al menu controllare online a >=1280px e ~1000px che le voci siano in fila.
 - Skill Impeccable (design): installata a livello progetto con `npx --yes impeccable install --providers=claude --scope=project` dalla radice del progetto. I flag evitano le domande interattive. Dopo l'installazione, in Claude Code (anche nella scheda Code di Claude Desktop) lanciare `/impeccable init`.
 - Controllo design senza LLM: `npx impeccable detect --json _layouts _includes index.html` (trova per esempio testo con contrasto sotto 4.5:1).- La home e' fatta di blocchi in `_data/blocks_home.json` (campi id, nome, enabled, html), letti anche dall'admin: modificare solo il contenuto di `html`, mai la struttura. Fare prima un backup e verificare il JSON riletto dopo la scrittura.
 - Se una sessione si interrompe a meta' (limite messaggi), prima di rifare un lavoro controllare cosa e' gia' stato scritto: `read_file` sul file e `git status --short` nella cartella del progetto. Spesso la scrittura e' andata a buon fine e manca solo commit e push.
@@ -62,3 +64,4 @@ FASE 3 FATTA (22/10/2026): automation/traduzioni_sync.py + .github/workflows/tra
 
 ## Slug nelle lingue (23/10/2026)
 - Bug: i post in en/_posts avevano URL /en/en/<categoria italiana>/<titolo italiano>/ (Jekyll aggiunge la cartella 'en' come categoria + permalink con /en/). Ora: scope posts senza /en/ nel permalink (fallback) e automation/permalink_lingue.py scrive in ogni post tradotto permalink: /<lang>/<categoria tradotta>/<titolo-slug>/ + edirect_from dei vecchi URL. Mappa categorie: _data/i18n/<lang>/categorie.yml. Parte anche dal workflow traduzioni.yml. Idempotente: se un post ha gia' permalink non si tocca.
+

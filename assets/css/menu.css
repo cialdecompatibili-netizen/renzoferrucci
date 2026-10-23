@@ -163,3 +163,29 @@ a.nv__dd-item.active, a.nv__dd-item.active:visited, a.nv__dd-item.active:hover {
 /* Pulsante lingua: solo bandierina, senza codice IT/EN */
 .nv__lang-btn .nv__lang-code { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; }
 .nv__lang-btn .nv__flag { margin: 0; }
+
+/* =====================================================================
+   CARRELLO DEL NEGOZIO NEL MENU - STESSA LARGHEZZA DELL'ICONA VECCHIA (23/10/2026)
+   PERCHE' (bug "il menu desktop sparisce quando si aggiunge il negozio"):
+   menu.js > fit() misura la riga: se le voci non ci stanno in una riga mette la classe .nv--compact
+   e il menu diventa hamburger ANCHE su desktop. Il carrello del negozio (.nv__cart--nz > .nz-cartw
+   > .nz-cart) era ~33px piu' largo dell'icona vecchia (doppio padding + testo "(0)" + gap),
+   quanto bastava a far sforare la riga -> menu scomparso.
+   FIX: il carrello deve occupare SOLO l'icona (~40px). Il contatore (0) diventa un
+   pallino sopra l'icona (position:absolute = non occupa larghezza in riga).
+   REGOLA PER IL FUTURO: qualsiasi cosa si aggiunga a .nv__inner (carrello, lingua, ricerca...)
+   NON deve allargare la riga. Dopo ogni modifica al menu: aprire il sito su desktop largo
+   (>=1280px) E a ~1000px e controllare che le voci siano in fila e non compaia l'hamburger.
+   ===================================================================== */
+.nv__cart.nv__cart--nz { padding: 0; }                         /* il padding lo da gia' .nz-cart */
+.nv__cart--nz .nz-cartw { position: relative; }
+.nv__cart--nz .nz-cart { gap: 0; padding: .5rem .55rem; }      /* stessa area cliccabile della vecchia icona */
+.nv__cart--nz .nz-cart svg { width: 22px; height: 22px; }      /* come .nv__ico */
+.nv__cart--nz .nz-cart .nz-n {                                 /* contatore = pallino, fuori dal flusso */
+  position: absolute; top: .15rem; right: .1rem;
+  min-width: 1.05rem; height: 1.05rem; padding: 0 .2rem;
+  border-radius: 999px; background: var(--t-accent, #8a6d3b); color: #fff;
+  font-size: .62rem; line-height: 1.05rem; text-align: center; font-weight: 600;
+}
+/* carrello vuoto: nessun pallino (carrello.js aggiunge .nz-pieno quando c'e' qualcosa) */
+.nv__cart--nz .nz-cart:not(.nz-pieno) .nz-n { display: none; }

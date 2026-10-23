@@ -132,7 +132,8 @@
   function badge(salto) {
     if (!link) return;
     var r = riepilogo(leggi());
-    link.querySelector(".nz-n").textContent = "(" + r.n + ")";
+    // Pallino sopra l'icona del menu: solo il numero (le parentesi allargavano la riga e facevano sparire il menu desktop, vedi menu.css "CARRELLO DEL NEGOZIO NEL MENU")
+      link.querySelector(".nz-n").textContent = String(r.n);
     link.classList.toggle("nz-pieno", r.n > 0);
     link.setAttribute("aria-label", "Carrello: " + r.n + (r.n === 1 ? " prodotto" : " prodotti"));
     anteprima(r);
