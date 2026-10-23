@@ -116,13 +116,13 @@
     },
     {
       "tipo": "fisico",
-      "id": "giunone",
-      "nome": "Giunone – Cappotto cammello",
+      "id": "appia",
+      "nome": "Appia – Cappotto con cintura in puro cammello",
       "categoria": "donna",
       "prezzo_centesimi": 219000,
-      "descrizione": "Regale e avvolgente: cappotto in cammello puro, taglio ampio.",
-      "descrizione_completa": "Cappotto oversize in puro cammello, spalla scesa, cintura in tessuto. Calore e morbidezza assoluti, senza tempo.",
-      "immagine": "assets/images/products/giunone.jpg",
+      "descrizione": "Collezione Giunone · Cappotto avvolgente in puro cammello, linea ampia e cintura in tessuto. Made in Rome.",
+      "descrizione_completa": "Collezione Giunone.\nCappotto con cintura in puro cammello, spalla scesa e lunghezza midi. Fodera in seta, bottoni in corno.\nTagliato e cucito a Roma: la sartoria romana incontra una linea contemporanea, pulita, senza tempo.\nComposizione: 100% cammello. Fodera: 100% seta.",
+      "immagine": "assets/images/products/appia.jpg",
       "icona": "",
       "visibile": true
     },
