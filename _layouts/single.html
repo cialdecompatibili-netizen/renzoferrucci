@@ -52,6 +52,16 @@ layout: default
             </nav>
           </aside>
         {% endif %}
+        {%- comment -%} Copertina articolo (come WordPress): header.teaser in testa all'articolo, adattiva (mai ritagliata, mai oltre la sua dimensione). Saltata se c'e' un hero o se il testo contiene gia' lo stesso file. {%- endcomment -%}
+        {% if page.collection == "posts" and page.header.teaser and page.header.image == nil and page.header.overlay_image == nil %}
+          {% assign cover_file = page.header.teaser | split: "/" | last %}
+          {% unless content contains cover_file %}
+            {% if page.header.teaser contains "://" %}{% assign cover_src = page.header.teaser %}{% else %}{% assign cover_src = page.header.teaser | relative_url %}{% endif %}
+            <figure class="post-cover">
+              <img src="{{ cover_src }}" alt="{{ page.header.teaser_alt | default: page.title | escape }}" decoding="async" fetchpriority="high">
+            </figure>
+          {% endunless %}
+        {% endif %}
         {{ content }}
         {%- comment -%} Pagine servizio: FAQ + dati strutturati, poi blocco CTA finale (WhatsApp, telefono, modulo) {%- endcomment -%}
         {% if page.collection == "servizi" or page.collection == "progetti" %}
