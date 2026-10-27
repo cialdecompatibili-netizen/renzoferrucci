@@ -14,7 +14,7 @@ lang: en
 locale: en
 tr: tradotto
 tr_hash: 2ugh67
-permalink: /en/magazine/news/naomi-campbell-frequently-asked-questions-and-answers/
+permalink: /en/blog/magazine/naomi-campbell-frequently-asked-questions-and-answers/
 redirect_from:
   - /en/en/magazine/news/naomi-campbell-domande-e-risposte-frequenti/
   - /en/magazine/news/naomi-campbell-domande-e-risposte-frequenti/

@@ -3,6 +3,7 @@ ref: giorgio-armani
 layout: single
 title: "Giorgio Armani"
 date: 2022-04-23
+permalink: /blog/stilisti/giorgio-armani/
 excerpt: "Per tutti noi è semplicemente il “re“: Giorgio Armani è uno dei massimi rappresentanti del made in Italy nel mondo. I suoi abiti fasciano perfettamente i corpi delle modelle e delle più blasonate star del cinema e della musica; i suoi profumi sono tra i più ambiti dalle donne e dagli uomini che aman"
 seo_title: "Giorgio Armani"
 seo_description: "Talento, estro, classe: tutto questo e molto altro è incarnato dal lavoro del \"re\" Giorgio Armani. Scopri tutto sulla sua attività"

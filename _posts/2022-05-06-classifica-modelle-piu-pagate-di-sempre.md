@@ -3,6 +3,7 @@ ref: classifica-modelle-piu-pagate-di-sempre
 layout: single
 title: "Classifica: le modelle più pagate di sempre"
 date: 2022-05-06
+permalink: /blog/classifiche/classifica-modelle-piu-pagate-di-sempre/
 excerpt: "Sono bellissime, popolari e seguitissime sui social network: sono le modelle, brand vivente per eccellenza di ogni casa di moda. Negli anni la professione della top model si è evoluta: è sempre più frequente trovare come primedonne per le case di moda personalità multitasking, divise tra la professi"
 seo_title: "Classifica: le modelle più pagate di sempre"
 seo_description: "Amate, seguite e retribuite: quali sono le dieci modelle più pagate di sempre? Scoprilo con l'esclusiva classifica Renzo Pagani!"

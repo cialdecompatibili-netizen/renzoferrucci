@@ -14,7 +14,7 @@ lang: en
 locale: en
 tr: tradotto
 tr_hash: 1jmkcab
-permalink: /en/fashion-houses/designers/the-world-of-chanel-from-its-origins-to-the-latest-trends/
+permalink: /en/blog/fashion-houses/the-world-of-chanel-from-its-origins-to-the-latest-trends/
 redirect_from:
   - /en/en/case-di-moda/stilisti/il-mondo-di-chanel-dalle-origini-alle-ultime-tendenze/
   - /en/case-di-moda/stilisti/il-mondo-di-chanel-dalle-origini-alle-ultime-tendenze/

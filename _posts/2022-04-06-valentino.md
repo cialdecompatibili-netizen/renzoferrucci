@@ -3,6 +3,7 @@ ref: valentino
 layout: single
 title: "Valentino"
 date: 2022-04-06
+permalink: /blog/stilisti/valentino/
 excerpt: "E’ stato e continua ad essere anche dopo il suo ritiro ufficiale dalle passerelle uno dei maggiori rappresentanti dell’eleganza italiana nel mondo. Sempre sobrio, mai scontato, i suoi abiti sono tra i più riconoscibili e tra i più adorati dalle star di “vecchia” e “nuova” generazione. Se dovessimo a"
 seo_title: "Valentino"
 seo_description: "E' uno degli stilisti italiani più amati al mondo: scopri tutti i segreti dell'elegante ed iconico Valentino"

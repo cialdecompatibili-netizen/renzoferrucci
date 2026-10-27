@@ -14,7 +14,7 @@ lang: en
 locale: en
 tr: tradotto
 tr_hash: 107qdr9
-permalink: /en/fashion-photographers/annie-leibovitz/
+permalink: /en/blog/fashion-photographers/annie-leibovitz/
 redirect_from:
   - /en/en/fotografi-di-moda/annie-leibovitz/
   - /en/fotografi-di-moda/annie-leibovitz/

@@ -14,7 +14,7 @@ lang: en
 locale: en
 tr: tradotto
 tr_hash: 12syo0w
-permalink: /en/models/cara-delevingne/
+permalink: /en/blog/models/cara-delevingne/
 redirect_from:
   - /en/en/modelle/cara-delevingne/
   - /en/modelle/cara-delevingne/

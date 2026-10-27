@@ -14,7 +14,7 @@ lang: en
 locale: en
 tr: tradotto
 tr_hash: tvgpsp
-permalink: /en/rankings/trends/the-5-best-apps-for-online-shopping/
+permalink: /en/blog/rankings/the-5-best-apps-for-online-shopping/
 redirect_from:
   - /en/en/classifiche/trend/le-5-migliori-app-per-lo-shopping-online/
   - /en/classifiche/trend/le-5-migliori-app-per-lo-shopping-online/

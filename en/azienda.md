@@ -47,7 +47,7 @@ permalink: /en/azienda/
 <section class="az-grid">
 <div class="az-card"><h2>Shop</h2><p>Men, women, beauty and living: the collections are on their way.</p><a class="az-link" href="{{ '/en/shop/' | relative_url }}">Go to the shop</a></div>
 <div class="az-card"><h2>Journal</h2><p>Designer biographies, stories of the fashion houses, models, photographers, rankings and trends.</p><a class="az-link" href="{{ '/en/blog/' | relative_url }}">Read the Journal</a></div>
-<div class="az-card"><h2>Style</h2><p>An Italian taste, essential and refined, from the garment to the story.</p><a class="az-link" href="{{ '/en/categoria/?cat=stilisti' | relative_url }}">Discover the designers</a></div>
+<div class="az-card"><h2>Style</h2><p>An Italian taste, essential and refined, from the garment to the story.</p><a class="az-link" href="{{ '/en/blog/designers/' | relative_url }}">Discover the designers</a></div>
 </section>
 
 <section class="az-cta">

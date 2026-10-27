@@ -3,6 +3,7 @@ ref: anna-wintour
 layout: single
 title: "Anna Wintour"
 date: 2022-05-18
+permalink: /blog/moda-e-star/anna-wintour/
 excerpt: "Sono davvero poche le personalità pubbliche diventate icone viventi nel proprio settore e se parliamo di stile e potere al femminile allora non possiamo non menzionare lei, il “diavolo” che veste Prada: Anna Wintour. Direttrice del blasonato mensile Vogue dal 1988, Anna Wintour ha rivoluzionato l’im"
 seo_title: "Anna Wintour"
 seo_description: "Amata, odiata, ma mai invisibile: la direttrice di Vogue Anna Wintour è una leggenda vivente della moda. Conosciamola meglio"

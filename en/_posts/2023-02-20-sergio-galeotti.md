@@ -15,7 +15,7 @@ lang: en
 locale: en
 tr: tradotto
 tr_hash: 1jxhj7q
-permalink: /en/designers/stilisti-italiani/sergio-galeotti/
+permalink: /en/blog/designers/sergio-galeotti/
 redirect_from:
   - /en/en/stilisti/stilisti-italiani/sergio-galeotti/
   - /en/stilisti/stilisti-italiani/sergio-galeotti/

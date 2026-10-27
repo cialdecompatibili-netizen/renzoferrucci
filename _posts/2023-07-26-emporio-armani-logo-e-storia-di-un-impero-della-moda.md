@@ -3,6 +3,7 @@ ref: emporio-armani-logo-e-storia-di-un-impero-della-moda
 layout: single
 title: "Emporio Armani: logo e storia di un impero della moda"
 date: 2023-07-26
+permalink: /blog/magazine/emporio-armani-logo-e-storia-di-un-impero-della-moda/
 excerpt: "Milano, fine anni Settanta. Il regno della moda incorona il suo re: Re Giorgio, come verrà soprannominato all’estero. Con Giorgio Armani, Milano diventa rapidamente la capitale mondiale della moda, e il Made in Italy non è più solo un’etichetta: è ora sinonimo di eleganza, raffinatezza e classe. Com"
 seo_title: "Emporio Armani: logo e storia di un impero della moda"
 header:

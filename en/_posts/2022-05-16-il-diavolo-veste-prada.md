@@ -15,7 +15,7 @@ lang: en
 locale: en
 tr: tradotto
 tr_hash: 1n72dh5
-permalink: /en/fashion-and-celebrities/trends/the-devil-wears-prada/
+permalink: /en/blog/fashion-and-celebrities/the-devil-wears-prada/
 redirect_from:
   - /en/en/moda-e-star/trend/il-diavolo-veste-prada/
   - /en/moda-e-star/trend/il-diavolo-veste-prada/

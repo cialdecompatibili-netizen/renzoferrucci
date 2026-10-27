@@ -3,6 +3,7 @@ ref: chiara-ferragni
 layout: single
 title: "Chiara Ferragni"
 date: 2022-04-15
+permalink: /blog/moda-e-star/chiara-ferragni/
 excerpt: "Puoi amarla oppure odiarla, ma sarà difficilissimo ignorarla: Chiara Ferragni è l’influencer per antonomasia. La fashion blogger e designer condivide esistenza pubblica e privata come fosse un libro aperto per i suoi followers, che prendono di mira tutti i profili social della mamma e imprenditrice "
 seo_title: "Chiara Ferragni"
 seo_description: "Chiara Ferragni è la influencer per antonomasia. Scopri segreti e curiosità legati alla sua vita e al suo rapporto con la moda"

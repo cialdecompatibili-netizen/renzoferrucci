@@ -13,7 +13,7 @@ lang: en
 locale: en
 tr: tradotto
 tr_hash: e808gw
-permalink: /en/magazine/ranking-italian-fashion-bloggers-2023/
+permalink: /en/blog/magazine/ranking-italian-fashion-bloggers-2023/
 redirect_from:
   - /en/en/magazine/classifica-fashion-blogger-italiane-2023/
   - /en/magazine/classifica-fashion-blogger-italiane-2023/

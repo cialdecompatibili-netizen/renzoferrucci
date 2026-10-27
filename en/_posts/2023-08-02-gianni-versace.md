@@ -14,7 +14,7 @@ lang: en
 locale: en
 tr: tradotto
 tr_hash: 1hwdsnv
-permalink: /en/designers/stilisti-italiani/gianni-versace/
+permalink: /en/blog/designers/gianni-versace/
 redirect_from:
   - /en/en/stilisti/stilisti-italiani/gianni-versace/
   - /en/stilisti/stilisti-italiani/gianni-versace/

@@ -14,7 +14,7 @@ lang: en
 locale: en
 tr: tradotto
 tr_hash: o4t02m
-permalink: /en/rankings/trends/the-5-most-desired-fashion-brands-of-2023-here-s-what-makes-them-unique/
+permalink: /en/blog/rankings/the-5-most-desired-fashion-brands-of-2023-here-s-what-makes-them-unique/
 redirect_from:
   - /en/en/classifiche/trend/le-5-marche-di-moda-piu-desiderate-del-2023-ecco-cosa-le-rende-uniche/
   - /en/classifiche/trend/le-5-marche-di-moda-piu-desiderate-del-2023-ecco-cosa-le-rende-uniche/

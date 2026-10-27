@@ -14,7 +14,7 @@ lang: en
 locale: en
 tr: tradotto
 tr_hash: 285i
-permalink: /en/fashion-houses/giorgio-armani-s-p-a/
+permalink: /en/blog/fashion-houses/giorgio-armani-s-p-a/
 redirect_from:
   - /en/en/case-di-moda/armani-spa/
   - /en/case-di-moda/armani-spa/

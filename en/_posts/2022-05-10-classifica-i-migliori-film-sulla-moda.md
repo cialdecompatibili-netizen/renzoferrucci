@@ -14,7 +14,7 @@ lang: en
 locale: en
 tr: tradotto
 tr_hash: 2pfx30
-permalink: /en/rankings/ranking-the-best-fashion-films/
+permalink: /en/blog/rankings/ranking-the-best-fashion-films/
 redirect_from:
   - /en/en/classifiche/classifica-i-migliori-film-sulla-moda/
   - /en/classifiche/classifica-i-migliori-film-sulla-moda/

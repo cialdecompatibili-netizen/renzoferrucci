@@ -13,7 +13,7 @@ lang: en
 locale: en
 tr: tradotto
 tr_hash: 482iyh
-permalink: /en/magazine/what-are-giorgio-armani-s-clothing-lines/
+permalink: /en/blog/magazine/what-are-giorgio-armani-s-clothing-lines/
 redirect_from:
   - /en/en/magazine/quali-sono-le-linee-di-abbigliamento-di-giorgio-armani/
   - /en/magazine/quali-sono-le-linee-di-abbigliamento-di-giorgio-armani/

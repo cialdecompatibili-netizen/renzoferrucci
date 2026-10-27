@@ -3,6 +3,7 @@ ref: quali-sono-le-linee-di-abbigliamento-di-walter-albini-2
 layout: single
 title: "Quali sono le linee di abbigliamento di Walter Albini?"
 date: 2025-08-06
+permalink: /blog/magazine/quali-sono-le-linee-di-abbigliamento-di-walter-albini-2/
 excerpt: "Walter Albini ha segnato la nascita del prêt-à-porter italiano con linee iconiche come “Unimax” e la collezione Anagrafe, ridefinendo lo stile totale e ispirando generazioni di designer."
 seo_title: "Quali sono le linee di abbigliamento di Walter Albini?"
 header:

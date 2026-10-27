@@ -3,6 +3,7 @@ ref: armani-spa
 layout: single
 title: "Giorgio Armani S.p.A."
 date: 2022-04-28
+permalink: /blog/case-di-moda/armani-spa/
 excerpt: "Ad ogni sovrano il suo regno. A tale regola non fa eccezione il “re” del made in Italy nel mondo, quel Giorgio Armani che ha fondato assieme a Sergio Galeotti la Giorgio Armani S.p.A., azienda operante nel campo della moda, del lusso e del design. Sin dalla sua fondazione nel 1975 l’azienda di Arman"
 seo_title: "Giorgio Armani S.p.A."
 seo_description: "E' una delle punte di diamante della moda italiana nel mondo: è la Giorgio Armani S.p.A., il regno del sovrano indiscusso del made in Italy"

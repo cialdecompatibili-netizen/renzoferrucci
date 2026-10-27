@@ -13,7 +13,7 @@ lang: en
 locale: en
 tr: tradotto
 tr_hash: 1wd7ar
-permalink: /en/rankings/ranking-the-most-influential-fashion-bloggers-of-2022-in-italy-en/
+permalink: /en/blog/rankings/ranking-the-most-influential-fashion-bloggers-of-2022-in-italy-en/
 redirect_from:
   - /en/en/classifiche/classifica-i-fashion-blogger-piu-influenti-del-2022-in-italia-en/
   - /en/classifiche/classifica-i-fashion-blogger-piu-influenti-del-2022-in-italia-en/

@@ -13,7 +13,7 @@ lang: en
 locale: en
 tr: tradotto
 tr_hash: onam8q
-permalink: /en/designers/karl-lagerfeld/
+permalink: /en/blog/designers/karl-lagerfeld/
 redirect_from:
   - /en/en/stilisti/karl-lagerfeld/
   - /en/stilisti/karl-lagerfeld/

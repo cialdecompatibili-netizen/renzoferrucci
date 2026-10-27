@@ -14,7 +14,7 @@ lang: en
 locale: en
 tr: tradotto
 tr_hash: geklbq
-permalink: /en/designers/stilisti-italiani/walter-albini/
+permalink: /en/blog/designers/walter-albini/
 redirect_from:
   - /en/en/stilisti/stilisti-italiani/walter-albini/
   - /en/stilisti/stilisti-italiani/walter-albini/

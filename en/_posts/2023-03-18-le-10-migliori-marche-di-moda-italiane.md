@@ -14,7 +14,7 @@ lang: en
 locale: en
 tr: tradotto
 tr_hash: 2090wy
-permalink: /en/fashion-houses/rankings/the-10-best-italian-fashion-brands/
+permalink: /en/blog/fashion-houses/the-10-best-italian-fashion-brands/
 redirect_from:
   - /en/en/case-di-moda/classifiche/le-10-migliori-marche-di-moda-italiane/
   - /en/case-di-moda/classifiche/le-10-migliori-marche-di-moda-italiane/

@@ -13,7 +13,7 @@ lang: en
 locale: en
 tr: tradotto
 tr_hash: yc8rur
-permalink: /en/trends/the-6-trends-for-sustainable-fashion-in-2023-towards-a-greener-future/
+permalink: /en/blog/trends/the-6-trends-for-sustainable-fashion-in-2023-towards-a-greener-future/
 redirect_from:
   - /en/en/trend/le-6-tendenze-per-la-moda-sostenibile-nel-2023-verso-un-futuro-piu-green/
   - /en/trend/le-6-tendenze-per-la-moda-sostenibile-nel-2023-verso-un-futuro-piu-green/

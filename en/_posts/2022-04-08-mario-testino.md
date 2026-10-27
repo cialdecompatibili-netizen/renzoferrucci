@@ -14,7 +14,7 @@ lang: en
 locale: en
 tr: tradotto
 tr_hash: o0a6hw
-permalink: /en/fashion-photographers/mario-testino/
+permalink: /en/blog/fashion-photographers/mario-testino/
 redirect_from:
   - /en/en/fotografi-di-moda/mario-testino/
   - /en/fotografi-di-moda/mario-testino/

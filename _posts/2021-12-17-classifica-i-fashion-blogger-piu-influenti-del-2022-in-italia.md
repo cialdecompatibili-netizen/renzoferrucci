@@ -3,6 +3,7 @@ ref: classifica-i-fashion-blogger-piu-influenti-del-2022-in-italia
 layout: single
 title: "Classifica: i fashion blogger più influenti del 2022 in Italia"
 date: 2021-12-17
+permalink: /blog/classifiche/classifica-i-fashion-blogger-piu-influenti-del-2022-in-italia/
 excerpt: "Quello del fashion blogger non è un hobby, ma è un lavoro vero e proprio! Vi proponiamo una lista delle persone che hanno fatto della propria passione una professione. Cominciamo dalle figure più influenti nel mondo dell’alta moda e presentiamole una alla volta in ordine di popolarità. Chiara Ferrag"
 seo_title: "Classifica: i fashion blogger più influenti del 2022 in Italia"
 header:

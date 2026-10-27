@@ -142,7 +142,8 @@ share: false
       {% if post.categories.size > 0 %}
       <div class="blog-cats">
         {% for cat in post.categories limit:2 %}
-        <a href="{{ '/categories/#' | prepend: site.baseurl }}{{ cat | slugify }}" class="blog-cat">{{ cat }}</a>
+        {%- assign cp = site.pages | where: "categoria", cat | where: "lang", post.lang | first %}
+        <a href="{% if cp %}{{ cp.url | relative_url }}{% else %}{{ '/blog/' | relative_url }}{% endif %}" class="blog-cat">{% if cp %}{{ cp.title }}{% else %}{{ cat }}{% endif %}</a>
         {% endfor %}
       </div>
       {% endif %}

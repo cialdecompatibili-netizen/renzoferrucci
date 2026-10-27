@@ -14,7 +14,7 @@ lang: en
 locale: en
 tr: tradotto
 tr_hash: 4fjn44
-permalink: /en/fashion-and-celebrities/achille-lauro/
+permalink: /en/blog/fashion-and-celebrities/achille-lauro/
 redirect_from:
   - /en/en/moda-e-star/achille-lauro/
   - /en/moda-e-star/achille-lauro/

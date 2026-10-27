@@ -3,6 +3,7 @@ ref: riccardo-gay-model-management
 layout: single
 title: "Riccardo Gay Model Management"
 date: 2023-07-27
+permalink: /blog/magazine/riccardo-gay-model-management/
 excerpt: "La storia di Riccardo Gay Model Management Riccardo Gay Model Management nasce negli anni ’60 a Milano, per opera di Riccardo Gay, un visionario imprenditore che ha intuito il potenziale delle modelle italiane nel panorama mondiale. Riccardo Gay ha iniziato la sua attività selezionando e formando gi"
 seo_title: "Riccardo Gay Model Management"
 header:

@@ -3,6 +3,7 @@ ref: il-diavolo-veste-prada
 layout: single
 title: "Il diavolo veste Prada"
 date: 2022-05-16
+permalink: /blog/moda-e-star/il-diavolo-veste-prada/
 excerpt: "Una ragazza che sogna di diventare giornalista, tanto intelligente quanto pessima in fatto di look; una donna in carriera, raffinata nei gusti ma a dir poco dispotica, senza tatto né rispetto per i suoi sottoposti. Due vite destinate a scontrarsi, a convivere tra loro, a contaminarsi, forse. Sullo s"
 seo_title: "Il diavolo veste Prada"
 seo_description: "Tratto dal romanzo di Lauren Weisberger, Il diavolo veste Prada è considerato un film cult per gli amanti della moda. Nel cast Meryl Streep"

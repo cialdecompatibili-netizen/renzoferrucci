@@ -14,7 +14,7 @@ lang: en
 locale: en
 tr: tradotto
 tr_hash: cb0hsh
-permalink: /en/fashion-and-celebrities/chiara-ferragni/
+permalink: /en/blog/fashion-and-celebrities/chiara-ferragni/
 redirect_from:
   - /en/en/moda-e-star/chiara-ferragni/
   - /en/moda-e-star/chiara-ferragni/

@@ -15,7 +15,7 @@ lang: en
 locale: en
 tr: tradotto
 tr_hash: 19pw7gt
-permalink: /en/rankings/models/ranking-the-highest-paid-models-of-all-time/
+permalink: /en/blog/rankings/ranking-the-highest-paid-models-of-all-time/
 redirect_from:
   - /en/en/classifiche/modelle/classifica-modelle-piu-pagate-di-sempre/
   - /en/classifiche/modelle/classifica-modelle-piu-pagate-di-sempre/

@@ -14,7 +14,7 @@ lang: en
 locale: en
 tr: tradotto
 tr_hash: 1h2xoic
-permalink: /en/models/emily-ratajkowski/
+permalink: /en/blog/models/emily-ratajkowski/
 redirect_from:
   - /en/en/modelle/emily-ratajkowski/
   - /en/modelle/emily-ratajkowski/

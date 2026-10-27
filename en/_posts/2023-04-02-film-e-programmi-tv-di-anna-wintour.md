@@ -13,7 +13,7 @@ lang: en
 locale: en
 tr: tradotto
 tr_hash: 1c9rikw
-permalink: /en/fashion-and-celebrities/anna-wintour-movies-and-tv-shows/
+permalink: /en/blog/fashion-and-celebrities/anna-wintour-movies-and-tv-shows/
 redirect_from:
   - /en/en/moda-e-star/film-e-programmi-tv-di-anna-wintour/
   - /en/moda-e-star/film-e-programmi-tv-di-anna-wintour/

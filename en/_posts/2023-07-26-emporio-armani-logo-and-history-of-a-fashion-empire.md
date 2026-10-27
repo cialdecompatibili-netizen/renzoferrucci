@@ -13,7 +13,7 @@ lang: en
 locale: en
 tr: tradotto
 tr_hash: 1ojxpnf
-permalink: /en/fashion-house/emporio-armani-logo-and-history-of-a-fashion-empire/
+permalink: /en/blog/fashion-house/emporio-armani-logo-and-history-of-a-fashion-empire/
 redirect_from:
   - /en/en/fashion-house/emporio-armani-logo-and-history-of-a-fashion-empire/
   - /en/fashion-house/emporio-armani-logo-and-history-of-a-fashion-empire/

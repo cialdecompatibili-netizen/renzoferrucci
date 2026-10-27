@@ -3,6 +3,7 @@ ref: mario-testino
 layout: single
 title: "Mario Testino"
 date: 2022-04-08
+permalink: /blog/fotografi-di-moda/mario-testino/
 excerpt: "E’ ritenuto a ragion veduta uno dei massimi esponenti della fotografia di moda in vita. Con i suoi intensi scatti di modelle, influencer e VIP Mario Testino ha donato un tocco innovativo ad un genere, quello della fotografia di moda, spesso ritenuto “rigido”, forse noioso, erroneamente legato ad alc"
 seo_title: "Mario Testino"
 seo_description: "E' considerato uno dei massimi esponenti viventi della fotografia di moda: è Mario Testino, artista amato dalle star"

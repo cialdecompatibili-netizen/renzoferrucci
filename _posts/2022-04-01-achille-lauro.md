@@ -3,6 +3,7 @@ ref: achille-lauro
 layout: single
 title: "Achille Lauro"
 date: 2022-04-01
+permalink: /blog/moda-e-star/achille-lauro/
 excerpt: "Istrionico, eccentrico, unico: signore e signori, ecco Achille Lauro! Il popolare cantante di Domenica e Rolls Royce non stupisce solo i suoi fan per le sue canzoni dai testi provocatori e per la sua vena eclettica che spazia dall’hip hop americano ai Beatles passando per Vasco Rossi, ma cattura l’a"
 seo_title: "Achille Lauro"
 seo_description: "Non solo musicista, ma autentica icona di stile. Quali sono le influenze in ambito fashion di Achille Lauro? Scopriamolo insieme"

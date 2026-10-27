@@ -14,7 +14,7 @@ lang: en
 locale: en
 tr: tradotto
 tr_hash: 4fwt3v
-permalink: /en/magazine/news/autumn-2023-fashion-colours-fabrics-and-accessories-not-to-be-missed/
+permalink: /en/blog/magazine/autumn-2023-fashion-colours-fabrics-and-accessories-not-to-be-missed/
 redirect_from:
   - /en/en/magazine/news/moda-autunno-2023-colori-tessuti-e-accessori-da-non-perdere/
   - /en/magazine/news/moda-autunno-2023-colori-tessuti-e-accessori-da-non-perdere/

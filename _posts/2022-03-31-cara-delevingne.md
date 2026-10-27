@@ -3,6 +3,7 @@ ref: cara-delevingne
 layout: single
 title: "Cara Delevingne"
 date: 2022-03-31
+permalink: /blog/modelle/cara-delevingne/
 excerpt: ""
 seo_title: "Cara Delevingne"
 seo_description: "Modella, attrice, icona di bellezza. Conosci davvero tutto sulla poliedrica Cara Delevingne? Mettiti alla prova!"

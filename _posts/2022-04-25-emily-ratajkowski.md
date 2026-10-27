@@ -3,6 +3,7 @@ ref: emily-ratajkowski
 layout: single
 title: "Emily Ratajkowski"
 date: 2022-04-25
+permalink: /blog/modelle/emily-ratajkowski/
 excerpt: "Donna bellissima, spregiudicata e femminista, Emily Ratajkowski è una delle supermodelle più amate e “cliccate” del momento. La carriera della modella classe 1991 non si ferma solo alle passerelle. La Ratajkowski, infatti, è presenza gradita in moltissimi videoclip musicali e ha avviato anche una pr"
 seo_title: "Emily Ratajkowski"
 seo_description: "Bella, seducente, mentalmente aperta: Emily Ratajkowski è una delle supermodelle più ricercate del momento. Scopriamone segreti e virtù"

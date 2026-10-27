@@ -3,6 +3,7 @@ ref: gianni-versace
 layout: single
 title: "Gianni Versace"
 date: 2023-08-02
+permalink: /blog/stilisti/gianni-versace/
 excerpt: "Gianni Versace è stato uno dei più grandi nomi della moda italiana nel mondo, nonché il fondatore della casa di moda Versace. Considerato uno degli stilisti più innovativi nella storia della moda, Versace ha saputo combinare arte, cultura, musica e teatro nelle sue creazioni, dando vita a un’estetic"
 seo_title: "Gianni Versace"
 header:

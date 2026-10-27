@@ -15,7 +15,7 @@ lang: en
 locale: en
 tr: tradotto
 tr_hash: 1x9t1f5
-permalink: /en/designers/stilisti-italiani/giorgio-armani/
+permalink: /en/blog/designers/giorgio-armani/
 redirect_from:
   - /en/en/stilisti/stilisti-italiani/giorgio-armani/
   - /en/stilisti/stilisti-italiani/giorgio-armani/

@@ -13,7 +13,7 @@ lang: en
 locale: en
 tr: tradotto
 tr_hash: 1filtfl
-permalink: /en/rankings/ranking-most-influential-italian-designers-in-history/
+permalink: /en/blog/rankings/ranking-most-influential-italian-designers-in-history/
 redirect_from:
   - /en/en/classifiche/classifica-stilisti-italiani-piu-influenti-della-storia/
   - /en/classifiche/classifica-stilisti-italiani-piu-influenti-della-storia/

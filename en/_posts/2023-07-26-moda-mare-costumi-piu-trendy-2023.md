@@ -13,7 +13,7 @@ lang: en
 locale: en
 tr: tradotto
 tr_hash: 1bfdfi6
-permalink: /en/magazine/beachwear-the-trendiest-swimsuits-of-2023/
+permalink: /en/blog/magazine/beachwear-the-trendiest-swimsuits-of-2023/
 redirect_from:
   - /en/en/magazine/moda-mare-costumi-piu-trendy-2023/
   - /en/magazine/moda-mare-costumi-piu-trendy-2023/

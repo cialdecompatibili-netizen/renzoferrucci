@@ -3,6 +3,7 @@ ref: yves-saint-laurent
 layout: single
 title: "Yves Saint Laurent"
 date: 2023-08-09
+permalink: /blog/stilisti/yves-saint-laurent/
 excerpt: "Yves Saint Laurent è stato uno dei più grandi e influenti stilisti del XX secolo, capace di trasformare la moda in arte e di dare alle donne una nuova libertà e sicurezza attraverso i suoi abiti. Nato in Algeria nel 1936, si trasferì a Parigi a 18 anni per seguire la sua passione per il"
 seo_title: "Yves Saint Laurent"
 header:

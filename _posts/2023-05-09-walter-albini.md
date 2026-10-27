@@ -3,6 +3,7 @@ ref: walter-albini
 layout: single
 title: "Walter Albini"
 date: 2023-05-09
+permalink: /blog/stilisti/walter-albini/
 excerpt: "Walter Albini è stato uno dei più grandi stilisti italiani, considerato il pioniere del prêt-à-porter e del look totale. La sua visione ha rivoluzionato il rapporto tra moda e industria, dando vita al Made in Italy e alla figura dello stilista come creatore di stile e immagine. A 40 anni dalla sua s"
 seo_title: "Walter Albini"
 header:

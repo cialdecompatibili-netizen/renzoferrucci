@@ -3,6 +3,7 @@ ref: classifica-stilisti-italiani-piu-influenti-della-storia
 layout: single
 title: "Classifica: stilisti italiani più influenti della storia"
 date: 2023-07-23
+permalink: /blog/classifiche/classifica-stilisti-italiani-piu-influenti-della-storia/
 excerpt: "L’Italia è famosa nel mondo per la sua arte, la sua cultura e la sua moda. Molti stilisti italiani hanno lasciato il segno nella storia del fashion system, creando collezioni iconiche e innovando lo stile e il gusto del vestire. In questo articolo vogliamo presentarti una classifica dei stilisti ita"
 seo_title: "Classifica: stilisti italiani più influenti della storia"
 header:

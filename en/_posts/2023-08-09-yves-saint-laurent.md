@@ -13,7 +13,7 @@ lang: en
 locale: en
 tr: tradotto
 tr_hash: 1vd2cc3
-permalink: /en/designers/yves-saint-laurent/
+permalink: /en/blog/designers/yves-saint-laurent/
 redirect_from:
   - /en/en/stilisti/yves-saint-laurent/
   - /en/stilisti/yves-saint-laurent/

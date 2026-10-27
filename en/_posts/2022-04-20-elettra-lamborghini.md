@@ -14,7 +14,7 @@ lang: en
 locale: en
 tr: tradotto
 tr_hash: ubixt
-permalink: /en/fashion-and-celebrities/elettra-lamborghini/
+permalink: /en/blog/fashion-and-celebrities/elettra-lamborghini/
 redirect_from:
   - /en/en/moda-e-star/elettra-lamborghini/
   - /en/moda-e-star/elettra-lamborghini/

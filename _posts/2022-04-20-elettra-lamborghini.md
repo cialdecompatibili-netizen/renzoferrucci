@@ -3,6 +3,7 @@ ref: elettra-lamborghini
 layout: single
 title: "Elettra Lamborghini"
 date: 2022-04-20
+permalink: /blog/moda-e-star/elettra-lamborghini/
 excerpt: "E’ si un’ereditiera, ma incredibilmente simpatica e spiritosa. Elettra Lamborghini è una star dalle mille sfaccettature, amata da grandi e piccini non tanto per le sue doti canore (tanto massacrate dai critici del settore, nonostante le sue hit siano ballate ed ascoltate in tutta Italia) quanto per "
 seo_title: "Elettra Lamborghini"
 seo_description: "Una donna, mille sfaccettature: scopri tutto su Elettra Lamborghini, ereditiera e star del piccolo schermo"

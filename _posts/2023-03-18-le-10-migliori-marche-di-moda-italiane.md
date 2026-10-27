@@ -3,6 +3,7 @@ ref: le-10-migliori-marche-di-moda-italiane
 layout: single
 title: "Le 10 migliori marche di moda italiane"
 date: 2023-03-18
+permalink: /blog/case-di-moda/le-10-migliori-marche-di-moda-italiane/
 excerpt: "La moda italiana è conosciuta in tutto il mondo per la sua eleganza, il suo stile unico e la sua alta qualità. L’industria della moda italiana è una delle più importanti e influenti al mondo, grazie alla sua capacità di creare tendenze che durano nel tempo e di trasformare gli abiti in veri e propri"
 seo_title: "Le 10 migliori marche di moda italiane"
 header:

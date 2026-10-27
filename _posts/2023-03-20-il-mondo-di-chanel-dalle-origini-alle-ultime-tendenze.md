@@ -3,6 +3,7 @@ ref: il-mondo-di-chanel-dalle-origini-alle-ultime-tendenze
 layout: single
 title: "Il mondo di Chanel: dalle origini alle ultime tendenze"
 date: 2023-03-20
+permalink: /blog/case-di-moda/il-mondo-di-chanel-dalle-origini-alle-ultime-tendenze/
 excerpt: "Chanel è una delle case di moda più iconiche al mondo, conosciuta per il suo stile unico ed elegante che ha rivoluzionato il mondo della moda. Fondata a Parigi nel 1910 dalla stilista francese Gabrielle “Coco” Chanel, l’azienda è diventata sinonimo di alta moda, profumi e accessori di lusso. Le orig"
 seo_title: "Il mondo di Chanel: dalle origini alle ultime tendenze"
 header:

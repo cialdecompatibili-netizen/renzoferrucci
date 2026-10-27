@@ -13,7 +13,7 @@ lang: en
 locale: en
 tr: tradotto
 tr_hash: bcfsct
-permalink: /en/rankings/ranking-most-influential-fashion-bloggers-of-2023/
+permalink: /en/blog/rankings/ranking-most-influential-fashion-bloggers-of-2023/
 redirect_from:
   - /en/en/classifiche/classifica-fashion-blogger-piu-influenti-del-2023/
   - /en/classifiche/classifica-fashion-blogger-piu-influenti-del-2023/

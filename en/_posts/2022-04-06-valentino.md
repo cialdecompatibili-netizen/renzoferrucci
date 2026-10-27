@@ -15,7 +15,7 @@ lang: en
 locale: en
 tr: tradotto
 tr_hash: 1wszbui
-permalink: /en/designers/stilisti-italiani/valentino/
+permalink: /en/blog/designers/valentino/
 redirect_from:
   - /en/en/stilisti/stilisti-italiani/valentino/
   - /en/stilisti/stilisti-italiani/valentino/

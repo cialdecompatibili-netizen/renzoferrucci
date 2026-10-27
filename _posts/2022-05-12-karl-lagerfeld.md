@@ -3,6 +3,7 @@ ref: karl-lagerfeld
 layout: single
 title: "Karl Lagerfeld"
 date: 2022-05-12
+permalink: /blog/stilisti/karl-lagerfeld/
 excerpt: "“Mi ricordo una stilista che sosteneva che soltanto le donne intelligenti portavano i suoi vestiti. Naturalmente è fallita“. “L come Lsd. Non la sostanza psichedelica, ma la sua casa editrice: Lagerfeld, Steidl, Druckerei Verlag. Trovava il tempo di fare anche l’editore. E si divertiva a sottolinear"
 seo_title: "Karl Lagerfeld"
 header:

@@ -14,7 +14,7 @@ lang: en
 locale: en
 tr: tradotto
 tr_hash: 1p9eqav
-permalink: /en/rankings/ranking-the-5-italian-fashion-bloggers-to-follow-in-2023/
+permalink: /en/blog/rankings/ranking-the-5-italian-fashion-bloggers-to-follow-in-2023/
 redirect_from:
   - /en/en/classifiche/classifica-5-fashion-blogger-italiane-da-seguire-nel-2023/
   - /en/classifiche/classifica-5-fashion-blogger-italiane-da-seguire-nel-2023/

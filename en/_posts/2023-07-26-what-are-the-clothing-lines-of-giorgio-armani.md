@@ -13,7 +13,7 @@ lang: en
 locale: en
 tr: tradotto
 tr_hash: ylan5d
-permalink: /en/magazine/what-are-the-clothing-lines-of-giorgio-armani/
+permalink: /en/blog/magazine/what-are-the-clothing-lines-of-giorgio-armani/
 redirect_from:
   - /en/en/magazine/what-are-the-clothing-lines-of-giorgio-armani/
   - /en/magazine/what-are-the-clothing-lines-of-giorgio-armani/

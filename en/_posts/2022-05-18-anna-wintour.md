@@ -14,7 +14,7 @@ lang: en
 locale: en
 tr: tradotto
 tr_hash: u6hb5b
-permalink: /en/fashion-and-celebrities/anna-wintour/
+permalink: /en/blog/fashion-and-celebrities/anna-wintour/
 redirect_from:
   - /en/en/moda-e-star/anna-wintour/
   - /en/moda-e-star/anna-wintour/

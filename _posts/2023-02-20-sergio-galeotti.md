@@ -3,6 +3,7 @@ ref: sergio-galeotti
 layout: single
 title: "Sergio Galeotti"
 date: 2023-02-20
+permalink: /blog/stilisti/sergio-galeotti/
 excerpt: "Sergio Galeotti Sergio Galeotti è stato un grande imprenditore italiano, noto soprattutto per essere stato il co-fondatore di Giorgio Armani insieme al celebre stilista Giorgio Armani. La sua vita e la sua carriera sono state caratterizzate da successi e tragiche perdite, ma il suo nome è rimasto le"
 seo_title: "Sergio Galeotti"
 seo_description: "Esplora la vita e l’eredità di Sergio Galeotti, co-fondatore di Armani, e scopri come ha rivoluzionato il mondo della moda con il suo stile unico e la sua visione imprenditoriale."

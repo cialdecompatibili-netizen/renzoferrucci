@@ -43,7 +43,7 @@ seo_description: "Renzo Ferrucci: moda e lusso italiano. Abbigliamento, beauty e
 <section class="az-grid">
 <div class="az-card"><h2>Shop</h2><p>Uomo, donna, beauty e living: le collezioni stanno per arrivare.</p><a class="az-link" href="{{ '/shop/' | relative_url }}">Vai allo shop</a></div>
 <div class="az-card"><h2>Journal</h2><p>Biografie di stilisti, storie delle maison, modelle, fotografi, classifiche e tendenze.</p><a class="az-link" href="{{ '/blog/' | relative_url }}">Leggi il Journal</a></div>
-<div class="az-card"><h2>Stile</h2><p>Un gusto italiano, essenziale e curato, dal capo al racconto.</p><a class="az-link" href="{{ '/categoria/?cat=stilisti' | relative_url }}">Scopri gli stilisti</a></div>
+<div class="az-card"><h2>Stile</h2><p>Un gusto italiano, essenziale e curato, dal capo al racconto.</p><a class="az-link" href="{{ '/blog/stilisti/' | relative_url }}">Scopri gli stilisti</a></div>
 </section>
 
 <section class="az-cta">

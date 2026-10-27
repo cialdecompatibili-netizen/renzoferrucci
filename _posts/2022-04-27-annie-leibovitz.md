@@ -3,6 +3,7 @@ ref: annie-leibovitz
 layout: single
 title: "Annie Leibovitz"
 date: 2022-04-27
+permalink: /blog/fotografi-di-moda/annie-leibovitz/
 excerpt: "Ha fotografato praticamente tutti lungo la sua ancora scintillante carriera da fotografa. Annie Leibovitz è maestra dei ritratti, capace di regalare allo spettatore delle vere e proprie istantanee di vita anziché i soliti scatti impostati. Il suo stile prevede una collaborazione stretta tra fotograf"
 seo_title: "Annie Leibovitz"
 seo_description: "Ogni suo scatto è un'istantanea di vita. Annie Leibovitz è una delle fotografe di moda più amate e richieste dalle grandi star: scopri perché"

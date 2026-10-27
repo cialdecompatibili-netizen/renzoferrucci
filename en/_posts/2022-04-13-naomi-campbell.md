@@ -14,7 +14,7 @@ lang: en
 locale: en
 tr: tradotto
 tr_hash: 1opxh8k
-permalink: /en/models/naomi-campbell/
+permalink: /en/blog/models/naomi-campbell/
 redirect_from:
   - /en/en/modelle/naomi-campbell/
   - /en/modelle/naomi-campbell/

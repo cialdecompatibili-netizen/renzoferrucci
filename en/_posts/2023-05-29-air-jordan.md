@@ -13,7 +13,7 @@ lang: en
 locale: en
 tr: tradotto
 tr_hash: slo37z
-permalink: /en/fashion-houses/air-jordan/
+permalink: /en/blog/fashion-houses/air-jordan/
 redirect_from:
   - /en/en/case-di-moda/air-jordan/
   - /en/case-di-moda/air-jordan/

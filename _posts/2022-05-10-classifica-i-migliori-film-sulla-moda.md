@@ -3,6 +3,7 @@ ref: classifica-i-migliori-film-sulla-moda
 layout: single
 title: "Classifica: i migliori film di moda"
 date: 2022-05-10
+permalink: /blog/classifiche/classifica-i-migliori-film-sulla-moda/
 excerpt: "Cinema e moda sono da sempre legate da un filo indissolubile. Del resto, ogni sfilata rappresenta uno spettacolo più unico che raro. Le vite di stilisti, modelle, direttori di testate sembrano quasi degli autentici lungometraggi. Non è difficile immaginare, quindi, che l’universo della Settima Arte "
 seo_title: "Classifica: i migliori film di moda"
 seo_description: "Cinema e moda sono legati da un legame indissolubile. Scopriamo assieme quali sono le migliori pellicole legate a questo scintillante mondo"

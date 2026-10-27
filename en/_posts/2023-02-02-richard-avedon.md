@@ -13,7 +13,7 @@ lang: en
 locale: en
 tr: tradotto
 tr_hash: 1ye9iys
-permalink: /en/fashion-photographers/richard-avedon/
+permalink: /en/blog/fashion-photographers/richard-avedon/
 redirect_from:
   - /en/en/fotografi-di-moda/richard-avedon/
   - /en/fotografi-di-moda/richard-avedon/

@@ -13,7 +13,7 @@ lang: en
 locale: en
 tr: tradotto
 tr_hash: hfzb9e
-permalink: /en/magazine/what-are-walter-albini-s-clothing-lines/
+permalink: /en/blog/magazine/what-are-walter-albini-s-clothing-lines/
 redirect_from:
   - /en/en/magazine/quali-sono-le-linee-di-abbigliamento-di-walter-albini-2/
   - /en/magazine/quali-sono-le-linee-di-abbigliamento-di-walter-albini-2/

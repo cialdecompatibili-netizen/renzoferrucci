@@ -3,6 +3,7 @@ ref: naomi-campbell
 layout: single
 title: "Naomi Campbell"
 date: 2022-04-13
+permalink: /blog/modelle/naomi-campbell/
 excerpt: "Alzi la mano chi non conosce il volto che si cela dietro lo pseudonimo di Venere Nera! Nonostante gli anni che passano, il carattere sin troppo fumantino e il periodo buio causato dalle dipendenze, Naomi Campbell resta una leggenda vivente delle passerelle italiane ed internazionali. La supermodella"
 seo_title: "Naomi Campbell"
 seo_description: "Alzi la mano chi non conosce Naomi Campbell, la Venere Nera della moda internazionale! Scopri tutto su di lei grazia ella nostra guida"
