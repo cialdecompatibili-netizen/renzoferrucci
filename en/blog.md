@@ -7,7 +7,7 @@ share: false
 ref: blog
 lang: en
 locale: en
-tr: tradotto
+tr: da_aggiornare
 tr_hash: cru942
 permalink: /en/blog/
 ---

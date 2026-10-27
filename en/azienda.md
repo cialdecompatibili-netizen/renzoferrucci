@@ -8,7 +8,7 @@ seo_description: "Renzo Ferrucci: Italian fashion and luxury. Clothing, beauty a
 ref: azienda
 lang: en
 locale: en
-tr: tradotto
+tr: da_aggiornare
 tr_hash: 1jda7xa
 permalink: /en/azienda/
 ---
