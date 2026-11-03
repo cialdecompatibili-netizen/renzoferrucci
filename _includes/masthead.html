@@ -153,7 +153,7 @@
         </ul>
       </div>
       {%- if site.ecommerce == true -%}
-      {%- capture nz_cat -%}{%- for b in site.data.catalogo.prodotti -%}{%- unless b.visibile == false -%}{"id":{{ b.id | jsonify }},"p":{{ b.prezzo_centesimi | default: 0 | jsonify }},"n":{{ b.nome | jsonify }},"t":{{ b.tipo | default: 'fisico' | jsonify }},"u":{{ '/negozio/' | append: b.id | append: '/' | relative_url | jsonify }},"i":{% if b.immagine and b.immagine != '' %}{% if b.immagine contains '://' %}{{ b.immagine | jsonify }}{% else %}{{ '/' | append: b.immagine | relative_url | jsonify }}{% endif %}{% else %}""{% endif %},"e":{{ b.icona | default: '' | jsonify }}},{%- endunless -%}{%- endfor -%}{%- endcapture -%}
+      {%- assign nz_v = site.time | date: '%s' -%}{%- capture nz_cat -%}{%- for b in site.data.catalogo.prodotti -%}{%- unless b.visibile == false -%}{"id":{{ b.id | jsonify }},"p":{{ b.prezzo_centesimi | default: 0 | jsonify }},"n":{{ b.nome | jsonify }},"t":{{ b.tipo | default: 'fisico' | jsonify }},"u":{{ '/negozio/' | append: b.id | append: '/' | relative_url | jsonify }},"i":{% if b.immagine and b.immagine != '' %}{% if b.immagine contains '://' %}{{ b.immagine | jsonify }}{% else %}{{ '/' | append: b.immagine | relative_url | append: '?v=' | append: nz_v | jsonify }}{% endif %}{% else %}""{% endif %},"e":{{ b.icona | default: '' | jsonify }}},{%- endunless -%}{%- endfor -%}{%- endcapture -%}
       <div class="nv__cart nv__cart--nz">
       <div class="nz-cartw">
                 <a id="nz-cart" class="nz-cart" href="{{ '/carrello/' | relative_url }}" data-catalogo="{{ nz_cat | escape }}" aria-label="Carrello">

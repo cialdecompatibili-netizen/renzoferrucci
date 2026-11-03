@@ -1,5 +1,5 @@
 <div class="nz-riga nz-box" data-id="{{ include.b.id }}" data-cat="{{ include.b.categoria }}" data-nome="{{ include.b.nome | escape }}" data-prezzo="{{ include.b.prezzo_centesimi | default: 0 }}" data-tipo="{{ include.b.tipo | default: 'fisico' }}">
-<div class="nz-icona">{% if include.b.immagine and include.b.immagine != '' %}<img src="{% if include.b.immagine contains '://' %}{{ include.b.immagine }}{% else %}{{ '/' | append: include.b.immagine | relative_url }}{% endif %}" alt="" loading="lazy">{% else %}{{ include.b.icona }}{% endif %}</div>
+<div class="nz-icona">{% if include.b.immagine and include.b.immagine != '' %}<img src="{% if include.b.immagine contains '://' %}{{ include.b.immagine }}{% else %}{{ '/' | append: include.b.immagine | relative_url }}?v={{ site.time | date: '%s' }}{% endif %}" alt="" loading="lazy">{% else %}{{ include.b.icona }}{% endif %}</div>
 <div class="nz-testo">
 <p class="nz-cat">{{ include.cat.nome }} &middot; {% if include.b.tipo == 'digitale' %}digitale{% else %}fisico{% endif %}</p>
 <h3><a href="{{ '/negozio/' | append: include.b.id | append: '/' | relative_url }}">{{ include.b.nome }}</a></h3>
