@@ -1,0 +1,21 @@
+{
+  "template": "{aspetto}. Luxury Italian fashion brand catalog photo, photorealistic, real fabric texture, whole item fully visible, no person, no model, no label, no logo, no text, no brand name",
+  "default": "luxury fashion item",
+  "aspetti": {
+    "giove": "men's double-breasted cashmere and silk blazer in navy, ghost mannequin, horn buttons",
+    "marte": "men's sand-colored stone-washed linen shirt, soft collar, mother-of-pearl buttons, ghost mannequin",
+    "mercurio": "men's minimalist white calfskin leather sneakers with rubber sole, single shoe three-quarter view",
+    "saturno": "men's long double-face virgin wool overcoat in charcoal grey, ghost mannequin",
+    "apollo": "men's short-sleeve polo in silk and cotton, warm golden ochre color, ghost mannequin",
+    "venere": "women's midi dress in flowing silk, soft rose color, soft neckline, ghost mannequin",
+    "diana": "women's tailored blazer in light wool, structured shoulders, ivory color, ghost mannequin",
+    "aurora": "women's washed silk blouse in dawn peach and pink tones, ghost mannequin",
+    "appia": "women's wide belted coat in pure camel hair, camel color with fabric belt, ghost mannequin",
+    "vesta": "women's long silk satin evening gown in deep red, ghost mannequin",
+    "nettuno": "deep blue silk twill scarf with hand-rolled edges, elegantly folded",
+    "plutone": "structured black full-grain leather handbag with top handle, three-quarter view",
+    "luna": "small silver silk satin clutch bag with jeweled clasp",
+    "urano": "sunglasses with Italian acetate frame and sky-blue lenses, three-quarter view",
+    "vulcano": "vegetable-tanned leather belt in tan brown with cast brass buckle, rolled up"
+  }
+}
