@@ -16,7 +16,7 @@ front matter (layout, title, cid, permalink); i prodotti vengono da _data/catalo
 <div class="nz-pills"><a class="nz-cpill" href="{{ '/negozio/' | relative_url }}">Tutti</a>
 {%- for c in site.data.catalogo.categorie -%}
 {%- assign nz_n = site.data.catalogo.prodotti | where: 'categoria', c.id | where_exp: 'x', 'x.visibile != false' | size -%}
-{%- if nz_n > 0 %}
+{%- if nz_n > 0 and c.id != 'accessori' %}
 <a class="nz-cpill{% if c.id == nz_k.id %} on{% endif %}" href="{{ '/negozio/categoria/' | append: c.id | append: '/' | relative_url }}">{{ c.icona }} {{ c.nome }}</a>
 {%- endif -%}
 {%- endfor %}
