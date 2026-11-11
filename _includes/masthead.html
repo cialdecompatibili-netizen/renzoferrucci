@@ -129,6 +129,16 @@
             Strumenti a destra: ricerca del tema (+ carrello inserito da head/custom.html).
             Togli questo <li> per eliminare la lente. Il carrello sparisce con lei (si appoggia qui).
           {%- endcomment -%}
+          {%- comment -%} CATEGORIE SHOP AUTOMATICHE: ogni categoria di catalogo.json non gia' nel menu (stesso nome) compare da sola, link /shop/#id {%- endcomment -%}
+          {%- if site.ecommerce == true and site.data.catalogo.categorie -%}
+            {%- capture nv_titles -%}|{%- for it in nv_items -%}{{ it.title | downcase }}|{%- endfor -%}{%- endcapture -%}
+            {%- for c in site.data.catalogo.categorie -%}
+              {%- assign c_key = c.nome | downcase | prepend: '|' | append: '|' -%}
+              {%- unless nv_titles contains c_key -%}
+              <li class="nv__item"><a class="nv__link" href="{{ '/shop/#' | append: c.id | relative_url }}">{{ c.nome }}</a></li>
+              {%- endunless -%}
+            {%- endfor -%}
+          {%- endif -%}
           {%- if site.languages.size > 0 -%}
           {%- comment -%} SELETTORE LINGUA: bandiera + tendina. Lingua corrente e link alle traduzioni sono calcolati da assets/js/menu.js (il masthead e' in cache). {%- endcomment -%}
           <li class="nv__item nv__item--dd nv__item--lang" data-lang-base="{{ site.baseurl }}" data-lang-default="{{ site.default_lang }}">
